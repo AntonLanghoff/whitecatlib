@@ -1,0 +1,2 @@
+C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/build/CMakeFiles/png12.dir
+C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/build/CMakeFiles/png12_static.dir

@@ -1,0 +1,23 @@
+Determining if the function fseeko exists failed with the following output:
+Change Dir: C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/zlib-1.2.8/zlib-1.2.8/build/CMakeFiles/CMakeTmp
+
+Run Build Command:C:/MinGW/bin/mingw32-make.exe "cmTryCompileExec3165774414/fast"
+C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTryCompileExec3165774414.dir\build.make CMakeFiles/cmTryCompileExec3165774414.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/zlib-1.2.8/zlib-1.2.8/build/CMakeFiles/CMakeTmp'
+"C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\zlib-1.2.8\zlib-1.2.8\build\CMakeFiles\CMakeTmp\CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3165774414.dir/CheckFunctionExists.c.obj
+C:\MinGW\bin\gcc.exe   -DCHECK_FUNCTION_EXISTS=fseeko   -o CMakeFiles\cmTryCompileExec3165774414.dir\CheckFunctionExists.c.obj   -c "C:\Program Files (x86)\CMake 2.8\share\cmake-2.8\Modules\CheckFunctionExists.c"
+Linking C executable cmTryCompileExec3165774414.exe
+"C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTryCompileExec3165774414.dir\link.txt --verbose=1
+"C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E remove -f CMakeFiles\cmTryCompileExec3165774414.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\cmTryCompileExec3165774414.dir/objects.a @CMakeFiles\cmTryCompileExec3165774414.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe   -DCHECK_FUNCTION_EXISTS=fseeko    -Wl,--whole-archive CMakeFiles\cmTryCompileExec3165774414.dir/objects.a -Wl,--no-whole-archive  -o cmTryCompileExec3165774414.exe -Wl,--out-implib,libcmTryCompileExec3165774414.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
+CMakeFiles\cmTryCompileExec3165774414.dir/objects.a(CheckFunctionExists.c.obj):CheckFunctionExists.c:(.text+0xc): undefined reference to `fseeko'
+collect2.exe: error: ld returned 1 exit status
+CMakeFiles\cmTryCompileExec3165774414.dir\build.make:91: recipe for target 'cmTryCompileExec3165774414.exe' failed
+mingw32-make.exe[1]: *** [cmTryCompileExec3165774414.exe] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/zlib-1.2.8/zlib-1.2.8/build/CMakeFiles/CMakeTmp'
+Makefile:116: recipe for target 'cmTryCompileExec3165774414/fast' failed
+mingw32-make.exe: *** [cmTryCompileExec3165774414/fast] Error 2
+
+

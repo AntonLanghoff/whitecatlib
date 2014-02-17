@@ -1,0 +1,96 @@
+pngwutil.lo pngwutil.o: pngwutil.c pngpriv.h /usr/include/stdlib.h \
+  /usr/include/_ansi.h /usr/include/sys/config.h \
+  /usr/lib/gcc/i686-pc-msys/3.4.4/include/stddef.h \
+  /usr/include/sys/reent.h /usr/include/_ansi.h /usr/include/sys/_types.h \
+  /usr/include/string.h ./config.h pnglibconf.h png.h pngconf.h \
+  /usr/lib/gcc/i686-pc-msys/3.4.4/include/limits.h \
+  /usr/lib/gcc/i686-pc-msys/3.4.4/include/syslimits.h \
+  /usr/include/limits.h /usr/include/stdio.h \
+  /usr/lib/gcc/i686-pc-msys/3.4.4/include/stdarg.h /usr/include/setjmp.h \
+  /usr/include/machine/setjmp.h /usr/include/signal.h \
+  /usr/include/sys/signal.h /usr/include/sys/features.h \
+  /usr/include/sys/types.h /usr/include/machine/types.h \
+  /usr/include/cygwin/types.h /usr/include/time.h \
+  /usr/include/machine/time.h \
+  /usr/lib/gcc/i686-pc-msys/3.4.4/include/float.h /usr/include/math.h \
+  /usr/include/machine/ieeefp.h pngstruct.h /usr/include/zlib.h \
+  /usr/include/zconf.h /usr/include/unistd.h /usr/include/sys/unistd.h \
+  /usr/include/getopt.h pnginfo.h pngdebug.h
+
+pngpriv.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/_ansi.h:
+
+/usr/include/sys/config.h:
+
+/usr/lib/gcc/i686-pc-msys/3.4.4/include/stddef.h:
+
+/usr/include/sys/reent.h:
+
+/usr/include/_ansi.h:
+
+/usr/include/sys/_types.h:
+
+/usr/include/string.h:
+
+./config.h:
+
+pnglibconf.h:
+
+png.h:
+
+pngconf.h:
+
+/usr/lib/gcc/i686-pc-msys/3.4.4/include/limits.h:
+
+/usr/lib/gcc/i686-pc-msys/3.4.4/include/syslimits.h:
+
+/usr/include/limits.h:
+
+/usr/include/stdio.h:
+
+/usr/lib/gcc/i686-pc-msys/3.4.4/include/stdarg.h:
+
+/usr/include/setjmp.h:
+
+/usr/include/machine/setjmp.h:
+
+/usr/include/signal.h:
+
+/usr/include/sys/signal.h:
+
+/usr/include/sys/features.h:
+
+/usr/include/sys/types.h:
+
+/usr/include/machine/types.h:
+
+/usr/include/cygwin/types.h:
+
+/usr/include/time.h:
+
+/usr/include/machine/time.h:
+
+/usr/lib/gcc/i686-pc-msys/3.4.4/include/float.h:
+
+/usr/include/math.h:
+
+/usr/include/machine/ieeefp.h:
+
+pngstruct.h:
+
+/usr/include/zlib.h:
+
+/usr/include/zconf.h:
+
+/usr/include/unistd.h:
+
+/usr/include/sys/unistd.h:
+
+/usr/include/getopt.h:
+
+pnginfo.h:
+
+pngdebug.h:

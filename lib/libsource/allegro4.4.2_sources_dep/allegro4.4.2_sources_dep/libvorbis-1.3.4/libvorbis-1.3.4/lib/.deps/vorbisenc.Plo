@@ -1,0 +1,119 @@
+vorbisenc.lo: vorbisenc.c c:\mingw\include\stdlib.h \
+ c:\mingw\include\_mingw.h c:\mingw\include\sdkddkver.h \
+ c:\mingw\lib\gcc\mingw32\4.8.1\include\stddef.h \
+ c:\mingw\include\string.h c:\mingw\include\math.h \
+ ../include/vorbis/codec.h c:\mingw\include\ogg\ogg.h \
+ c:\mingw\include\ogg\os_types.h c:\mingw\include\sys\types.h \
+ ../include/vorbis/vorbisenc.h ../include/vorbis/codec.h codec_internal.h \
+ envelope.h mdct.h codebook.h psy.h smallft.h backends.h bitrate.h os.h \
+ ../config.h misc.h c:\mingw\include\malloc.h c:\mingw\include\memory.h \
+ highlevel.h modes/setup_44.h modes/floor_all.h backends.h \
+ books/floor/floor_books.h codebook.h modes/residue_44.h \
+ books/coupled/res_books_stereo.h modes/psych_44.h modes/setup_44u.h \
+ modes/residue_44u.h books/uncoupled/res_books_uncoupled.h \
+ modes/setup_44p51.h modes/residue_44p51.h books/coupled/res_books_51.h \
+ modes/setup_32.h modes/setup_8.h modes/psych_8.h modes/residue_8.h \
+ modes/setup_11.h modes/psych_11.h modes/setup_16.h modes/psych_16.h \
+ modes/residue_16.h modes/setup_22.h modes/setup_X.h
+
+c:\mingw\include\stdlib.h:
+
+c:\mingw\include\_mingw.h:
+
+c:\mingw\include\sdkddkver.h:
+
+c:\mingw\lib\gcc\mingw32\4.8.1\include\stddef.h:
+
+c:\mingw\include\string.h:
+
+c:\mingw\include\math.h:
+
+../include/vorbis/codec.h:
+
+c:\mingw\include\ogg\ogg.h:
+
+c:\mingw\include\ogg\os_types.h:
+
+c:\mingw\include\sys\types.h:
+
+../include/vorbis/vorbisenc.h:
+
+../include/vorbis/codec.h:
+
+codec_internal.h:
+
+envelope.h:
+
+mdct.h:
+
+codebook.h:
+
+psy.h:
+
+smallft.h:
+
+backends.h:
+
+bitrate.h:
+
+os.h:
+
+../config.h:
+
+misc.h:
+
+c:\mingw\include\malloc.h:
+
+c:\mingw\include\memory.h:
+
+highlevel.h:
+
+modes/setup_44.h:
+
+modes/floor_all.h:
+
+backends.h:
+
+books/floor/floor_books.h:
+
+codebook.h:
+
+modes/residue_44.h:
+
+books/coupled/res_books_stereo.h:
+
+modes/psych_44.h:
+
+modes/setup_44u.h:
+
+modes/residue_44u.h:
+
+books/uncoupled/res_books_uncoupled.h:
+
+modes/setup_44p51.h:
+
+modes/residue_44p51.h:
+
+books/coupled/res_books_51.h:
+
+modes/setup_32.h:
+
+modes/setup_8.h:
+
+modes/psych_8.h:
+
+modes/residue_8.h:
+
+modes/setup_11.h:
+
+modes/psych_11.h:
+
+modes/setup_16.h:
+
+modes/psych_16.h:
+
+modes/residue_16.h:
+
+modes/setup_22.h:
+
+modes/setup_X.h:

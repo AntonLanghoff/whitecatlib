@@ -1,0 +1,59 @@
+registry.lo: registry.c ../include/vorbis/codec.h \
+ c:\mingw\include\ogg\ogg.h \
+ c:\mingw\lib\gcc\mingw32\4.8.1\include\stddef.h \
+ c:\mingw\include\ogg\os_types.h c:\mingw\include\sys\types.h \
+ c:\mingw\include\_mingw.h c:\mingw\include\sdkddkver.h codec_internal.h \
+ envelope.h mdct.h codebook.h psy.h smallft.h backends.h bitrate.h os.h \
+ ../config.h c:\mingw\include\math.h misc.h c:\mingw\include\malloc.h \
+ c:\mingw\include\stdlib.h c:\mingw\include\memory.h \
+ c:\mingw\include\string.h highlevel.h registry.h
+
+../include/vorbis/codec.h:
+
+c:\mingw\include\ogg\ogg.h:
+
+c:\mingw\lib\gcc\mingw32\4.8.1\include\stddef.h:
+
+c:\mingw\include\ogg\os_types.h:
+
+c:\mingw\include\sys\types.h:
+
+c:\mingw\include\_mingw.h:
+
+c:\mingw\include\sdkddkver.h:
+
+codec_internal.h:
+
+envelope.h:
+
+mdct.h:
+
+codebook.h:
+
+psy.h:
+
+smallft.h:
+
+backends.h:
+
+bitrate.h:
+
+os.h:
+
+../config.h:
+
+c:\mingw\include\math.h:
+
+misc.h:
+
+c:\mingw\include\malloc.h:
+
+c:\mingw\include\stdlib.h:
+
+c:\mingw\include\memory.h:
+
+c:\mingw\include\string.h:
+
+highlevel.h:
+
+registry.h:

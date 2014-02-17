@@ -1,0 +1,3 @@
+C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/openlayer_2.1.orig.tar/openlayer_2.1.orig/openlayermingw/utils/glyphkeeper/CMakeFiles/glyph-agl.dir
+C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/openlayer_2.1.orig.tar/openlayer_2.1.orig/openlayermingw/CMakeFiles/openlayer.dir
+C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/openlayer_2.1.orig.tar/openlayer_2.1.orig/openlayermingw/CMakeFiles/uninstall.dir

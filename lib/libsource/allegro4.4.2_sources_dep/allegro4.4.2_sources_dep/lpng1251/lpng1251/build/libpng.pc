@@ -1,0 +1,10 @@
+prefix=C:/MinGW
+exec_prefix=C:/MinGW
+libdir=C:/MinGW/lib
+includedir=C:/MinGW/include/libpng12
+
+Name: libpng
+Description: Loads and saves PNG files
+Version: 1.2.51
+Libs: -LC:/MinGW/lib -lpng12
+Cflags: -IC:/MinGW/include

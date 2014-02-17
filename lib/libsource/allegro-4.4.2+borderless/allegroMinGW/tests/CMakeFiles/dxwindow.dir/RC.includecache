@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/whitecat_crossplateform/lib/libsource/allegro-4.4.2+borderless/allegro/tests/win/dxwindow.rc
+windows.h
+-
+dxwindow.rh
+C:/whitecat_crossplateform/lib/libsource/allegro-4.4.2+borderless/allegro/tests/win/dxwindow.rh
+
+C:/whitecat_crossplateform/lib/libsource/allegro-4.4.2+borderless/allegro/tests/win/dxwindow.rh
+

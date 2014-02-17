@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe cr ..\..\lib\liblogg.a  CMakeFiles/logg.dir/logg.c.obj
+C:\MinGW\bin\ranlib.exe ..\..\lib\liblogg.a

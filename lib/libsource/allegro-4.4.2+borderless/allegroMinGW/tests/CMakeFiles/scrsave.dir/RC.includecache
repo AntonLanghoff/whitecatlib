@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/whitecat_crossplateform/lib/libsource/allegro-4.4.2+borderless/allegro/tests/win/scrsave.rc
+windows.h
+-
+scrsave.rh
+C:/whitecat_crossplateform/lib/libsource/allegro-4.4.2+borderless/allegro/tests/win/scrsave.rh
+
+C:/whitecat_crossplateform/lib/libsource/allegro-4.4.2+borderless/allegro/tests/win/scrsave.rh
+

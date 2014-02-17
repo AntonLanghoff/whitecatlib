@@ -1,0 +1,15 @@
+--------------------
+./configure --prefix=/c/mingw
+Mon Feb 10 15:39:56 GMT 2014
+Checking for gcc...
+=== ztest5948.c ===
+extern int getchar();
+int hello() {return getchar();}
+===
+gcc -c ztest5948.c
+... using gcc
+Please use win32/Makefile.gcc instead.
+** ./configure aborting.
+--------------------
+
+

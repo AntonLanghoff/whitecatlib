@@ -1,0 +1,13 @@
+ All drivers will be statically linked.
+ Enabled modules: 
+ Disabled modules: dga2 jackdigi sgialdigi artsdigi esddigi alsamidi alsadigi ossmidi ossdigi 
+ Generated code: multithreaded, little endian, i386 asm, MMX, SSE
+ Generated libraries: shared release
+ Compiled programs: dynamically linked release
+ Ignoring compiler warnings.
+ X11 support: disabled
+ Linux console support: disabled
+
+ Warning: the library will not be built with either X11 or Linux console
+          support.  This configuration is useless for most purposes.
+

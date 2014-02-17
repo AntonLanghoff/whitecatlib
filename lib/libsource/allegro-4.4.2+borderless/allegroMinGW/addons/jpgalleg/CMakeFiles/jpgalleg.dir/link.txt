@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe cr ..\..\lib\libjpgalleg.a  CMakeFiles/jpgalleg.dir/src/decode.c.obj CMakeFiles/jpgalleg.dir/src/encode.c.obj CMakeFiles/jpgalleg.dir/src/error.c.obj CMakeFiles/jpgalleg.dir/src/init.c.obj CMakeFiles/jpgalleg.dir/src/io.c.obj CMakeFiles/jpgalleg.dir/src/jpgalleg.c.obj
+C:\MinGW\bin\ranlib.exe ..\..\lib\libjpgalleg.a

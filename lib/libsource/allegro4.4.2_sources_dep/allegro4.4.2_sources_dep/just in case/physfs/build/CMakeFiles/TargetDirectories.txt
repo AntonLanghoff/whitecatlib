@@ -1,0 +1,4 @@
+C:/whitecat_crossplateform/lib/libsource/windowsMinGW/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/physfs/build/CMakeFiles/docs.dir
+C:/whitecat_crossplateform/lib/libsource/windowsMinGW/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/physfs/build/CMakeFiles/physfs.dir
+C:/whitecat_crossplateform/lib/libsource/windowsMinGW/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/physfs/build/CMakeFiles/physfs-static.dir
+C:/whitecat_crossplateform/lib/libsource/windowsMinGW/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/physfs/build/CMakeFiles/test_physfs.dir

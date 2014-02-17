@@ -1,0 +1,7 @@
+C:/MinGW/lib/libzlib.dll.a
+C:/MinGW/bin/libzlib.dll
+C:/MinGW/lib/libzlibstatic.a
+C:/MinGW/include/zconf.h
+C:/MinGW/include/zlib.h
+C:/MinGW/share/man/man3/zlib.3
+C:/MinGW/share/pkgconfig/zlib.pc

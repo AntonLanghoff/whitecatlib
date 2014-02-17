@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/whitecat_crossplateform/lib/libsource/allegro-4.4.2+borderless/allegro/tests/win/dibsound.rc
+windows.h
+-
+dibsound.rh
+C:/whitecat_crossplateform/lib/libsource/allegro-4.4.2+borderless/allegro/tests/win/dibsound.rh
+
+C:/whitecat_crossplateform/lib/libsource/allegro-4.4.2+borderless/allegro/tests/win/dibsound.rh
+

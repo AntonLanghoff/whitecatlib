@@ -1,0 +1,10 @@
+C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1MinGW/demos/CMakeFiles/collisiondemo.dir
+C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1MinGW/demos/CMakeFiles/gamedemo.dir
+C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1MinGW/demos/CMakeFiles/gameloop.dir
+C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1MinGW/utils/glyphkeeper/CMakeFiles/glyph-agl.dir
+C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1MinGW/demos/CMakeFiles/linestripdemo.dir
+C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1MinGW/CMakeFiles/openlayer.dir
+C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1MinGW/demos/CMakeFiles/renderbitmap.dir
+C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1MinGW/demos/CMakeFiles/shapedemo.dir
+C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1MinGW/demos/CMakeFiles/textdemo.dir
+C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1MinGW/CMakeFiles/uninstall.dir

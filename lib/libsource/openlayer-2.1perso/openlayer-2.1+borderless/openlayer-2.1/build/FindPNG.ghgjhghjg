@@ -1,0 +1,51 @@
+# - Find png
+# Find the native png includes and library
+#
+#  PNG_INCLUDE_DIR - where to find png.h, etc.
+#  PNG_LIBRARIES   - List of libraries when using png.
+#  PNG_FOUND       - True if allegro png.
+
+
+IF (PNG_INCLUDE_DIR)
+  # Already in cache, be silent
+  SET(PNG_FIND_QUIETLY TRUE)
+ENDIF (PNG_INCLUDE_DIR)
+
+FIND_PATH(PNG_INCLUDE_DIR png.h
+  /usr/local/include
+  /usr/include
+  $ENV{MINGDIR}/include
+)
+
+if(UNIX AND NOT CYGWIN)
+	exec_program(png-config ARGS --libs OUTPUT_VARIABLE PNG_LIBRARY)
+else(UNIX AND NOT CYGWIN)
+	SET(PNG_NAMES libpng libpng16)
+	FIND_LIBRARY(PNG_LIBRARY
+	NAMES ${PNG_NAMES}
+	PATHS /usr/lib /usr/local/lib $ENV{MINGDIR}/lib)
+endif(UNIX AND NOT CYGWIN)
+
+IF (PNG_INCLUDE_DIR AND PNG_LIBRARY)
+   SET(PNG_FOUND TRUE)
+    SET( PNG_LIBRARIES ${PNG_LIBRARY} )
+ELSE (PNG_INCLUDE_DIR AND PNG_LIBRARY)
+   SET(PNG_FOUND FALSE)
+   SET( PNG_LIBRARIES )
+ENDIF (PNG_INCLUDE_DIR AND PNG_LIBRARY)
+
+IF (PNG_FOUND)
+   IF (NOT PNG_FIND_QUIETLY)
+      MESSAGE(STATUS "Found png: ${PNG_LIBRARY}")
+   ENDIF (NOT PNG_FIND_QUIETLY)
+ELSE (PNG_FOUND)
+   IF (PNG_FIND_REQUIRED)
+      MESSAGE(STATUS "Looked for png libraries named ${PNG_NAMES}.")
+      MESSAGE(FATAL_ERROR "Could NOT find png library")
+   ENDIF (PNG_FIND_REQUIRED)
+ENDIF (PNG_FOUND)
+
+#MARK_AS_ADVANCED(
+#  PNG_LIBRARY
+#  PNG_INCLUDE_DIR
+#  )

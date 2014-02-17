@@ -1,0 +1,50 @@
+vorbisfile.lo: vorbisfile.c c:\mingw\include\stdlib.h \
+ c:\mingw\include\_mingw.h c:\mingw\include\sdkddkver.h \
+ c:\mingw\lib\gcc\mingw32\4.8.1\include\stddef.h c:\mingw\include\stdio.h \
+ c:\mingw\lib\gcc\mingw32\4.8.1\include\stdarg.h \
+ c:\mingw\include\sys\types.h c:\mingw\include\errno.h \
+ c:\mingw\include\string.h c:\mingw\include\math.h \
+ ../include/vorbis/codec.h c:\mingw\include\ogg\ogg.h \
+ c:\mingw\include\ogg\os_types.h ../include/vorbis/vorbisfile.h \
+ ../include/vorbis/codec.h os.h ../config.h misc.h \
+ c:\mingw\include\malloc.h c:\mingw\include\memory.h
+
+c:\mingw\include\stdlib.h:
+
+c:\mingw\include\_mingw.h:
+
+c:\mingw\include\sdkddkver.h:
+
+c:\mingw\lib\gcc\mingw32\4.8.1\include\stddef.h:
+
+c:\mingw\include\stdio.h:
+
+c:\mingw\lib\gcc\mingw32\4.8.1\include\stdarg.h:
+
+c:\mingw\include\sys\types.h:
+
+c:\mingw\include\errno.h:
+
+c:\mingw\include\string.h:
+
+c:\mingw\include\math.h:
+
+../include/vorbis/codec.h:
+
+c:\mingw\include\ogg\ogg.h:
+
+c:\mingw\include\ogg\os_types.h:
+
+../include/vorbis/vorbisfile.h:
+
+../include/vorbis/codec.h:
+
+os.h:
+
+../config.h:
+
+misc.h:
+
+c:\mingw\include\malloc.h:
+
+c:\mingw\include\memory.h:

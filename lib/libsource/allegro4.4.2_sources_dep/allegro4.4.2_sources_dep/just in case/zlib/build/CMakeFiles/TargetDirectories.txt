@@ -1,0 +1,6 @@
+C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/zlib/build/CMakeFiles/example.dir
+C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/zlib/build/CMakeFiles/example64.dir
+C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/zlib/build/CMakeFiles/minigzip.dir
+C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/zlib/build/CMakeFiles/minigzip64.dir
+C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/zlib/build/CMakeFiles/zlib.dir
+C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/zlib/build/CMakeFiles/zlibstatic.dir

@@ -1,0 +1,5 @@
+C:/MinGW/lib/libphysfs.a
+C:/MinGW/lib/libphysfs.dll.a
+C:/MinGW/bin/libphysfs.dll
+C:/MinGW/bin/test_physfs.exe
+C:/MinGW/include/physfs.h

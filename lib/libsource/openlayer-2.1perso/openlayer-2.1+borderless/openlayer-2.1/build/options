@@ -1,0 +1,9 @@
+-O2 -Wall -Iinclude -Iinclude/OpenLayer -I%MINGDIR%/include/freetype2 -fexpensive-optimizations -DOL_NO_OLD_API -DOL_NO_STATE_CHANGE
+-lglyph-agl -lfreetype -lpng -lz -lagl -lalleg -luser32 -lgdi32 -lglu32 -lopengl32
+`freetype-config --cflags` `libpng-config --cflags` 
+`freetype-config --libs` -lglyph-agl `libpng-config --libs` 
+
+
+
+true
+true

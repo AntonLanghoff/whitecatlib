@@ -1,0 +1,16 @@
+C:/MinGW/lib/libpng12.dll.a
+C:/MinGW/bin/libpng12.dll
+C:/MinGW/lib/libpng12_static.a
+C:/MinGW/include/png.h
+C:/MinGW/include/pngconf.h
+C:/MinGW/include/libpng12/png.h
+C:/MinGW/include/libpng12/pngconf.h
+C:/MinGW/bin/libpng-config
+C:/MinGW/bin/libpng12-config
+C:/MinGW/man/man3/libpng.3
+C:/MinGW/man/man3/libpngpf.3
+C:/MinGW/man/man5/png.5
+C:/MinGW/lib/pkgconfig/libpng.pc
+C:/MinGW/bin/libpng-config
+C:/MinGW/lib/pkgconfig/libpng12.pc
+C:/MinGW/bin/libpng12-config
