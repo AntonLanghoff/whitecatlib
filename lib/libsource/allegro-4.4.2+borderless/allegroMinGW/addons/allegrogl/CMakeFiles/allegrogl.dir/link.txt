@@ -1,2 +1,0 @@
-C:\MinGW\bin\ar.exe cr ..\..\lib\liballeggl.a  CMakeFiles/allegrogl.dir/src/alleggl.c.obj CMakeFiles/allegrogl.dir/src/glvtable.c.obj CMakeFiles/allegrogl.dir/src/scorer.c.obj CMakeFiles/allegrogl.dir/src/math.c.obj CMakeFiles/allegrogl.dir/src/aglf.c.obj CMakeFiles/allegrogl.dir/src/fontconv.c.obj CMakeFiles/allegrogl.dir/src/texture.c.obj CMakeFiles/allegrogl.dir/src/glext.c.obj CMakeFiles/allegrogl.dir/src/gui.c.obj CMakeFiles/allegrogl.dir/src/videovtb.c.obj CMakeFiles/allegrogl.dir/src/win.c.obj
-C:\MinGW\bin\ranlib.exe ..\..\lib\liballeggl.a

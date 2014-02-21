@@ -1,3 +1,0 @@
-"C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E remove -f CMakeFiles\test_physfs.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\test_physfs.dir/objects.a @CMakeFiles\test_physfs.dir\objects1.rsp
-C:\MinGW\bin\gcc.exe  -O2 -g -DNDEBUG    -Wl,--whole-archive CMakeFiles\test_physfs.dir/objects.a -Wl,--no-whole-archive  -o test_physfs.exe -Wl,--out-implib,libtest_physfs.dll.a -Wl,--major-image-version,0,--minor-image-version,0  libphysfs.dll.a C:\MinGW\bin\libzlib.dll -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

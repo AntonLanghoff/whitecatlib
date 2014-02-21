@@ -1,9 +1,0 @@
-C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng168/lpng168MinGW/CMakeFiles/libpng-config_COPY.dir
-C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng168/lpng168MinGW/CMakeFiles/libpng.a_COPY.dir
-C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng168/lpng168MinGW/CMakeFiles/libpng.dll.a_COPY.dir
-C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng168/lpng168MinGW/CMakeFiles/libpng.pc_COPY.dir
-C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng168/lpng168MinGW/CMakeFiles/png16.dir
-C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng168/lpng168MinGW/CMakeFiles/png16_static.dir
-C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng168/lpng168MinGW/CMakeFiles/pngstest.dir
-C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng168/lpng168MinGW/CMakeFiles/pngtest.dir
-C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng168/lpng168MinGW/CMakeFiles/pngvalid.dir

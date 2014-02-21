@@ -1,2 +1,0 @@
-C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/openlayer_2.1.orig.tar/openlayer_2.1.orig/openlayer-2.1.orig/build/CMakeFiles/openlayer.dir
-C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/openlayer_2.1.orig.tar/openlayer_2.1.orig/openlayer-2.1.orig/build/CMakeFiles/uninstall.dir

@@ -1,3 +1,0 @@
-"C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E remove -f CMakeFiles\wfixicon.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\wfixicon.dir/objects.a @CMakeFiles\wfixicon.dir\objects1.rsp
-C:\MinGW\bin\gcc.exe   -W -Wall -Wno-unused-parameter -Wdeclaration-after-statement -O2 -g -DNDEBUG    -Wl,--whole-archive CMakeFiles\wfixicon.dir/objects.a -Wl,--no-whole-archive  -o wfixicon.exe -Wl,--out-implib,libwfixicon.dll.a -Wl,--major-image-version,0,--minor-image-version,0  ..\lib\liballeg44.dll.a -lkernel32 -luser32 -lgdi32 -lcomdlg32 -lole32 C:\MinGW\lib\libdinput.a C:\MinGW\lib\libddraw.a C:\MinGW\lib\libdxguid.a -lwinmm C:\MinGW\lib\libdsound.a -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

@@ -1,9 +1,0 @@
-# Hashes of file build rules.
-cd62ef0b44ac3230d34231ba3dac2c74 CMakeFiles/libpng-config_COPY
-cd62ef0b44ac3230d34231ba3dac2c74 CMakeFiles/libpng.a_COPY
-cd62ef0b44ac3230d34231ba3dac2c74 CMakeFiles/libpng.dll.a_COPY
-cd62ef0b44ac3230d34231ba3dac2c74 CMakeFiles/libpng.pc_COPY
-6b6c1561f405d1e1c3ae35bc98fbe844 lib/libpng-config
-5abccd13ee8bb4fc62f38a01d6b25075 lib/libpng.a
-c15082bfae0554c57add95b62e60356a lib/libpng.dll.a
-e60e8e3d6d934353f450b33bdae69e4b lib/libpng.pc

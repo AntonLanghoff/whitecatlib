@@ -1,2 +1,0 @@
-C:\MinGW\bin\ar.exe cr ..\..\lib\libloadpng.a  CMakeFiles/loadpng.dir/loadpng.c.obj CMakeFiles/loadpng.dir/savepng.c.obj CMakeFiles/loadpng.dir/regpng.c.obj
-C:\MinGW\bin\ranlib.exe ..\..\lib\libloadpng.a

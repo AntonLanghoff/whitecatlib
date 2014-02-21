@@ -1,2 +1,0 @@
-C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/openlayer2.1George/openlayer-2.1MinGW/CMakeFiles/openlayer.dir
-C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/openlayer2.1George/openlayer-2.1MinGW/CMakeFiles/uninstall.dir
