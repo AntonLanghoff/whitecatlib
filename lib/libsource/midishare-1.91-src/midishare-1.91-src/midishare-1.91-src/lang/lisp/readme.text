@@ -1,0 +1,27 @@
+interface/
+	Contains the Lisp FFI to MidiShare and Player library.
+        Defines a MidiShare Lisp package and exports 
+	the MidiShare API. Also defines #+midishare 
+        and #+player features.
+        Tested in:
+		OpenMCL 0.13/OS X
+		MCL 5.0/OS X
+		MCL 4.2/MacOS 9.2
+		ACL 6.2/Windows
+
+openmcl/
+	The FFI databases for OpenMCL. Copy the
+	midishare/ subdirectory to the darwin-headers/
+        subdirectory of your openmcl distribution: 
+	cp -r midishare /Lisp/ccl/darwin-headers/midishare
+
+tutorials/
+
+	Contains a tutorial for the MidiShare interface and 
+	a tutorial for the Player library interface.
+
+
+CFFI interface
+---------------
+
+An interface using the CFFI (Common Foreign Function Interface see http://common-lisp.net/project/cffi/) system has been developed by Rick Taube. A package (part of the Common Music system) can be found here : http://sourceforge.net/project/showfiles.php?group_id=9766&package_id=172112

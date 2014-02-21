@@ -3,7 +3,7 @@
 
 # Relative path conversion top directories.
 SET(CMAKE_RELATIVE_PATH_TOP_SOURCE "C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8")
-SET(CMAKE_RELATIVE_PATH_TOP_BINARY "C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/build")
+SET(CMAKE_RELATIVE_PATH_TOP_BINARY "C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/zlib-1.2.8/build")
 
 # Force unix paths in dependencies.
 SET(CMAKE_FORCE_UNIX_PATHS 1)

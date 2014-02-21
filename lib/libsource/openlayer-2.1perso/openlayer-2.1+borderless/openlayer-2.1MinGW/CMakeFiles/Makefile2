@@ -49,10 +49,10 @@ EQUALS = =
 CMAKE_EDIT_COMMAND = "C:\Program Files (x86)\CMake 2.8\bin\cmake-gui.exe"
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1
+CMAKE_SOURCE_DIR = C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW
+CMAKE_BINARY_DIR = C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW
 
 #=============================================================================
 # Target rules for target CMakeFiles/openlayer.dir
@@ -61,7 +61,7 @@ CMAKE_BINARY_DIR = C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\o
 CMakeFiles/openlayer.dir/all: utils/glyphkeeper/CMakeFiles/glyph-agl.dir/all
 	$(MAKE) -f CMakeFiles\openlayer.dir\build.make CMakeFiles/openlayer.dir/depend
 	$(MAKE) -f CMakeFiles\openlayer.dir\build.make CMakeFiles/openlayer.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles  19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles  15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49
 	@echo Built target openlayer
 .PHONY : CMakeFiles/openlayer.dir/all
 
@@ -71,9 +71,9 @@ all: CMakeFiles/openlayer.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/openlayer.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles 49
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles 49
 	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/openlayer.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles 0
 .PHONY : CMakeFiles/openlayer.dir/rule
 
 # Convenience name for target.
@@ -96,15 +96,15 @@ clean: CMakeFiles/openlayer.dir/clean
 CMakeFiles/uninstall.dir/all:
 	$(MAKE) -f CMakeFiles\uninstall.dir\build.make CMakeFiles/uninstall.dir/depend
 	$(MAKE) -f CMakeFiles\uninstall.dir\build.make CMakeFiles/uninstall.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles 
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles 
 	@echo Built target uninstall
 .PHONY : CMakeFiles/uninstall.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/uninstall.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles 0
 	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/uninstall.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles 0
 .PHONY : CMakeFiles/uninstall.dir/rule
 
 # Convenience name for target.
@@ -142,7 +142,7 @@ utils/glyphkeeper/preinstall:
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/all:
 	$(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/depend
 	$(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles  4 5 6 7 8 9 10 11 12 13 14 15 16 17
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles  1 2 3 4 5 6 7 8 9 10 11 12 13 14
 	@echo Built target glyph-agl
 .PHONY : utils/glyphkeeper/CMakeFiles/glyph-agl.dir/all
 
@@ -152,9 +152,9 @@ all: utils/glyphkeeper/CMakeFiles/glyph-agl.dir/all
 
 # Build rule for subdir invocation for target.
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles 14
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles 14
 	$(MAKE) -f CMakeFiles\Makefile2 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles 0
 .PHONY : utils/glyphkeeper/CMakeFiles/glyph-agl.dir/rule
 
 # Convenience name for target.
@@ -168,285 +168,6 @@ utils/glyphkeeper/CMakeFiles/glyph-agl.dir/clean:
 
 # clean rule for target.
 clean: utils/glyphkeeper/CMakeFiles/glyph-agl.dir/clean
-.PHONY : clean
-
-#=============================================================================
-# Directory level rules for directory demos
-
-# Convenience name for "all" pass in the directory.
-demos/all: demos/CMakeFiles/collisiondemo.dir/all
-demos/all: demos/CMakeFiles/gamedemo.dir/all
-demos/all: demos/CMakeFiles/gameloop.dir/all
-demos/all: demos/CMakeFiles/linestripdemo.dir/all
-demos/all: demos/CMakeFiles/renderbitmap.dir/all
-demos/all: demos/CMakeFiles/shapedemo.dir/all
-demos/all: demos/CMakeFiles/textdemo.dir/all
-.PHONY : demos/all
-
-# Convenience name for "clean" pass in the directory.
-demos/clean: demos/CMakeFiles/collisiondemo.dir/clean
-demos/clean: demos/CMakeFiles/gamedemo.dir/clean
-demos/clean: demos/CMakeFiles/gameloop.dir/clean
-demos/clean: demos/CMakeFiles/linestripdemo.dir/clean
-demos/clean: demos/CMakeFiles/renderbitmap.dir/clean
-demos/clean: demos/CMakeFiles/shapedemo.dir/clean
-demos/clean: demos/CMakeFiles/textdemo.dir/clean
-.PHONY : demos/clean
-
-# Convenience name for "preinstall" pass in the directory.
-demos/preinstall:
-.PHONY : demos/preinstall
-
-#=============================================================================
-# Target rules for target demos/CMakeFiles/collisiondemo.dir
-
-# All Build rule for target.
-demos/CMakeFiles/collisiondemo.dir/all: utils/glyphkeeper/CMakeFiles/glyph-agl.dir/all
-demos/CMakeFiles/collisiondemo.dir/all: CMakeFiles/openlayer.dir/all
-	$(MAKE) -f demos\CMakeFiles\collisiondemo.dir\build.make demos/CMakeFiles/collisiondemo.dir/depend
-	$(MAKE) -f demos\CMakeFiles\collisiondemo.dir\build.make demos/CMakeFiles/collisiondemo.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles  1
-	@echo Built target collisiondemo
-.PHONY : demos/CMakeFiles/collisiondemo.dir/all
-
-# Include target in all.
-all: demos/CMakeFiles/collisiondemo.dir/all
-.PHONY : all
-
-# Build rule for subdir invocation for target.
-demos/CMakeFiles/collisiondemo.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles 50
-	$(MAKE) -f CMakeFiles\Makefile2 demos/CMakeFiles/collisiondemo.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles 0
-.PHONY : demos/CMakeFiles/collisiondemo.dir/rule
-
-# Convenience name for target.
-collisiondemo: demos/CMakeFiles/collisiondemo.dir/rule
-.PHONY : collisiondemo
-
-# clean rule for target.
-demos/CMakeFiles/collisiondemo.dir/clean:
-	$(MAKE) -f demos\CMakeFiles\collisiondemo.dir\build.make demos/CMakeFiles/collisiondemo.dir/clean
-.PHONY : demos/CMakeFiles/collisiondemo.dir/clean
-
-# clean rule for target.
-clean: demos/CMakeFiles/collisiondemo.dir/clean
-.PHONY : clean
-
-#=============================================================================
-# Target rules for target demos/CMakeFiles/gamedemo.dir
-
-# All Build rule for target.
-demos/CMakeFiles/gamedemo.dir/all: utils/glyphkeeper/CMakeFiles/glyph-agl.dir/all
-demos/CMakeFiles/gamedemo.dir/all: CMakeFiles/openlayer.dir/all
-	$(MAKE) -f demos\CMakeFiles\gamedemo.dir\build.make demos/CMakeFiles/gamedemo.dir/depend
-	$(MAKE) -f demos\CMakeFiles\gamedemo.dir\build.make demos/CMakeFiles/gamedemo.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles  2
-	@echo Built target gamedemo
-.PHONY : demos/CMakeFiles/gamedemo.dir/all
-
-# Include target in all.
-all: demos/CMakeFiles/gamedemo.dir/all
-.PHONY : all
-
-# Build rule for subdir invocation for target.
-demos/CMakeFiles/gamedemo.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles 50
-	$(MAKE) -f CMakeFiles\Makefile2 demos/CMakeFiles/gamedemo.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles 0
-.PHONY : demos/CMakeFiles/gamedemo.dir/rule
-
-# Convenience name for target.
-gamedemo: demos/CMakeFiles/gamedemo.dir/rule
-.PHONY : gamedemo
-
-# clean rule for target.
-demos/CMakeFiles/gamedemo.dir/clean:
-	$(MAKE) -f demos\CMakeFiles\gamedemo.dir\build.make demos/CMakeFiles/gamedemo.dir/clean
-.PHONY : demos/CMakeFiles/gamedemo.dir/clean
-
-# clean rule for target.
-clean: demos/CMakeFiles/gamedemo.dir/clean
-.PHONY : clean
-
-#=============================================================================
-# Target rules for target demos/CMakeFiles/gameloop.dir
-
-# All Build rule for target.
-demos/CMakeFiles/gameloop.dir/all: utils/glyphkeeper/CMakeFiles/glyph-agl.dir/all
-demos/CMakeFiles/gameloop.dir/all: CMakeFiles/openlayer.dir/all
-	$(MAKE) -f demos\CMakeFiles\gameloop.dir\build.make demos/CMakeFiles/gameloop.dir/depend
-	$(MAKE) -f demos\CMakeFiles\gameloop.dir\build.make demos/CMakeFiles/gameloop.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles  3
-	@echo Built target gameloop
-.PHONY : demos/CMakeFiles/gameloop.dir/all
-
-# Include target in all.
-all: demos/CMakeFiles/gameloop.dir/all
-.PHONY : all
-
-# Build rule for subdir invocation for target.
-demos/CMakeFiles/gameloop.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles 50
-	$(MAKE) -f CMakeFiles\Makefile2 demos/CMakeFiles/gameloop.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles 0
-.PHONY : demos/CMakeFiles/gameloop.dir/rule
-
-# Convenience name for target.
-gameloop: demos/CMakeFiles/gameloop.dir/rule
-.PHONY : gameloop
-
-# clean rule for target.
-demos/CMakeFiles/gameloop.dir/clean:
-	$(MAKE) -f demos\CMakeFiles\gameloop.dir\build.make demos/CMakeFiles/gameloop.dir/clean
-.PHONY : demos/CMakeFiles/gameloop.dir/clean
-
-# clean rule for target.
-clean: demos/CMakeFiles/gameloop.dir/clean
-.PHONY : clean
-
-#=============================================================================
-# Target rules for target demos/CMakeFiles/linestripdemo.dir
-
-# All Build rule for target.
-demos/CMakeFiles/linestripdemo.dir/all: utils/glyphkeeper/CMakeFiles/glyph-agl.dir/all
-demos/CMakeFiles/linestripdemo.dir/all: CMakeFiles/openlayer.dir/all
-	$(MAKE) -f demos\CMakeFiles\linestripdemo.dir\build.make demos/CMakeFiles/linestripdemo.dir/depend
-	$(MAKE) -f demos\CMakeFiles\linestripdemo.dir\build.make demos/CMakeFiles/linestripdemo.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles  18
-	@echo Built target linestripdemo
-.PHONY : demos/CMakeFiles/linestripdemo.dir/all
-
-# Include target in all.
-all: demos/CMakeFiles/linestripdemo.dir/all
-.PHONY : all
-
-# Build rule for subdir invocation for target.
-demos/CMakeFiles/linestripdemo.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles 50
-	$(MAKE) -f CMakeFiles\Makefile2 demos/CMakeFiles/linestripdemo.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles 0
-.PHONY : demos/CMakeFiles/linestripdemo.dir/rule
-
-# Convenience name for target.
-linestripdemo: demos/CMakeFiles/linestripdemo.dir/rule
-.PHONY : linestripdemo
-
-# clean rule for target.
-demos/CMakeFiles/linestripdemo.dir/clean:
-	$(MAKE) -f demos\CMakeFiles\linestripdemo.dir\build.make demos/CMakeFiles/linestripdemo.dir/clean
-.PHONY : demos/CMakeFiles/linestripdemo.dir/clean
-
-# clean rule for target.
-clean: demos/CMakeFiles/linestripdemo.dir/clean
-.PHONY : clean
-
-#=============================================================================
-# Target rules for target demos/CMakeFiles/renderbitmap.dir
-
-# All Build rule for target.
-demos/CMakeFiles/renderbitmap.dir/all: utils/glyphkeeper/CMakeFiles/glyph-agl.dir/all
-demos/CMakeFiles/renderbitmap.dir/all: CMakeFiles/openlayer.dir/all
-	$(MAKE) -f demos\CMakeFiles\renderbitmap.dir\build.make demos/CMakeFiles/renderbitmap.dir/depend
-	$(MAKE) -f demos\CMakeFiles\renderbitmap.dir\build.make demos/CMakeFiles/renderbitmap.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles  54
-	@echo Built target renderbitmap
-.PHONY : demos/CMakeFiles/renderbitmap.dir/all
-
-# Include target in all.
-all: demos/CMakeFiles/renderbitmap.dir/all
-.PHONY : all
-
-# Build rule for subdir invocation for target.
-demos/CMakeFiles/renderbitmap.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles 50
-	$(MAKE) -f CMakeFiles\Makefile2 demos/CMakeFiles/renderbitmap.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles 0
-.PHONY : demos/CMakeFiles/renderbitmap.dir/rule
-
-# Convenience name for target.
-renderbitmap: demos/CMakeFiles/renderbitmap.dir/rule
-.PHONY : renderbitmap
-
-# clean rule for target.
-demos/CMakeFiles/renderbitmap.dir/clean:
-	$(MAKE) -f demos\CMakeFiles\renderbitmap.dir\build.make demos/CMakeFiles/renderbitmap.dir/clean
-.PHONY : demos/CMakeFiles/renderbitmap.dir/clean
-
-# clean rule for target.
-clean: demos/CMakeFiles/renderbitmap.dir/clean
-.PHONY : clean
-
-#=============================================================================
-# Target rules for target demos/CMakeFiles/shapedemo.dir
-
-# All Build rule for target.
-demos/CMakeFiles/shapedemo.dir/all: utils/glyphkeeper/CMakeFiles/glyph-agl.dir/all
-demos/CMakeFiles/shapedemo.dir/all: CMakeFiles/openlayer.dir/all
-	$(MAKE) -f demos\CMakeFiles\shapedemo.dir\build.make demos/CMakeFiles/shapedemo.dir/depend
-	$(MAKE) -f demos\CMakeFiles\shapedemo.dir\build.make demos/CMakeFiles/shapedemo.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles  55
-	@echo Built target shapedemo
-.PHONY : demos/CMakeFiles/shapedemo.dir/all
-
-# Include target in all.
-all: demos/CMakeFiles/shapedemo.dir/all
-.PHONY : all
-
-# Build rule for subdir invocation for target.
-demos/CMakeFiles/shapedemo.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles 50
-	$(MAKE) -f CMakeFiles\Makefile2 demos/CMakeFiles/shapedemo.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles 0
-.PHONY : demos/CMakeFiles/shapedemo.dir/rule
-
-# Convenience name for target.
-shapedemo: demos/CMakeFiles/shapedemo.dir/rule
-.PHONY : shapedemo
-
-# clean rule for target.
-demos/CMakeFiles/shapedemo.dir/clean:
-	$(MAKE) -f demos\CMakeFiles\shapedemo.dir\build.make demos/CMakeFiles/shapedemo.dir/clean
-.PHONY : demos/CMakeFiles/shapedemo.dir/clean
-
-# clean rule for target.
-clean: demos/CMakeFiles/shapedemo.dir/clean
-.PHONY : clean
-
-#=============================================================================
-# Target rules for target demos/CMakeFiles/textdemo.dir
-
-# All Build rule for target.
-demos/CMakeFiles/textdemo.dir/all: utils/glyphkeeper/CMakeFiles/glyph-agl.dir/all
-demos/CMakeFiles/textdemo.dir/all: CMakeFiles/openlayer.dir/all
-	$(MAKE) -f demos\CMakeFiles\textdemo.dir\build.make demos/CMakeFiles/textdemo.dir/depend
-	$(MAKE) -f demos\CMakeFiles\textdemo.dir\build.make demos/CMakeFiles/textdemo.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles  56
-	@echo Built target textdemo
-.PHONY : demos/CMakeFiles/textdemo.dir/all
-
-# Include target in all.
-all: demos/CMakeFiles/textdemo.dir/all
-.PHONY : all
-
-# Build rule for subdir invocation for target.
-demos/CMakeFiles/textdemo.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles 50
-	$(MAKE) -f CMakeFiles\Makefile2 demos/CMakeFiles/textdemo.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles 0
-.PHONY : demos/CMakeFiles/textdemo.dir/rule
-
-# Convenience name for target.
-textdemo: demos/CMakeFiles/textdemo.dir/rule
-.PHONY : textdemo
-
-# clean rule for target.
-demos/CMakeFiles/textdemo.dir/clean:
-	$(MAKE) -f demos\CMakeFiles\textdemo.dir\build.make demos/CMakeFiles/textdemo.dir/clean
-.PHONY : demos/CMakeFiles/textdemo.dir/clean
-
-# clean rule for target.
-clean: demos/CMakeFiles/textdemo.dir/clean
 .PHONY : clean
 
 #=============================================================================

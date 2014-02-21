@@ -4,21 +4,21 @@ SET(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 SET(CMAKE_DEPENDS_CHECK_C
-  "C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/adler32.c" "C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/build/CMakeFiles/zlib.dir/adler32.obj"
-  "C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/compress.c" "C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/build/CMakeFiles/zlib.dir/compress.obj"
-  "C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/crc32.c" "C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/build/CMakeFiles/zlib.dir/crc32.obj"
-  "C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/deflate.c" "C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/build/CMakeFiles/zlib.dir/deflate.obj"
-  "C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/gzclose.c" "C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/build/CMakeFiles/zlib.dir/gzclose.obj"
-  "C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/gzlib.c" "C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/build/CMakeFiles/zlib.dir/gzlib.obj"
-  "C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/gzread.c" "C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/build/CMakeFiles/zlib.dir/gzread.obj"
-  "C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/gzwrite.c" "C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/build/CMakeFiles/zlib.dir/gzwrite.obj"
-  "C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/infback.c" "C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/build/CMakeFiles/zlib.dir/infback.obj"
-  "C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/inffast.c" "C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/build/CMakeFiles/zlib.dir/inffast.obj"
-  "C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/inflate.c" "C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/build/CMakeFiles/zlib.dir/inflate.obj"
-  "C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/inftrees.c" "C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/build/CMakeFiles/zlib.dir/inftrees.obj"
-  "C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/trees.c" "C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/build/CMakeFiles/zlib.dir/trees.obj"
-  "C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/uncompr.c" "C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/build/CMakeFiles/zlib.dir/uncompr.obj"
-  "C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/zutil.c" "C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/build/CMakeFiles/zlib.dir/zutil.obj"
+  "C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/adler32.c" "C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/zlib-1.2.8/build/CMakeFiles/zlib.dir/adler32.obj"
+  "C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/compress.c" "C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/zlib-1.2.8/build/CMakeFiles/zlib.dir/compress.obj"
+  "C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/crc32.c" "C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/zlib-1.2.8/build/CMakeFiles/zlib.dir/crc32.obj"
+  "C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/deflate.c" "C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/zlib-1.2.8/build/CMakeFiles/zlib.dir/deflate.obj"
+  "C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/gzclose.c" "C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/zlib-1.2.8/build/CMakeFiles/zlib.dir/gzclose.obj"
+  "C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/gzlib.c" "C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/zlib-1.2.8/build/CMakeFiles/zlib.dir/gzlib.obj"
+  "C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/gzread.c" "C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/zlib-1.2.8/build/CMakeFiles/zlib.dir/gzread.obj"
+  "C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/gzwrite.c" "C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/zlib-1.2.8/build/CMakeFiles/zlib.dir/gzwrite.obj"
+  "C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/infback.c" "C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/zlib-1.2.8/build/CMakeFiles/zlib.dir/infback.obj"
+  "C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/inffast.c" "C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/zlib-1.2.8/build/CMakeFiles/zlib.dir/inffast.obj"
+  "C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/inflate.c" "C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/zlib-1.2.8/build/CMakeFiles/zlib.dir/inflate.obj"
+  "C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/inftrees.c" "C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/zlib-1.2.8/build/CMakeFiles/zlib.dir/inftrees.obj"
+  "C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/trees.c" "C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/zlib-1.2.8/build/CMakeFiles/zlib.dir/trees.obj"
+  "C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/uncompr.c" "C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/zlib-1.2.8/build/CMakeFiles/zlib.dir/uncompr.obj"
+  "C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/zutil.c" "C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/zlib-1.2.8/build/CMakeFiles/zlib.dir/zutil.obj"
   )
 SET(CMAKE_C_COMPILER_ID "GNU")
 
@@ -35,7 +35,7 @@ SET(CMAKE_TARGET_LINKED_INFO_FILES
 # The include file search paths:
 SET(CMAKE_C_TARGET_INCLUDE_PATH
   "."
-  ".."
+  "C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8"
   )
 SET(CMAKE_CXX_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})
 SET(CMAKE_Fortran_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})

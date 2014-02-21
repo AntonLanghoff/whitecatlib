@@ -1,8 +1,8 @@
-# Install script for directory: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/utils/glyphkeeper
+# Install script for directory: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/utils/glyphkeeper
 
 # Set the install prefix
 IF(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  SET(CMAKE_INSTALL_PREFIX "C:/MinGW")
+  SET(CMAKE_INSTALL_PREFIX "C:/compiledlibsforGCC4_8_1")
 ENDIF(NOT DEFINED CMAKE_INSTALL_PREFIX)
 STRING(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -29,25 +29,25 @@ ENDIF(NOT CMAKE_INSTALL_COMPONENT)
 
 IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
   list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
-   "C:/MinGW/include/glyph.h")
+   "C:/compiledlibsforGCC4_8_1/include/glyph.h")
   IF (CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   ENDIF (CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
   IF (CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   ENDIF (CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
-FILE(INSTALL DESTINATION "C:/MinGW/include" TYPE FILE FILES "C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1MinGW/include/glyph.h")
+FILE(INSTALL DESTINATION "C:/compiledlibsforGCC4_8_1/include" TYPE FILE FILES "C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1MinGW/include/glyph.h")
 ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
 
 IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
   list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
-   "C:/MinGW/lib/libglyph-agl.a")
+   "C:/compiledlibsforGCC4_8_1/lib/libglyph-agl.a")
   IF (CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   ENDIF (CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
   IF (CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   ENDIF (CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
-FILE(INSTALL DESTINATION "C:/MinGW/lib" TYPE STATIC_LIBRARY FILES "C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1MinGW/lib/libglyph-agl.a")
+FILE(INSTALL DESTINATION "C:/compiledlibsforGCC4_8_1/lib" TYPE STATIC_LIBRARY FILES "C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1MinGW/lib/libglyph-agl.a")
 ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
 

@@ -37,10 +37,10 @@ EQUALS = =
 CMAKE_EDIT_COMMAND = "C:\Program Files (x86)\CMake 2.8\bin\cmake-gui.exe"
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1
+CMAKE_SOURCE_DIR = C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW
+CMAKE_BINARY_DIR = C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW
 
 # Include any dependencies generated for this target.
 include demos/CMakeFiles/shapedemo.dir/depend.make
@@ -53,18 +53,18 @@ include demos/CMakeFiles/shapedemo.dir/flags.make
 
 demos/CMakeFiles/shapedemo.dir/shapedemo/Main.obj: demos/CMakeFiles/shapedemo.dir/flags.make
 demos/CMakeFiles/shapedemo.dir/shapedemo/Main.obj: demos/CMakeFiles/shapedemo.dir/includes_CXX.rsp
-demos/CMakeFiles/shapedemo.dir/shapedemo/Main.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/demos/shapedemo/Main.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_1)
+demos/CMakeFiles/shapedemo.dir/shapedemo/Main.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/demos/shapedemo/Main.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_1)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object demos/CMakeFiles/shapedemo.dir/shapedemo/Main.obj"
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\demos && C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\shapedemo.dir\shapedemo\Main.obj -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\demos\shapedemo\Main.cpp
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\demos && C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\shapedemo.dir\shapedemo\Main.obj -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\demos\shapedemo\Main.cpp
 
 demos/CMakeFiles/shapedemo.dir/shapedemo/Main.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/shapedemo.dir/shapedemo/Main.i"
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\demos && C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\demos\shapedemo\Main.cpp > CMakeFiles\shapedemo.dir\shapedemo\Main.i
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\demos && C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\demos\shapedemo\Main.cpp > CMakeFiles\shapedemo.dir\shapedemo\Main.i
 
 demos/CMakeFiles/shapedemo.dir/shapedemo/Main.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/shapedemo.dir/shapedemo/Main.s"
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\demos && C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\demos\shapedemo\Main.cpp -o CMakeFiles\shapedemo.dir\shapedemo\Main.s
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\demos && C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\demos\shapedemo\Main.cpp -o CMakeFiles\shapedemo.dir\shapedemo\Main.s
 
 demos/CMakeFiles/shapedemo.dir/shapedemo/Main.obj.requires:
 .PHONY : demos/CMakeFiles/shapedemo.dir/shapedemo/Main.obj.requires
@@ -85,16 +85,16 @@ shapedemo_EXTERNAL_OBJECTS =
 bin/shapedemo.exe: demos/CMakeFiles/shapedemo.dir/shapedemo/Main.obj
 bin/shapedemo.exe: demos/CMakeFiles/shapedemo.dir/build.make
 bin/shapedemo.exe: lib/libopenlayer.a
-bin/shapedemo.exe: C:/MinGW/lib/liballeggl.a
+bin/shapedemo.exe: C:/compiledlibsforGCC4_8_1/lib/liballeggl.a
 bin/shapedemo.exe: C:/MinGW/bin/libpng12.dll
 bin/shapedemo.exe: lib/libglyph-agl.a
-bin/shapedemo.exe: C:/MinGW/lib/libfreetype.a
+bin/shapedemo.exe: C:/compiledlibsforGCC4_8_1/lib/libfreetype.a
 bin/shapedemo.exe: C:/MinGW/lib/libz.dll.a
-bin/shapedemo.exe: C:/MinGW/lib/liballeg44.dll.a
+bin/shapedemo.exe: C:/compiledlibsforGCC4_8_1/lib/liballeg.a
 bin/shapedemo.exe: demos/CMakeFiles/shapedemo.dir/objects1.rsp
 bin/shapedemo.exe: demos/CMakeFiles/shapedemo.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --red --bold "Linking CXX executable ..\bin\shapedemo.exe"
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\demos && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\shapedemo.dir\link.txt --verbose=$(VERBOSE)
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\demos && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\shapedemo.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 demos/CMakeFiles/shapedemo.dir/build: bin/shapedemo.exe
@@ -104,10 +104,10 @@ demos/CMakeFiles/shapedemo.dir/requires: demos/CMakeFiles/shapedemo.dir/shapedem
 .PHONY : demos/CMakeFiles/shapedemo.dir/requires
 
 demos/CMakeFiles/shapedemo.dir/clean:
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\demos && $(CMAKE_COMMAND) -P CMakeFiles\shapedemo.dir\cmake_clean.cmake
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\demos && $(CMAKE_COMMAND) -P CMakeFiles\shapedemo.dir\cmake_clean.cmake
 .PHONY : demos/CMakeFiles/shapedemo.dir/clean
 
 demos/CMakeFiles/shapedemo.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1 C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\demos C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\demos C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\demos\CMakeFiles\shapedemo.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1 C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\demos C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\demos C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\demos\CMakeFiles\shapedemo.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : demos/CMakeFiles/shapedemo.dir/depend
 

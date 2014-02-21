@@ -40,7 +40,7 @@ CMAKE_EDIT_COMMAND = "C:\Program Files (x86)\CMake 2.8\bin\cmake-gui.exe"
 CMAKE_SOURCE_DIR = C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\build
+CMAKE_BINARY_DIR = C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\zlib-1.2.8\build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/minigzip64.dir/depend.make
@@ -53,8 +53,8 @@ include CMakeFiles/minigzip64.dir/flags.make
 
 CMakeFiles/minigzip64.dir/test/minigzip.obj: CMakeFiles/minigzip64.dir/flags.make
 CMakeFiles/minigzip64.dir/test/minigzip.obj: CMakeFiles/minigzip64.dir/includes_C.rsp
-CMakeFiles/minigzip64.dir/test/minigzip.obj: ../test/minigzip.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\build\CMakeFiles $(CMAKE_PROGRESS_1)
+CMakeFiles/minigzip64.dir/test/minigzip.obj: C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/test/minigzip.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\zlib-1.2.8\build\CMakeFiles $(CMAKE_PROGRESS_1)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/minigzip64.dir/test/minigzip.obj"
 	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\minigzip64.dir\test\minigzip.obj   -c C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\test\minigzip.c
 
@@ -102,6 +102,6 @@ CMakeFiles/minigzip64.dir/clean:
 .PHONY : CMakeFiles/minigzip64.dir/clean
 
 CMakeFiles/minigzip64.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8 C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8 C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\build C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\build C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\build\CMakeFiles\minigzip64.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8 C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8 C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\zlib-1.2.8\build C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\zlib-1.2.8\build C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\zlib-1.2.8\build\CMakeFiles\minigzip64.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/minigzip64.dir/depend
 

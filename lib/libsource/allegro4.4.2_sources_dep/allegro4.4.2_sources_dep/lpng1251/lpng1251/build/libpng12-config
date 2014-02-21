@@ -12,14 +12,14 @@
 # Modeled after libxml-config.
 
 version="1.2.51"
-prefix="C:/MinGW"
-exec_prefix="C:/MinGW"
-libdir="C:/MinGW/lib"
-includedir="C:/MinGW/include/libpng12"
+prefix="C:/Users/bibi/Documents/GitHub/whitecatlib/lib/windows/compiledlibsforGCC4.8.1"
+exec_prefix="C:/Users/bibi/Documents/GitHub/whitecatlib/lib/windows/compiledlibsforGCC4.8.1"
+libdir="C:/Users/bibi/Documents/GitHub/whitecatlib/lib/windows/compiledlibsforGCC4.8.1/lib"
+includedir="C:/Users/bibi/Documents/GitHub/whitecatlib/lib/windows/compiledlibsforGCC4.8.1/include/libpng12"
 libs="-lpng12"
 all_libs="-lpng12 "
-I_opts="-IC:/MinGW/include"
-L_opts="-LC:/MinGW/lib"
+I_opts="-IC:/Users/bibi/Documents/GitHub/whitecatlib/lib/windows/compiledlibsforGCC4.8.1/include"
+L_opts="-LC:/Users/bibi/Documents/GitHub/whitecatlib/lib/windows/compiledlibsforGCC4.8.1/lib"
 R_opts=""
 cppflags=""
 ccopts=""
@@ -59,7 +59,7 @@ while test $# -gt 0; do
     case "$1" in
 
     --prefix)
-        echo C:/MinGW
+        echo C:/Users/bibi/Documents/GitHub/whitecatlib/lib/windows/compiledlibsforGCC4.8.1
         ;;
 
     --version)
@@ -84,7 +84,7 @@ while test $# -gt 0; do
         ;;
 
     --libdir)
-        echo C:/MinGW/lib
+        echo C:/Users/bibi/Documents/GitHub/whitecatlib/lib/windows/compiledlibsforGCC4.8.1/lib
         ;;
 
     --libs)

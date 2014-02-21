@@ -1,10 +1,10 @@
-prefix=C:/MinGW
-exec_prefix=C:/MinGW
-libdir=C:/MinGW/lib
-includedir=C:/MinGW/include/libpng12
+prefix=C:/Users/bibi/Documents/GitHub/whitecatlib/lib/windows/compiledlibsforGCC4.8.1
+exec_prefix=C:/Users/bibi/Documents/GitHub/whitecatlib/lib/windows/compiledlibsforGCC4.8.1
+libdir=C:/Users/bibi/Documents/GitHub/whitecatlib/lib/windows/compiledlibsforGCC4.8.1/lib
+includedir=C:/Users/bibi/Documents/GitHub/whitecatlib/lib/windows/compiledlibsforGCC4.8.1/include/libpng12
 
 Name: libpng
 Description: Loads and saves PNG files
 Version: 1.2.51
-Libs: -LC:/MinGW/lib -lpng12
-Cflags: -IC:/MinGW/include
+Libs: -LC:/Users/bibi/Documents/GitHub/whitecatlib/lib/windows/compiledlibsforGCC4.8.1/lib -lpng12
+Cflags: -IC:/Users/bibi/Documents/GitHub/whitecatlib/lib/windows/compiledlibsforGCC4.8.1/include

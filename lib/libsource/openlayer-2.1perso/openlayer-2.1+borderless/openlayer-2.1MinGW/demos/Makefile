@@ -41,10 +41,10 @@ EQUALS = =
 CMAKE_EDIT_COMMAND = "C:\Program Files (x86)\CMake 2.8\bin\cmake-gui.exe"
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1
+CMAKE_SOURCE_DIR = C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW
+CMAKE_BINARY_DIR = C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -112,14 +112,14 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(CMAKE_COMMAND) -E cmake_progress_start C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\demos\CMakeFiles\progress.marks
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f CMakeFiles\Makefile2 demos/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles 0
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\demos\CMakeFiles\progress.marks
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f CMakeFiles\Makefile2 demos/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f CMakeFiles\Makefile2 demos/clean
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f CMakeFiles\Makefile2 demos/clean
 .PHONY : clean
 
 # The main clean target
@@ -128,22 +128,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f CMakeFiles\Makefile2 demos/preinstall
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f CMakeFiles\Makefile2 demos/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f CMakeFiles\Makefile2 demos/preinstall
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f CMakeFiles\Makefile2 demos/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 1
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 demos/CMakeFiles/collisiondemo.dir/rule:
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f CMakeFiles\Makefile2 demos/CMakeFiles/collisiondemo.dir/rule
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f CMakeFiles\Makefile2 demos/CMakeFiles/collisiondemo.dir/rule
 .PHONY : demos/CMakeFiles/collisiondemo.dir/rule
 
 # Convenience name for target.
@@ -152,12 +152,12 @@ collisiondemo: demos/CMakeFiles/collisiondemo.dir/rule
 
 # fast build rule for target.
 collisiondemo/fast:
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\collisiondemo.dir\build.make demos/CMakeFiles/collisiondemo.dir/build
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\collisiondemo.dir\build.make demos/CMakeFiles/collisiondemo.dir/build
 .PHONY : collisiondemo/fast
 
 # Convenience name for target.
 demos/CMakeFiles/gamedemo.dir/rule:
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f CMakeFiles\Makefile2 demos/CMakeFiles/gamedemo.dir/rule
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f CMakeFiles\Makefile2 demos/CMakeFiles/gamedemo.dir/rule
 .PHONY : demos/CMakeFiles/gamedemo.dir/rule
 
 # Convenience name for target.
@@ -166,12 +166,12 @@ gamedemo: demos/CMakeFiles/gamedemo.dir/rule
 
 # fast build rule for target.
 gamedemo/fast:
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\gamedemo.dir\build.make demos/CMakeFiles/gamedemo.dir/build
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\gamedemo.dir\build.make demos/CMakeFiles/gamedemo.dir/build
 .PHONY : gamedemo/fast
 
 # Convenience name for target.
 demos/CMakeFiles/gameloop.dir/rule:
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f CMakeFiles\Makefile2 demos/CMakeFiles/gameloop.dir/rule
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f CMakeFiles\Makefile2 demos/CMakeFiles/gameloop.dir/rule
 .PHONY : demos/CMakeFiles/gameloop.dir/rule
 
 # Convenience name for target.
@@ -180,12 +180,12 @@ gameloop: demos/CMakeFiles/gameloop.dir/rule
 
 # fast build rule for target.
 gameloop/fast:
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\gameloop.dir\build.make demos/CMakeFiles/gameloop.dir/build
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\gameloop.dir\build.make demos/CMakeFiles/gameloop.dir/build
 .PHONY : gameloop/fast
 
 # Convenience name for target.
 demos/CMakeFiles/linestripdemo.dir/rule:
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f CMakeFiles\Makefile2 demos/CMakeFiles/linestripdemo.dir/rule
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f CMakeFiles\Makefile2 demos/CMakeFiles/linestripdemo.dir/rule
 .PHONY : demos/CMakeFiles/linestripdemo.dir/rule
 
 # Convenience name for target.
@@ -194,12 +194,12 @@ linestripdemo: demos/CMakeFiles/linestripdemo.dir/rule
 
 # fast build rule for target.
 linestripdemo/fast:
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\linestripdemo.dir\build.make demos/CMakeFiles/linestripdemo.dir/build
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\linestripdemo.dir\build.make demos/CMakeFiles/linestripdemo.dir/build
 .PHONY : linestripdemo/fast
 
 # Convenience name for target.
 demos/CMakeFiles/renderbitmap.dir/rule:
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f CMakeFiles\Makefile2 demos/CMakeFiles/renderbitmap.dir/rule
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f CMakeFiles\Makefile2 demos/CMakeFiles/renderbitmap.dir/rule
 .PHONY : demos/CMakeFiles/renderbitmap.dir/rule
 
 # Convenience name for target.
@@ -208,12 +208,12 @@ renderbitmap: demos/CMakeFiles/renderbitmap.dir/rule
 
 # fast build rule for target.
 renderbitmap/fast:
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\renderbitmap.dir\build.make demos/CMakeFiles/renderbitmap.dir/build
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\renderbitmap.dir\build.make demos/CMakeFiles/renderbitmap.dir/build
 .PHONY : renderbitmap/fast
 
 # Convenience name for target.
 demos/CMakeFiles/shapedemo.dir/rule:
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f CMakeFiles\Makefile2 demos/CMakeFiles/shapedemo.dir/rule
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f CMakeFiles\Makefile2 demos/CMakeFiles/shapedemo.dir/rule
 .PHONY : demos/CMakeFiles/shapedemo.dir/rule
 
 # Convenience name for target.
@@ -222,12 +222,12 @@ shapedemo: demos/CMakeFiles/shapedemo.dir/rule
 
 # fast build rule for target.
 shapedemo/fast:
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\shapedemo.dir\build.make demos/CMakeFiles/shapedemo.dir/build
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\shapedemo.dir\build.make demos/CMakeFiles/shapedemo.dir/build
 .PHONY : shapedemo/fast
 
 # Convenience name for target.
 demos/CMakeFiles/textdemo.dir/rule:
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f CMakeFiles\Makefile2 demos/CMakeFiles/textdemo.dir/rule
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f CMakeFiles\Makefile2 demos/CMakeFiles/textdemo.dir/rule
 .PHONY : demos/CMakeFiles/textdemo.dir/rule
 
 # Convenience name for target.
@@ -236,112 +236,112 @@ textdemo: demos/CMakeFiles/textdemo.dir/rule
 
 # fast build rule for target.
 textdemo/fast:
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\textdemo.dir\build.make demos/CMakeFiles/textdemo.dir/build
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\textdemo.dir\build.make demos/CMakeFiles/textdemo.dir/build
 .PHONY : textdemo/fast
 
 # target to build an object file
 collisiondemo/main.obj:
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\collisiondemo.dir\build.make demos/CMakeFiles/collisiondemo.dir/collisiondemo/main.obj
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\collisiondemo.dir\build.make demos/CMakeFiles/collisiondemo.dir/collisiondemo/main.obj
 .PHONY : collisiondemo/main.obj
 
 # target to preprocess a source file
 collisiondemo/main.i:
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\collisiondemo.dir\build.make demos/CMakeFiles/collisiondemo.dir/collisiondemo/main.i
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\collisiondemo.dir\build.make demos/CMakeFiles/collisiondemo.dir/collisiondemo/main.i
 .PHONY : collisiondemo/main.i
 
 # target to generate assembly for a file
 collisiondemo/main.s:
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\collisiondemo.dir\build.make demos/CMakeFiles/collisiondemo.dir/collisiondemo/main.s
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\collisiondemo.dir\build.make demos/CMakeFiles/collisiondemo.dir/collisiondemo/main.s
 .PHONY : collisiondemo/main.s
 
 # target to build an object file
 gamedemo/Demo.obj:
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\gamedemo.dir\build.make demos/CMakeFiles/gamedemo.dir/gamedemo/Demo.obj
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\gamedemo.dir\build.make demos/CMakeFiles/gamedemo.dir/gamedemo/Demo.obj
 .PHONY : gamedemo/Demo.obj
 
 # target to preprocess a source file
 gamedemo/Demo.i:
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\gamedemo.dir\build.make demos/CMakeFiles/gamedemo.dir/gamedemo/Demo.i
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\gamedemo.dir\build.make demos/CMakeFiles/gamedemo.dir/gamedemo/Demo.i
 .PHONY : gamedemo/Demo.i
 
 # target to generate assembly for a file
 gamedemo/Demo.s:
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\gamedemo.dir\build.make demos/CMakeFiles/gamedemo.dir/gamedemo/Demo.s
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\gamedemo.dir\build.make demos/CMakeFiles/gamedemo.dir/gamedemo/Demo.s
 .PHONY : gamedemo/Demo.s
 
 # target to build an object file
 gameloop/Main.obj:
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\gameloop.dir\build.make demos/CMakeFiles/gameloop.dir/gameloop/Main.obj
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\gameloop.dir\build.make demos/CMakeFiles/gameloop.dir/gameloop/Main.obj
 .PHONY : gameloop/Main.obj
 
 # target to preprocess a source file
 gameloop/Main.i:
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\gameloop.dir\build.make demos/CMakeFiles/gameloop.dir/gameloop/Main.i
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\gameloop.dir\build.make demos/CMakeFiles/gameloop.dir/gameloop/Main.i
 .PHONY : gameloop/Main.i
 
 # target to generate assembly for a file
 gameloop/Main.s:
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\gameloop.dir\build.make demos/CMakeFiles/gameloop.dir/gameloop/Main.s
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\gameloop.dir\build.make demos/CMakeFiles/gameloop.dir/gameloop/Main.s
 .PHONY : gameloop/Main.s
 
 # target to build an object file
 linestripdemo/Main.obj:
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\linestripdemo.dir\build.make demos/CMakeFiles/linestripdemo.dir/linestripdemo/Main.obj
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\linestripdemo.dir\build.make demos/CMakeFiles/linestripdemo.dir/linestripdemo/Main.obj
 .PHONY : linestripdemo/Main.obj
 
 # target to preprocess a source file
 linestripdemo/Main.i:
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\linestripdemo.dir\build.make demos/CMakeFiles/linestripdemo.dir/linestripdemo/Main.i
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\linestripdemo.dir\build.make demos/CMakeFiles/linestripdemo.dir/linestripdemo/Main.i
 .PHONY : linestripdemo/Main.i
 
 # target to generate assembly for a file
 linestripdemo/Main.s:
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\linestripdemo.dir\build.make demos/CMakeFiles/linestripdemo.dir/linestripdemo/Main.s
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\linestripdemo.dir\build.make demos/CMakeFiles/linestripdemo.dir/linestripdemo/Main.s
 .PHONY : linestripdemo/Main.s
 
 # target to build an object file
 renderbitmap/Main.obj:
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\renderbitmap.dir\build.make demos/CMakeFiles/renderbitmap.dir/renderbitmap/Main.obj
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\renderbitmap.dir\build.make demos/CMakeFiles/renderbitmap.dir/renderbitmap/Main.obj
 .PHONY : renderbitmap/Main.obj
 
 # target to preprocess a source file
 renderbitmap/Main.i:
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\renderbitmap.dir\build.make demos/CMakeFiles/renderbitmap.dir/renderbitmap/Main.i
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\renderbitmap.dir\build.make demos/CMakeFiles/renderbitmap.dir/renderbitmap/Main.i
 .PHONY : renderbitmap/Main.i
 
 # target to generate assembly for a file
 renderbitmap/Main.s:
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\renderbitmap.dir\build.make demos/CMakeFiles/renderbitmap.dir/renderbitmap/Main.s
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\renderbitmap.dir\build.make demos/CMakeFiles/renderbitmap.dir/renderbitmap/Main.s
 .PHONY : renderbitmap/Main.s
 
 # target to build an object file
 shapedemo/Main.obj:
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\shapedemo.dir\build.make demos/CMakeFiles/shapedemo.dir/shapedemo/Main.obj
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\shapedemo.dir\build.make demos/CMakeFiles/shapedemo.dir/shapedemo/Main.obj
 .PHONY : shapedemo/Main.obj
 
 # target to preprocess a source file
 shapedemo/Main.i:
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\shapedemo.dir\build.make demos/CMakeFiles/shapedemo.dir/shapedemo/Main.i
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\shapedemo.dir\build.make demos/CMakeFiles/shapedemo.dir/shapedemo/Main.i
 .PHONY : shapedemo/Main.i
 
 # target to generate assembly for a file
 shapedemo/Main.s:
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\shapedemo.dir\build.make demos/CMakeFiles/shapedemo.dir/shapedemo/Main.s
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\shapedemo.dir\build.make demos/CMakeFiles/shapedemo.dir/shapedemo/Main.s
 .PHONY : shapedemo/Main.s
 
 # target to build an object file
 textdemo/Main.obj:
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\textdemo.dir\build.make demos/CMakeFiles/textdemo.dir/textdemo/Main.obj
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\textdemo.dir\build.make demos/CMakeFiles/textdemo.dir/textdemo/Main.obj
 .PHONY : textdemo/Main.obj
 
 # target to preprocess a source file
 textdemo/Main.i:
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\textdemo.dir\build.make demos/CMakeFiles/textdemo.dir/textdemo/Main.i
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\textdemo.dir\build.make demos/CMakeFiles/textdemo.dir/textdemo/Main.i
 .PHONY : textdemo/Main.i
 
 # target to generate assembly for a file
 textdemo/Main.s:
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\textdemo.dir\build.make demos/CMakeFiles/textdemo.dir/textdemo/Main.s
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f demos\CMakeFiles\textdemo.dir\build.make demos/CMakeFiles/textdemo.dir/textdemo/Main.s
 .PHONY : textdemo/Main.s
 
 # Help Target
@@ -395,6 +395,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 0
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

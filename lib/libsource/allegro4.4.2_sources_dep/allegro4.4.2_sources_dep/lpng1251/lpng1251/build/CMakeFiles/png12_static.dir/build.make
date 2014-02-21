@@ -37,10 +37,10 @@ EQUALS = =
 CMAKE_EDIT_COMMAND = "C:\Program Files (x86)\CMake 2.8\bin\cmake-gui.exe"
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251
+CMAKE_SOURCE_DIR = C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\build
+CMAKE_BINARY_DIR = C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/png12_static.dir/depend.make
@@ -54,17 +54,17 @@ include CMakeFiles/png12_static.dir/flags.make
 CMakeFiles/png12_static.dir/png.obj: CMakeFiles/png12_static.dir/flags.make
 CMakeFiles/png12_static.dir/png.obj: CMakeFiles/png12_static.dir/includes_C.rsp
 CMakeFiles/png12_static.dir/png.obj: ../png.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\build\CMakeFiles $(CMAKE_PROGRESS_1)
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\build\CMakeFiles $(CMAKE_PROGRESS_1)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/png12_static.dir/png.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\png12_static.dir\png.obj   -c C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\png.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\png12_static.dir\png.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\png.c
 
 CMakeFiles/png12_static.dir/png.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/png12_static.dir/png.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\png.c > CMakeFiles\png12_static.dir\png.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\png.c > CMakeFiles\png12_static.dir\png.i
 
 CMakeFiles/png12_static.dir/png.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/png12_static.dir/png.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\png.c -o CMakeFiles\png12_static.dir\png.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\png.c -o CMakeFiles\png12_static.dir\png.s
 
 CMakeFiles/png12_static.dir/png.obj.requires:
 .PHONY : CMakeFiles/png12_static.dir/png.obj.requires
@@ -78,17 +78,17 @@ CMakeFiles/png12_static.dir/png.obj.provides.build: CMakeFiles/png12_static.dir/
 CMakeFiles/png12_static.dir/pngerror.obj: CMakeFiles/png12_static.dir/flags.make
 CMakeFiles/png12_static.dir/pngerror.obj: CMakeFiles/png12_static.dir/includes_C.rsp
 CMakeFiles/png12_static.dir/pngerror.obj: ../pngerror.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\build\CMakeFiles $(CMAKE_PROGRESS_2)
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\build\CMakeFiles $(CMAKE_PROGRESS_2)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/png12_static.dir/pngerror.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\png12_static.dir\pngerror.obj   -c C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngerror.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\png12_static.dir\pngerror.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngerror.c
 
 CMakeFiles/png12_static.dir/pngerror.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/png12_static.dir/pngerror.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngerror.c > CMakeFiles\png12_static.dir\pngerror.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngerror.c > CMakeFiles\png12_static.dir\pngerror.i
 
 CMakeFiles/png12_static.dir/pngerror.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/png12_static.dir/pngerror.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngerror.c -o CMakeFiles\png12_static.dir\pngerror.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngerror.c -o CMakeFiles\png12_static.dir\pngerror.s
 
 CMakeFiles/png12_static.dir/pngerror.obj.requires:
 .PHONY : CMakeFiles/png12_static.dir/pngerror.obj.requires
@@ -102,17 +102,17 @@ CMakeFiles/png12_static.dir/pngerror.obj.provides.build: CMakeFiles/png12_static
 CMakeFiles/png12_static.dir/pngget.obj: CMakeFiles/png12_static.dir/flags.make
 CMakeFiles/png12_static.dir/pngget.obj: CMakeFiles/png12_static.dir/includes_C.rsp
 CMakeFiles/png12_static.dir/pngget.obj: ../pngget.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\build\CMakeFiles $(CMAKE_PROGRESS_3)
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\build\CMakeFiles $(CMAKE_PROGRESS_3)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/png12_static.dir/pngget.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\png12_static.dir\pngget.obj   -c C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngget.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\png12_static.dir\pngget.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngget.c
 
 CMakeFiles/png12_static.dir/pngget.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/png12_static.dir/pngget.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngget.c > CMakeFiles\png12_static.dir\pngget.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngget.c > CMakeFiles\png12_static.dir\pngget.i
 
 CMakeFiles/png12_static.dir/pngget.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/png12_static.dir/pngget.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngget.c -o CMakeFiles\png12_static.dir\pngget.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngget.c -o CMakeFiles\png12_static.dir\pngget.s
 
 CMakeFiles/png12_static.dir/pngget.obj.requires:
 .PHONY : CMakeFiles/png12_static.dir/pngget.obj.requires
@@ -126,17 +126,17 @@ CMakeFiles/png12_static.dir/pngget.obj.provides.build: CMakeFiles/png12_static.d
 CMakeFiles/png12_static.dir/pngmem.obj: CMakeFiles/png12_static.dir/flags.make
 CMakeFiles/png12_static.dir/pngmem.obj: CMakeFiles/png12_static.dir/includes_C.rsp
 CMakeFiles/png12_static.dir/pngmem.obj: ../pngmem.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\build\CMakeFiles $(CMAKE_PROGRESS_4)
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\build\CMakeFiles $(CMAKE_PROGRESS_4)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/png12_static.dir/pngmem.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\png12_static.dir\pngmem.obj   -c C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngmem.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\png12_static.dir\pngmem.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngmem.c
 
 CMakeFiles/png12_static.dir/pngmem.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/png12_static.dir/pngmem.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngmem.c > CMakeFiles\png12_static.dir\pngmem.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngmem.c > CMakeFiles\png12_static.dir\pngmem.i
 
 CMakeFiles/png12_static.dir/pngmem.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/png12_static.dir/pngmem.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngmem.c -o CMakeFiles\png12_static.dir\pngmem.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngmem.c -o CMakeFiles\png12_static.dir\pngmem.s
 
 CMakeFiles/png12_static.dir/pngmem.obj.requires:
 .PHONY : CMakeFiles/png12_static.dir/pngmem.obj.requires
@@ -150,17 +150,17 @@ CMakeFiles/png12_static.dir/pngmem.obj.provides.build: CMakeFiles/png12_static.d
 CMakeFiles/png12_static.dir/pngpread.obj: CMakeFiles/png12_static.dir/flags.make
 CMakeFiles/png12_static.dir/pngpread.obj: CMakeFiles/png12_static.dir/includes_C.rsp
 CMakeFiles/png12_static.dir/pngpread.obj: ../pngpread.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\build\CMakeFiles $(CMAKE_PROGRESS_5)
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\build\CMakeFiles $(CMAKE_PROGRESS_5)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/png12_static.dir/pngpread.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\png12_static.dir\pngpread.obj   -c C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngpread.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\png12_static.dir\pngpread.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngpread.c
 
 CMakeFiles/png12_static.dir/pngpread.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/png12_static.dir/pngpread.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngpread.c > CMakeFiles\png12_static.dir\pngpread.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngpread.c > CMakeFiles\png12_static.dir\pngpread.i
 
 CMakeFiles/png12_static.dir/pngpread.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/png12_static.dir/pngpread.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngpread.c -o CMakeFiles\png12_static.dir\pngpread.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngpread.c -o CMakeFiles\png12_static.dir\pngpread.s
 
 CMakeFiles/png12_static.dir/pngpread.obj.requires:
 .PHONY : CMakeFiles/png12_static.dir/pngpread.obj.requires
@@ -174,17 +174,17 @@ CMakeFiles/png12_static.dir/pngpread.obj.provides.build: CMakeFiles/png12_static
 CMakeFiles/png12_static.dir/pngread.obj: CMakeFiles/png12_static.dir/flags.make
 CMakeFiles/png12_static.dir/pngread.obj: CMakeFiles/png12_static.dir/includes_C.rsp
 CMakeFiles/png12_static.dir/pngread.obj: ../pngread.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\build\CMakeFiles $(CMAKE_PROGRESS_6)
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\build\CMakeFiles $(CMAKE_PROGRESS_6)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/png12_static.dir/pngread.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\png12_static.dir\pngread.obj   -c C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngread.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\png12_static.dir\pngread.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngread.c
 
 CMakeFiles/png12_static.dir/pngread.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/png12_static.dir/pngread.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngread.c > CMakeFiles\png12_static.dir\pngread.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngread.c > CMakeFiles\png12_static.dir\pngread.i
 
 CMakeFiles/png12_static.dir/pngread.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/png12_static.dir/pngread.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngread.c -o CMakeFiles\png12_static.dir\pngread.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngread.c -o CMakeFiles\png12_static.dir\pngread.s
 
 CMakeFiles/png12_static.dir/pngread.obj.requires:
 .PHONY : CMakeFiles/png12_static.dir/pngread.obj.requires
@@ -198,17 +198,17 @@ CMakeFiles/png12_static.dir/pngread.obj.provides.build: CMakeFiles/png12_static.
 CMakeFiles/png12_static.dir/pngrio.obj: CMakeFiles/png12_static.dir/flags.make
 CMakeFiles/png12_static.dir/pngrio.obj: CMakeFiles/png12_static.dir/includes_C.rsp
 CMakeFiles/png12_static.dir/pngrio.obj: ../pngrio.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\build\CMakeFiles $(CMAKE_PROGRESS_7)
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\build\CMakeFiles $(CMAKE_PROGRESS_7)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/png12_static.dir/pngrio.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\png12_static.dir\pngrio.obj   -c C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngrio.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\png12_static.dir\pngrio.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngrio.c
 
 CMakeFiles/png12_static.dir/pngrio.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/png12_static.dir/pngrio.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngrio.c > CMakeFiles\png12_static.dir\pngrio.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngrio.c > CMakeFiles\png12_static.dir\pngrio.i
 
 CMakeFiles/png12_static.dir/pngrio.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/png12_static.dir/pngrio.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngrio.c -o CMakeFiles\png12_static.dir\pngrio.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngrio.c -o CMakeFiles\png12_static.dir\pngrio.s
 
 CMakeFiles/png12_static.dir/pngrio.obj.requires:
 .PHONY : CMakeFiles/png12_static.dir/pngrio.obj.requires
@@ -222,17 +222,17 @@ CMakeFiles/png12_static.dir/pngrio.obj.provides.build: CMakeFiles/png12_static.d
 CMakeFiles/png12_static.dir/pngrtran.obj: CMakeFiles/png12_static.dir/flags.make
 CMakeFiles/png12_static.dir/pngrtran.obj: CMakeFiles/png12_static.dir/includes_C.rsp
 CMakeFiles/png12_static.dir/pngrtran.obj: ../pngrtran.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\build\CMakeFiles $(CMAKE_PROGRESS_8)
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\build\CMakeFiles $(CMAKE_PROGRESS_8)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/png12_static.dir/pngrtran.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\png12_static.dir\pngrtran.obj   -c C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngrtran.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\png12_static.dir\pngrtran.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngrtran.c
 
 CMakeFiles/png12_static.dir/pngrtran.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/png12_static.dir/pngrtran.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngrtran.c > CMakeFiles\png12_static.dir\pngrtran.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngrtran.c > CMakeFiles\png12_static.dir\pngrtran.i
 
 CMakeFiles/png12_static.dir/pngrtran.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/png12_static.dir/pngrtran.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngrtran.c -o CMakeFiles\png12_static.dir\pngrtran.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngrtran.c -o CMakeFiles\png12_static.dir\pngrtran.s
 
 CMakeFiles/png12_static.dir/pngrtran.obj.requires:
 .PHONY : CMakeFiles/png12_static.dir/pngrtran.obj.requires
@@ -246,17 +246,17 @@ CMakeFiles/png12_static.dir/pngrtran.obj.provides.build: CMakeFiles/png12_static
 CMakeFiles/png12_static.dir/pngrutil.obj: CMakeFiles/png12_static.dir/flags.make
 CMakeFiles/png12_static.dir/pngrutil.obj: CMakeFiles/png12_static.dir/includes_C.rsp
 CMakeFiles/png12_static.dir/pngrutil.obj: ../pngrutil.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\build\CMakeFiles $(CMAKE_PROGRESS_9)
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\build\CMakeFiles $(CMAKE_PROGRESS_9)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/png12_static.dir/pngrutil.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\png12_static.dir\pngrutil.obj   -c C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngrutil.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\png12_static.dir\pngrutil.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngrutil.c
 
 CMakeFiles/png12_static.dir/pngrutil.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/png12_static.dir/pngrutil.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngrutil.c > CMakeFiles\png12_static.dir\pngrutil.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngrutil.c > CMakeFiles\png12_static.dir\pngrutil.i
 
 CMakeFiles/png12_static.dir/pngrutil.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/png12_static.dir/pngrutil.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngrutil.c -o CMakeFiles\png12_static.dir\pngrutil.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngrutil.c -o CMakeFiles\png12_static.dir\pngrutil.s
 
 CMakeFiles/png12_static.dir/pngrutil.obj.requires:
 .PHONY : CMakeFiles/png12_static.dir/pngrutil.obj.requires
@@ -270,17 +270,17 @@ CMakeFiles/png12_static.dir/pngrutil.obj.provides.build: CMakeFiles/png12_static
 CMakeFiles/png12_static.dir/pngset.obj: CMakeFiles/png12_static.dir/flags.make
 CMakeFiles/png12_static.dir/pngset.obj: CMakeFiles/png12_static.dir/includes_C.rsp
 CMakeFiles/png12_static.dir/pngset.obj: ../pngset.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\build\CMakeFiles $(CMAKE_PROGRESS_10)
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\build\CMakeFiles $(CMAKE_PROGRESS_10)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/png12_static.dir/pngset.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\png12_static.dir\pngset.obj   -c C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngset.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\png12_static.dir\pngset.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngset.c
 
 CMakeFiles/png12_static.dir/pngset.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/png12_static.dir/pngset.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngset.c > CMakeFiles\png12_static.dir\pngset.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngset.c > CMakeFiles\png12_static.dir\pngset.i
 
 CMakeFiles/png12_static.dir/pngset.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/png12_static.dir/pngset.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngset.c -o CMakeFiles\png12_static.dir\pngset.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngset.c -o CMakeFiles\png12_static.dir\pngset.s
 
 CMakeFiles/png12_static.dir/pngset.obj.requires:
 .PHONY : CMakeFiles/png12_static.dir/pngset.obj.requires
@@ -294,17 +294,17 @@ CMakeFiles/png12_static.dir/pngset.obj.provides.build: CMakeFiles/png12_static.d
 CMakeFiles/png12_static.dir/pngtrans.obj: CMakeFiles/png12_static.dir/flags.make
 CMakeFiles/png12_static.dir/pngtrans.obj: CMakeFiles/png12_static.dir/includes_C.rsp
 CMakeFiles/png12_static.dir/pngtrans.obj: ../pngtrans.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\build\CMakeFiles $(CMAKE_PROGRESS_11)
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\build\CMakeFiles $(CMAKE_PROGRESS_11)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/png12_static.dir/pngtrans.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\png12_static.dir\pngtrans.obj   -c C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngtrans.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\png12_static.dir\pngtrans.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngtrans.c
 
 CMakeFiles/png12_static.dir/pngtrans.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/png12_static.dir/pngtrans.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngtrans.c > CMakeFiles\png12_static.dir\pngtrans.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngtrans.c > CMakeFiles\png12_static.dir\pngtrans.i
 
 CMakeFiles/png12_static.dir/pngtrans.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/png12_static.dir/pngtrans.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngtrans.c -o CMakeFiles\png12_static.dir\pngtrans.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngtrans.c -o CMakeFiles\png12_static.dir\pngtrans.s
 
 CMakeFiles/png12_static.dir/pngtrans.obj.requires:
 .PHONY : CMakeFiles/png12_static.dir/pngtrans.obj.requires
@@ -318,17 +318,17 @@ CMakeFiles/png12_static.dir/pngtrans.obj.provides.build: CMakeFiles/png12_static
 CMakeFiles/png12_static.dir/pngwio.obj: CMakeFiles/png12_static.dir/flags.make
 CMakeFiles/png12_static.dir/pngwio.obj: CMakeFiles/png12_static.dir/includes_C.rsp
 CMakeFiles/png12_static.dir/pngwio.obj: ../pngwio.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\build\CMakeFiles $(CMAKE_PROGRESS_12)
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\build\CMakeFiles $(CMAKE_PROGRESS_12)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/png12_static.dir/pngwio.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\png12_static.dir\pngwio.obj   -c C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngwio.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\png12_static.dir\pngwio.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngwio.c
 
 CMakeFiles/png12_static.dir/pngwio.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/png12_static.dir/pngwio.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngwio.c > CMakeFiles\png12_static.dir\pngwio.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngwio.c > CMakeFiles\png12_static.dir\pngwio.i
 
 CMakeFiles/png12_static.dir/pngwio.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/png12_static.dir/pngwio.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngwio.c -o CMakeFiles\png12_static.dir\pngwio.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngwio.c -o CMakeFiles\png12_static.dir\pngwio.s
 
 CMakeFiles/png12_static.dir/pngwio.obj.requires:
 .PHONY : CMakeFiles/png12_static.dir/pngwio.obj.requires
@@ -342,17 +342,17 @@ CMakeFiles/png12_static.dir/pngwio.obj.provides.build: CMakeFiles/png12_static.d
 CMakeFiles/png12_static.dir/pngwrite.obj: CMakeFiles/png12_static.dir/flags.make
 CMakeFiles/png12_static.dir/pngwrite.obj: CMakeFiles/png12_static.dir/includes_C.rsp
 CMakeFiles/png12_static.dir/pngwrite.obj: ../pngwrite.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\build\CMakeFiles $(CMAKE_PROGRESS_13)
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\build\CMakeFiles $(CMAKE_PROGRESS_13)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/png12_static.dir/pngwrite.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\png12_static.dir\pngwrite.obj   -c C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngwrite.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\png12_static.dir\pngwrite.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngwrite.c
 
 CMakeFiles/png12_static.dir/pngwrite.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/png12_static.dir/pngwrite.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngwrite.c > CMakeFiles\png12_static.dir\pngwrite.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngwrite.c > CMakeFiles\png12_static.dir\pngwrite.i
 
 CMakeFiles/png12_static.dir/pngwrite.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/png12_static.dir/pngwrite.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngwrite.c -o CMakeFiles\png12_static.dir\pngwrite.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngwrite.c -o CMakeFiles\png12_static.dir\pngwrite.s
 
 CMakeFiles/png12_static.dir/pngwrite.obj.requires:
 .PHONY : CMakeFiles/png12_static.dir/pngwrite.obj.requires
@@ -366,17 +366,17 @@ CMakeFiles/png12_static.dir/pngwrite.obj.provides.build: CMakeFiles/png12_static
 CMakeFiles/png12_static.dir/pngwtran.obj: CMakeFiles/png12_static.dir/flags.make
 CMakeFiles/png12_static.dir/pngwtran.obj: CMakeFiles/png12_static.dir/includes_C.rsp
 CMakeFiles/png12_static.dir/pngwtran.obj: ../pngwtran.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\build\CMakeFiles $(CMAKE_PROGRESS_14)
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\build\CMakeFiles $(CMAKE_PROGRESS_14)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/png12_static.dir/pngwtran.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\png12_static.dir\pngwtran.obj   -c C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngwtran.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\png12_static.dir\pngwtran.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngwtran.c
 
 CMakeFiles/png12_static.dir/pngwtran.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/png12_static.dir/pngwtran.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngwtran.c > CMakeFiles\png12_static.dir\pngwtran.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngwtran.c > CMakeFiles\png12_static.dir\pngwtran.i
 
 CMakeFiles/png12_static.dir/pngwtran.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/png12_static.dir/pngwtran.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngwtran.c -o CMakeFiles\png12_static.dir\pngwtran.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngwtran.c -o CMakeFiles\png12_static.dir\pngwtran.s
 
 CMakeFiles/png12_static.dir/pngwtran.obj.requires:
 .PHONY : CMakeFiles/png12_static.dir/pngwtran.obj.requires
@@ -390,17 +390,17 @@ CMakeFiles/png12_static.dir/pngwtran.obj.provides.build: CMakeFiles/png12_static
 CMakeFiles/png12_static.dir/pngwutil.obj: CMakeFiles/png12_static.dir/flags.make
 CMakeFiles/png12_static.dir/pngwutil.obj: CMakeFiles/png12_static.dir/includes_C.rsp
 CMakeFiles/png12_static.dir/pngwutil.obj: ../pngwutil.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\build\CMakeFiles $(CMAKE_PROGRESS_15)
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\build\CMakeFiles $(CMAKE_PROGRESS_15)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/png12_static.dir/pngwutil.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\png12_static.dir\pngwutil.obj   -c C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngwutil.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\png12_static.dir\pngwutil.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngwutil.c
 
 CMakeFiles/png12_static.dir/pngwutil.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/png12_static.dir/pngwutil.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngwutil.c > CMakeFiles\png12_static.dir\pngwutil.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngwutil.c > CMakeFiles\png12_static.dir\pngwutil.i
 
 CMakeFiles/png12_static.dir/pngwutil.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/png12_static.dir/pngwutil.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngwutil.c -o CMakeFiles\png12_static.dir\pngwutil.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\pngwutil.c -o CMakeFiles\png12_static.dir\pngwutil.s
 
 CMakeFiles/png12_static.dir/pngwutil.obj.requires:
 .PHONY : CMakeFiles/png12_static.dir/pngwutil.obj.requires
@@ -479,6 +479,6 @@ CMakeFiles/png12_static.dir/clean:
 .PHONY : CMakeFiles/png12_static.dir/clean
 
 CMakeFiles/png12_static.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251 C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251 C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\build C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\build C:\whitecat_crossplateform\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\build\CMakeFiles\png12_static.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251 C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251 C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\build C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\build C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\allegro4.4.2_sources_dep\allegro4.4.2_sources_dep\lpng1251\lpng1251\build\CMakeFiles\png12_static.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/png12_static.dir/depend
 

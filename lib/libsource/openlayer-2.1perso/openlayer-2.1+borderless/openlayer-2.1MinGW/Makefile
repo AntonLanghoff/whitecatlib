@@ -41,10 +41,10 @@ EQUALS = =
 CMAKE_EDIT_COMMAND = "C:\Program Files (x86)\CMake 2.8\bin\cmake-gui.exe"
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1
+CMAKE_SOURCE_DIR = C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW
+CMAKE_BINARY_DIR = C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -112,9 +112,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles\progress.marks
 	$(MAKE) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -179,97 +179,6 @@ glyph-agl: cmake_check_build_system
 glyph-agl/fast:
 	$(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/build
 .PHONY : glyph-agl/fast
-
-#=============================================================================
-# Target rules for targets named collisiondemo
-
-# Build rule for target.
-collisiondemo: cmake_check_build_system
-	$(MAKE) -f CMakeFiles\Makefile2 collisiondemo
-.PHONY : collisiondemo
-
-# fast build rule for target.
-collisiondemo/fast:
-	$(MAKE) -f demos\CMakeFiles\collisiondemo.dir\build.make demos/CMakeFiles/collisiondemo.dir/build
-.PHONY : collisiondemo/fast
-
-#=============================================================================
-# Target rules for targets named gamedemo
-
-# Build rule for target.
-gamedemo: cmake_check_build_system
-	$(MAKE) -f CMakeFiles\Makefile2 gamedemo
-.PHONY : gamedemo
-
-# fast build rule for target.
-gamedemo/fast:
-	$(MAKE) -f demos\CMakeFiles\gamedemo.dir\build.make demos/CMakeFiles/gamedemo.dir/build
-.PHONY : gamedemo/fast
-
-#=============================================================================
-# Target rules for targets named gameloop
-
-# Build rule for target.
-gameloop: cmake_check_build_system
-	$(MAKE) -f CMakeFiles\Makefile2 gameloop
-.PHONY : gameloop
-
-# fast build rule for target.
-gameloop/fast:
-	$(MAKE) -f demos\CMakeFiles\gameloop.dir\build.make demos/CMakeFiles/gameloop.dir/build
-.PHONY : gameloop/fast
-
-#=============================================================================
-# Target rules for targets named linestripdemo
-
-# Build rule for target.
-linestripdemo: cmake_check_build_system
-	$(MAKE) -f CMakeFiles\Makefile2 linestripdemo
-.PHONY : linestripdemo
-
-# fast build rule for target.
-linestripdemo/fast:
-	$(MAKE) -f demos\CMakeFiles\linestripdemo.dir\build.make demos/CMakeFiles/linestripdemo.dir/build
-.PHONY : linestripdemo/fast
-
-#=============================================================================
-# Target rules for targets named renderbitmap
-
-# Build rule for target.
-renderbitmap: cmake_check_build_system
-	$(MAKE) -f CMakeFiles\Makefile2 renderbitmap
-.PHONY : renderbitmap
-
-# fast build rule for target.
-renderbitmap/fast:
-	$(MAKE) -f demos\CMakeFiles\renderbitmap.dir\build.make demos/CMakeFiles/renderbitmap.dir/build
-.PHONY : renderbitmap/fast
-
-#=============================================================================
-# Target rules for targets named shapedemo
-
-# Build rule for target.
-shapedemo: cmake_check_build_system
-	$(MAKE) -f CMakeFiles\Makefile2 shapedemo
-.PHONY : shapedemo
-
-# fast build rule for target.
-shapedemo/fast:
-	$(MAKE) -f demos\CMakeFiles\shapedemo.dir\build.make demos/CMakeFiles/shapedemo.dir/build
-.PHONY : shapedemo/fast
-
-#=============================================================================
-# Target rules for targets named textdemo
-
-# Build rule for target.
-textdemo: cmake_check_build_system
-	$(MAKE) -f CMakeFiles\Makefile2 textdemo
-.PHONY : textdemo
-
-# fast build rule for target.
-textdemo/fast:
-	$(MAKE) -f demos\CMakeFiles\textdemo.dir\build.make demos/CMakeFiles/textdemo.dir/build
-.PHONY : textdemo/fast
 
 # target to build an object file
 src/Animation.obj:
@@ -811,13 +720,6 @@ help:
 	@echo ... rebuild_cache
 	@echo ... uninstall
 	@echo ... glyph-agl
-	@echo ... collisiondemo
-	@echo ... gamedemo
-	@echo ... gameloop
-	@echo ... linestripdemo
-	@echo ... renderbitmap
-	@echo ... shapedemo
-	@echo ... textdemo
 	@echo ... src/Animation.obj
 	@echo ... src/Animation.i
 	@echo ... src/Animation.s

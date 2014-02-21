@@ -1,0 +1,29 @@
+
+TARGET = ../../linux/libCommon.o
+FLAGS := -O0 -Wall -g -D_REENTRANT -D_LOOSE_KERNEL_NAMES -D__Pentium__
+LOBJ = lib
+CC = gcc
+LD = ld
+CFLAGS := $(FLAGS)  -I../Headers -I../atomic
+
+LSRC = msMemory.c msEvents.c msSeq.c
+OBJ = $(patsubst %.c, $(LOBJ)/%.o, $(LSRC)) $(LOBJ)/lflifo.o
+SRC := $(LSRC) ../atomic/lflifo.c
+
+$(TARGET) :  $(OBJ)
+	$(LD) $(OBJ) -g  -r -o $(TARGET)
+
+dep:
+	makedepend -- $(CFLAGS) -- -p$(LOBJ)/ -Y -m $(SRC)
+
+clean : 
+	rm $(OBJ) $(TARGET)
+
+$(LOBJ)/%.o: %.c
+	$(CC) $(CFLAGS) -c $<  -o $@
+
+$(LOBJ)/%.o: ../atomic/%.c
+	$(CC) $(CFLAGS) -c $<  -o $@
+
+# DO NOT DELETE
+

@@ -40,7 +40,7 @@ CMAKE_EDIT_COMMAND = "C:\Program Files (x86)\CMake 2.8\bin\cmake-gui.exe"
 CMAKE_SOURCE_DIR = C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\build
+CMAKE_BINARY_DIR = C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\zlib-1.2.8\build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/zlibstatic.dir/depend.make
@@ -53,8 +53,8 @@ include CMakeFiles/zlibstatic.dir/flags.make
 
 CMakeFiles/zlibstatic.dir/adler32.obj: CMakeFiles/zlibstatic.dir/flags.make
 CMakeFiles/zlibstatic.dir/adler32.obj: CMakeFiles/zlibstatic.dir/includes_C.rsp
-CMakeFiles/zlibstatic.dir/adler32.obj: ../adler32.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\build\CMakeFiles $(CMAKE_PROGRESS_1)
+CMakeFiles/zlibstatic.dir/adler32.obj: C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/adler32.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\zlib-1.2.8\build\CMakeFiles $(CMAKE_PROGRESS_1)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/zlibstatic.dir/adler32.obj"
 	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\zlibstatic.dir\adler32.obj   -c C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\adler32.c
 
@@ -77,8 +77,8 @@ CMakeFiles/zlibstatic.dir/adler32.obj.provides.build: CMakeFiles/zlibstatic.dir/
 
 CMakeFiles/zlibstatic.dir/compress.obj: CMakeFiles/zlibstatic.dir/flags.make
 CMakeFiles/zlibstatic.dir/compress.obj: CMakeFiles/zlibstatic.dir/includes_C.rsp
-CMakeFiles/zlibstatic.dir/compress.obj: ../compress.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\build\CMakeFiles $(CMAKE_PROGRESS_2)
+CMakeFiles/zlibstatic.dir/compress.obj: C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/compress.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\zlib-1.2.8\build\CMakeFiles $(CMAKE_PROGRESS_2)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/zlibstatic.dir/compress.obj"
 	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\zlibstatic.dir\compress.obj   -c C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\compress.c
 
@@ -101,8 +101,8 @@ CMakeFiles/zlibstatic.dir/compress.obj.provides.build: CMakeFiles/zlibstatic.dir
 
 CMakeFiles/zlibstatic.dir/crc32.obj: CMakeFiles/zlibstatic.dir/flags.make
 CMakeFiles/zlibstatic.dir/crc32.obj: CMakeFiles/zlibstatic.dir/includes_C.rsp
-CMakeFiles/zlibstatic.dir/crc32.obj: ../crc32.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\build\CMakeFiles $(CMAKE_PROGRESS_3)
+CMakeFiles/zlibstatic.dir/crc32.obj: C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/crc32.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\zlib-1.2.8\build\CMakeFiles $(CMAKE_PROGRESS_3)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/zlibstatic.dir/crc32.obj"
 	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\zlibstatic.dir\crc32.obj   -c C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\crc32.c
 
@@ -125,8 +125,8 @@ CMakeFiles/zlibstatic.dir/crc32.obj.provides.build: CMakeFiles/zlibstatic.dir/cr
 
 CMakeFiles/zlibstatic.dir/deflate.obj: CMakeFiles/zlibstatic.dir/flags.make
 CMakeFiles/zlibstatic.dir/deflate.obj: CMakeFiles/zlibstatic.dir/includes_C.rsp
-CMakeFiles/zlibstatic.dir/deflate.obj: ../deflate.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\build\CMakeFiles $(CMAKE_PROGRESS_4)
+CMakeFiles/zlibstatic.dir/deflate.obj: C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/deflate.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\zlib-1.2.8\build\CMakeFiles $(CMAKE_PROGRESS_4)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/zlibstatic.dir/deflate.obj"
 	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\zlibstatic.dir\deflate.obj   -c C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\deflate.c
 
@@ -149,8 +149,8 @@ CMakeFiles/zlibstatic.dir/deflate.obj.provides.build: CMakeFiles/zlibstatic.dir/
 
 CMakeFiles/zlibstatic.dir/gzclose.obj: CMakeFiles/zlibstatic.dir/flags.make
 CMakeFiles/zlibstatic.dir/gzclose.obj: CMakeFiles/zlibstatic.dir/includes_C.rsp
-CMakeFiles/zlibstatic.dir/gzclose.obj: ../gzclose.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\build\CMakeFiles $(CMAKE_PROGRESS_5)
+CMakeFiles/zlibstatic.dir/gzclose.obj: C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/gzclose.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\zlib-1.2.8\build\CMakeFiles $(CMAKE_PROGRESS_5)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/zlibstatic.dir/gzclose.obj"
 	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\zlibstatic.dir\gzclose.obj   -c C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\gzclose.c
 
@@ -173,8 +173,8 @@ CMakeFiles/zlibstatic.dir/gzclose.obj.provides.build: CMakeFiles/zlibstatic.dir/
 
 CMakeFiles/zlibstatic.dir/gzlib.obj: CMakeFiles/zlibstatic.dir/flags.make
 CMakeFiles/zlibstatic.dir/gzlib.obj: CMakeFiles/zlibstatic.dir/includes_C.rsp
-CMakeFiles/zlibstatic.dir/gzlib.obj: ../gzlib.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\build\CMakeFiles $(CMAKE_PROGRESS_6)
+CMakeFiles/zlibstatic.dir/gzlib.obj: C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/gzlib.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\zlib-1.2.8\build\CMakeFiles $(CMAKE_PROGRESS_6)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/zlibstatic.dir/gzlib.obj"
 	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\zlibstatic.dir\gzlib.obj   -c C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\gzlib.c
 
@@ -197,8 +197,8 @@ CMakeFiles/zlibstatic.dir/gzlib.obj.provides.build: CMakeFiles/zlibstatic.dir/gz
 
 CMakeFiles/zlibstatic.dir/gzread.obj: CMakeFiles/zlibstatic.dir/flags.make
 CMakeFiles/zlibstatic.dir/gzread.obj: CMakeFiles/zlibstatic.dir/includes_C.rsp
-CMakeFiles/zlibstatic.dir/gzread.obj: ../gzread.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\build\CMakeFiles $(CMAKE_PROGRESS_7)
+CMakeFiles/zlibstatic.dir/gzread.obj: C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/gzread.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\zlib-1.2.8\build\CMakeFiles $(CMAKE_PROGRESS_7)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/zlibstatic.dir/gzread.obj"
 	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\zlibstatic.dir\gzread.obj   -c C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\gzread.c
 
@@ -221,8 +221,8 @@ CMakeFiles/zlibstatic.dir/gzread.obj.provides.build: CMakeFiles/zlibstatic.dir/g
 
 CMakeFiles/zlibstatic.dir/gzwrite.obj: CMakeFiles/zlibstatic.dir/flags.make
 CMakeFiles/zlibstatic.dir/gzwrite.obj: CMakeFiles/zlibstatic.dir/includes_C.rsp
-CMakeFiles/zlibstatic.dir/gzwrite.obj: ../gzwrite.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\build\CMakeFiles $(CMAKE_PROGRESS_8)
+CMakeFiles/zlibstatic.dir/gzwrite.obj: C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/gzwrite.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\zlib-1.2.8\build\CMakeFiles $(CMAKE_PROGRESS_8)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/zlibstatic.dir/gzwrite.obj"
 	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\zlibstatic.dir\gzwrite.obj   -c C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\gzwrite.c
 
@@ -245,8 +245,8 @@ CMakeFiles/zlibstatic.dir/gzwrite.obj.provides.build: CMakeFiles/zlibstatic.dir/
 
 CMakeFiles/zlibstatic.dir/inflate.obj: CMakeFiles/zlibstatic.dir/flags.make
 CMakeFiles/zlibstatic.dir/inflate.obj: CMakeFiles/zlibstatic.dir/includes_C.rsp
-CMakeFiles/zlibstatic.dir/inflate.obj: ../inflate.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\build\CMakeFiles $(CMAKE_PROGRESS_9)
+CMakeFiles/zlibstatic.dir/inflate.obj: C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/inflate.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\zlib-1.2.8\build\CMakeFiles $(CMAKE_PROGRESS_9)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/zlibstatic.dir/inflate.obj"
 	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\zlibstatic.dir\inflate.obj   -c C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\inflate.c
 
@@ -269,8 +269,8 @@ CMakeFiles/zlibstatic.dir/inflate.obj.provides.build: CMakeFiles/zlibstatic.dir/
 
 CMakeFiles/zlibstatic.dir/infback.obj: CMakeFiles/zlibstatic.dir/flags.make
 CMakeFiles/zlibstatic.dir/infback.obj: CMakeFiles/zlibstatic.dir/includes_C.rsp
-CMakeFiles/zlibstatic.dir/infback.obj: ../infback.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\build\CMakeFiles $(CMAKE_PROGRESS_10)
+CMakeFiles/zlibstatic.dir/infback.obj: C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/infback.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\zlib-1.2.8\build\CMakeFiles $(CMAKE_PROGRESS_10)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/zlibstatic.dir/infback.obj"
 	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\zlibstatic.dir\infback.obj   -c C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\infback.c
 
@@ -293,8 +293,8 @@ CMakeFiles/zlibstatic.dir/infback.obj.provides.build: CMakeFiles/zlibstatic.dir/
 
 CMakeFiles/zlibstatic.dir/inftrees.obj: CMakeFiles/zlibstatic.dir/flags.make
 CMakeFiles/zlibstatic.dir/inftrees.obj: CMakeFiles/zlibstatic.dir/includes_C.rsp
-CMakeFiles/zlibstatic.dir/inftrees.obj: ../inftrees.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\build\CMakeFiles $(CMAKE_PROGRESS_11)
+CMakeFiles/zlibstatic.dir/inftrees.obj: C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/inftrees.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\zlib-1.2.8\build\CMakeFiles $(CMAKE_PROGRESS_11)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/zlibstatic.dir/inftrees.obj"
 	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\zlibstatic.dir\inftrees.obj   -c C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\inftrees.c
 
@@ -317,8 +317,8 @@ CMakeFiles/zlibstatic.dir/inftrees.obj.provides.build: CMakeFiles/zlibstatic.dir
 
 CMakeFiles/zlibstatic.dir/inffast.obj: CMakeFiles/zlibstatic.dir/flags.make
 CMakeFiles/zlibstatic.dir/inffast.obj: CMakeFiles/zlibstatic.dir/includes_C.rsp
-CMakeFiles/zlibstatic.dir/inffast.obj: ../inffast.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\build\CMakeFiles $(CMAKE_PROGRESS_12)
+CMakeFiles/zlibstatic.dir/inffast.obj: C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/inffast.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\zlib-1.2.8\build\CMakeFiles $(CMAKE_PROGRESS_12)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/zlibstatic.dir/inffast.obj"
 	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\zlibstatic.dir\inffast.obj   -c C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\inffast.c
 
@@ -341,8 +341,8 @@ CMakeFiles/zlibstatic.dir/inffast.obj.provides.build: CMakeFiles/zlibstatic.dir/
 
 CMakeFiles/zlibstatic.dir/trees.obj: CMakeFiles/zlibstatic.dir/flags.make
 CMakeFiles/zlibstatic.dir/trees.obj: CMakeFiles/zlibstatic.dir/includes_C.rsp
-CMakeFiles/zlibstatic.dir/trees.obj: ../trees.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\build\CMakeFiles $(CMAKE_PROGRESS_13)
+CMakeFiles/zlibstatic.dir/trees.obj: C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/trees.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\zlib-1.2.8\build\CMakeFiles $(CMAKE_PROGRESS_13)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/zlibstatic.dir/trees.obj"
 	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\zlibstatic.dir\trees.obj   -c C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\trees.c
 
@@ -365,8 +365,8 @@ CMakeFiles/zlibstatic.dir/trees.obj.provides.build: CMakeFiles/zlibstatic.dir/tr
 
 CMakeFiles/zlibstatic.dir/uncompr.obj: CMakeFiles/zlibstatic.dir/flags.make
 CMakeFiles/zlibstatic.dir/uncompr.obj: CMakeFiles/zlibstatic.dir/includes_C.rsp
-CMakeFiles/zlibstatic.dir/uncompr.obj: ../uncompr.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\build\CMakeFiles $(CMAKE_PROGRESS_14)
+CMakeFiles/zlibstatic.dir/uncompr.obj: C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/uncompr.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\zlib-1.2.8\build\CMakeFiles $(CMAKE_PROGRESS_14)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/zlibstatic.dir/uncompr.obj"
 	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\zlibstatic.dir\uncompr.obj   -c C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\uncompr.c
 
@@ -389,8 +389,8 @@ CMakeFiles/zlibstatic.dir/uncompr.obj.provides.build: CMakeFiles/zlibstatic.dir/
 
 CMakeFiles/zlibstatic.dir/zutil.obj: CMakeFiles/zlibstatic.dir/flags.make
 CMakeFiles/zlibstatic.dir/zutil.obj: CMakeFiles/zlibstatic.dir/includes_C.rsp
-CMakeFiles/zlibstatic.dir/zutil.obj: ../zutil.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\build\CMakeFiles $(CMAKE_PROGRESS_15)
+CMakeFiles/zlibstatic.dir/zutil.obj: C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/zutil.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\zlib-1.2.8\build\CMakeFiles $(CMAKE_PROGRESS_15)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/zlibstatic.dir/zutil.obj"
 	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\zlibstatic.dir\zutil.obj   -c C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\zutil.c
 
@@ -479,6 +479,6 @@ CMakeFiles/zlibstatic.dir/clean:
 .PHONY : CMakeFiles/zlibstatic.dir/clean
 
 CMakeFiles/zlibstatic.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8 C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8 C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\build C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\build C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\build\CMakeFiles\zlibstatic.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8 C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8 C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\zlib-1.2.8\build C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\zlib-1.2.8\build C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\zlib-1.2.8\build\CMakeFiles\zlibstatic.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/zlibstatic.dir/depend
 

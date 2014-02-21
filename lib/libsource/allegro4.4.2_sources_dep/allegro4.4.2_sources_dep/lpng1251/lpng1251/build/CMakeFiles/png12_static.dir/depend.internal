@@ -78,9 +78,9 @@ CMakeFiles/png12_static.dir/png.obj
  C:/MinGW/include/wtypes.h
  C:/MinGW/include/zconf.h
  C:/MinGW/include/zlib.h
- C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/png.c
- C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/png.h
- C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngconf.h
+ C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/png.c
+ C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/png.h
+ C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngconf.h
 CMakeFiles/png12_static.dir/pngerror.obj
  C:/MinGW/include/_mingw.h
  C:/MinGW/include/basetsd.h
@@ -158,9 +158,9 @@ CMakeFiles/png12_static.dir/pngerror.obj
  C:/MinGW/include/wtypes.h
  C:/MinGW/include/zconf.h
  C:/MinGW/include/zlib.h
- C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/png.h
- C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngconf.h
- C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngerror.c
+ C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/png.h
+ C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngconf.h
+ C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngerror.c
 CMakeFiles/png12_static.dir/pngget.obj
  C:/MinGW/include/_mingw.h
  C:/MinGW/include/basetsd.h
@@ -238,9 +238,9 @@ CMakeFiles/png12_static.dir/pngget.obj
  C:/MinGW/include/wtypes.h
  C:/MinGW/include/zconf.h
  C:/MinGW/include/zlib.h
- C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/png.h
- C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngconf.h
- C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngget.c
+ C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/png.h
+ C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngconf.h
+ C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngget.c
 CMakeFiles/png12_static.dir/pngmem.obj
  C:/MinGW/include/_mingw.h
  C:/MinGW/include/basetsd.h
@@ -318,9 +318,9 @@ CMakeFiles/png12_static.dir/pngmem.obj
  C:/MinGW/include/wtypes.h
  C:/MinGW/include/zconf.h
  C:/MinGW/include/zlib.h
- C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/png.h
- C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngconf.h
- C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngmem.c
+ C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/png.h
+ C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngconf.h
+ C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngmem.c
 CMakeFiles/png12_static.dir/pngpread.obj
  C:/MinGW/include/_mingw.h
  C:/MinGW/include/basetsd.h
@@ -398,9 +398,9 @@ CMakeFiles/png12_static.dir/pngpread.obj
  C:/MinGW/include/wtypes.h
  C:/MinGW/include/zconf.h
  C:/MinGW/include/zlib.h
- C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/png.h
- C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngconf.h
- C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngpread.c
+ C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/png.h
+ C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngconf.h
+ C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngpread.c
 CMakeFiles/png12_static.dir/pngread.obj
  C:/MinGW/include/_mingw.h
  C:/MinGW/include/basetsd.h
@@ -478,9 +478,9 @@ CMakeFiles/png12_static.dir/pngread.obj
  C:/MinGW/include/wtypes.h
  C:/MinGW/include/zconf.h
  C:/MinGW/include/zlib.h
- C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/png.h
- C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngconf.h
- C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngread.c
+ C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/png.h
+ C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngconf.h
+ C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngread.c
 CMakeFiles/png12_static.dir/pngrio.obj
  C:/MinGW/include/_mingw.h
  C:/MinGW/include/basetsd.h
@@ -558,9 +558,9 @@ CMakeFiles/png12_static.dir/pngrio.obj
  C:/MinGW/include/wtypes.h
  C:/MinGW/include/zconf.h
  C:/MinGW/include/zlib.h
- C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/png.h
- C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngconf.h
- C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngrio.c
+ C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/png.h
+ C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngconf.h
+ C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngrio.c
 CMakeFiles/png12_static.dir/pngrtran.obj
  C:/MinGW/include/_mingw.h
  C:/MinGW/include/basetsd.h
@@ -638,9 +638,9 @@ CMakeFiles/png12_static.dir/pngrtran.obj
  C:/MinGW/include/wtypes.h
  C:/MinGW/include/zconf.h
  C:/MinGW/include/zlib.h
- C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/png.h
- C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngconf.h
- C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngrtran.c
+ C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/png.h
+ C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngconf.h
+ C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngrtran.c
 CMakeFiles/png12_static.dir/pngrutil.obj
  C:/MinGW/include/_mingw.h
  C:/MinGW/include/basetsd.h
@@ -718,9 +718,9 @@ CMakeFiles/png12_static.dir/pngrutil.obj
  C:/MinGW/include/wtypes.h
  C:/MinGW/include/zconf.h
  C:/MinGW/include/zlib.h
- C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/png.h
- C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngconf.h
- C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngrutil.c
+ C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/png.h
+ C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngconf.h
+ C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngrutil.c
 CMakeFiles/png12_static.dir/pngset.obj
  C:/MinGW/include/_mingw.h
  C:/MinGW/include/basetsd.h
@@ -798,9 +798,9 @@ CMakeFiles/png12_static.dir/pngset.obj
  C:/MinGW/include/wtypes.h
  C:/MinGW/include/zconf.h
  C:/MinGW/include/zlib.h
- C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/png.h
- C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngconf.h
- C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngset.c
+ C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/png.h
+ C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngconf.h
+ C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngset.c
 CMakeFiles/png12_static.dir/pngtrans.obj
  C:/MinGW/include/_mingw.h
  C:/MinGW/include/basetsd.h
@@ -878,9 +878,9 @@ CMakeFiles/png12_static.dir/pngtrans.obj
  C:/MinGW/include/wtypes.h
  C:/MinGW/include/zconf.h
  C:/MinGW/include/zlib.h
- C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/png.h
- C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngconf.h
- C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngtrans.c
+ C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/png.h
+ C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngconf.h
+ C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngtrans.c
 CMakeFiles/png12_static.dir/pngwio.obj
  C:/MinGW/include/_mingw.h
  C:/MinGW/include/basetsd.h
@@ -958,9 +958,9 @@ CMakeFiles/png12_static.dir/pngwio.obj
  C:/MinGW/include/wtypes.h
  C:/MinGW/include/zconf.h
  C:/MinGW/include/zlib.h
- C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/png.h
- C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngconf.h
- C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngwio.c
+ C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/png.h
+ C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngconf.h
+ C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngwio.c
 CMakeFiles/png12_static.dir/pngwrite.obj
  C:/MinGW/include/_mingw.h
  C:/MinGW/include/basetsd.h
@@ -1038,9 +1038,9 @@ CMakeFiles/png12_static.dir/pngwrite.obj
  C:/MinGW/include/wtypes.h
  C:/MinGW/include/zconf.h
  C:/MinGW/include/zlib.h
- C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/png.h
- C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngconf.h
- C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngwrite.c
+ C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/png.h
+ C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngconf.h
+ C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngwrite.c
 CMakeFiles/png12_static.dir/pngwtran.obj
  C:/MinGW/include/_mingw.h
  C:/MinGW/include/basetsd.h
@@ -1118,9 +1118,9 @@ CMakeFiles/png12_static.dir/pngwtran.obj
  C:/MinGW/include/wtypes.h
  C:/MinGW/include/zconf.h
  C:/MinGW/include/zlib.h
- C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/png.h
- C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngconf.h
- C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngwtran.c
+ C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/png.h
+ C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngconf.h
+ C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngwtran.c
 CMakeFiles/png12_static.dir/pngwutil.obj
  C:/MinGW/include/_mingw.h
  C:/MinGW/include/basetsd.h
@@ -1198,6 +1198,6 @@ CMakeFiles/png12_static.dir/pngwutil.obj
  C:/MinGW/include/wtypes.h
  C:/MinGW/include/zconf.h
  C:/MinGW/include/zlib.h
- C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/png.h
- C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngconf.h
- C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngwutil.c
+ C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/png.h
+ C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngconf.h
+ C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngwutil.c

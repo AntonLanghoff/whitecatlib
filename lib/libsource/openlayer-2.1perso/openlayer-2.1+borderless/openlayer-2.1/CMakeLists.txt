@@ -340,7 +340,7 @@ target_link_libraries(openlayer ${ALLEGROGL_LIBRARY} ${PNG_LIB} ${GLYPHKEEPER_LI
 # -------------------------------------------------------
 # Demos
 # -------------------------------------------------------
-add_subdirectory(${CMAKE_SOURCE_DIR}/demos)
+# add_subdirectory(${CMAKE_SOURCE_DIR}/demos)
 
 # -------------------------------------------------------
 # Installation

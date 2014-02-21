@@ -1,8 +1,8 @@
-# Install script for directory: C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251
+# Install script for directory: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251
 
 # Set the install prefix
 IF(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  SET(CMAKE_INSTALL_PREFIX "C:/MinGW")
+  SET(CMAKE_INSTALL_PREFIX "C:/Users/bibi/Documents/GitHub/whitecatlib/lib/windows/compiledlibsforGCC4.8.1")
 ENDIF(NOT DEFINED CMAKE_INSTALL_PREFIX)
 STRING(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -28,11 +28,11 @@ IF(NOT CMAKE_INSTALL_COMPONENT)
 ENDIF(NOT CMAKE_INSTALL_COMPONENT)
 
 IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
-  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY OPTIONAL FILES "C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/build/libpng12.dll.a")
+  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY OPTIONAL FILES "C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/build/libpng12.dll.a")
 ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
 
 IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
-  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE SHARED_LIBRARY FILES "C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/build/libpng12.dll")
+  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE SHARED_LIBRARY FILES "C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/build/libpng12.dll")
   IF(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/libpng12.dll" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/libpng12.dll")
     IF(CMAKE_INSTALL_DO_STRIP)
@@ -42,56 +42,56 @@ IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspeci
 ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
 
 IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
-  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/build/libpng12_static.a")
+  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/build/libpng12_static.a")
 ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
 
 IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
   FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include" TYPE FILE FILES
-    "C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/png.h"
-    "C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngconf.h"
+    "C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/png.h"
+    "C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngconf.h"
     )
 ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
 
 IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
   FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/libpng12" TYPE FILE FILES
-    "C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/png.h"
-    "C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngconf.h"
+    "C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/png.h"
+    "C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/pngconf.h"
     )
 ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
 
 IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
-  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE PROGRAM FILES "C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/build/libpng-config")
+  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE PROGRAM FILES "C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/build/libpng-config")
 ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
 
 IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
-  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE PROGRAM FILES "C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/build/libpng12-config")
+  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE PROGRAM FILES "C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/build/libpng12-config")
 ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
 
 IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
   FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/man/man3" TYPE FILE FILES
-    "C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/libpng.3"
-    "C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/libpngpf.3"
+    "C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/libpng.3"
+    "C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/libpngpf.3"
     )
 ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
 
 IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
-  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/man/man5" TYPE FILE FILES "C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/png.5")
+  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/man/man5" TYPE FILE FILES "C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/png.5")
 ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
 
 IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
-  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/build/libpng.pc")
+  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/build/libpng.pc")
 ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
 
 IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
-  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE FILE FILES "C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/build/libpng-config")
+  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE FILE FILES "C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/build/libpng-config")
 ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
 
 IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
-  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/build/libpng12.pc")
+  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/build/libpng12.pc")
 ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
 
 IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
-  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE FILE FILES "C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/build/libpng12-config")
+  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE FILE FILES "C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/build/libpng12-config")
 ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
 
 IF(CMAKE_INSTALL_COMPONENT)
@@ -100,7 +100,7 @@ ELSE(CMAKE_INSTALL_COMPONENT)
   SET(CMAKE_INSTALL_MANIFEST "install_manifest.txt")
 ENDIF(CMAKE_INSTALL_COMPONENT)
 
-FILE(WRITE "C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/build/${CMAKE_INSTALL_MANIFEST}" "")
+FILE(WRITE "C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/build/${CMAKE_INSTALL_MANIFEST}" "")
 FOREACH(file ${CMAKE_INSTALL_MANIFEST_FILES})
-  FILE(APPEND "C:/whitecat_crossplateform/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/build/${CMAKE_INSTALL_MANIFEST}" "${file}\n")
+  FILE(APPEND "C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/allegro4.4.2_sources_dep/allegro4.4.2_sources_dep/lpng1251/lpng1251/build/${CMAKE_INSTALL_MANIFEST}" "${file}\n")
 ENDFOREACH(file)

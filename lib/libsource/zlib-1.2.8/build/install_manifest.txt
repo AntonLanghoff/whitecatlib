@@ -1,7 +1,7 @@
-C:/MinGW/lib/libzlib.dll.a
-C:/MinGW/bin/libzlib.dll
-C:/MinGW/lib/libzlibstatic.a
-C:/MinGW/include/zconf.h
-C:/MinGW/include/zlib.h
-C:/MinGW/share/man/man3/zlib.3
-C:/MinGW/share/pkgconfig/zlib.pc
+C:/Users/bibi/Documents/GitHub/whitecatlib/lib/windows/compiledlibsforGCC4.8.1/lib/libzlib.dll.a
+C:/Users/bibi/Documents/GitHub/whitecatlib/lib/windows/compiledlibsforGCC4.8.1/bin/libzlib.dll
+C:/Users/bibi/Documents/GitHub/whitecatlib/lib/windows/compiledlibsforGCC4.8.1/lib/libzlibstatic.a
+C:/Users/bibi/Documents/GitHub/whitecatlib/lib/windows/compiledlibsforGCC4.8.1/include/zconf.h
+C:/Users/bibi/Documents/GitHub/whitecatlib/lib/windows/compiledlibsforGCC4.8.1/include/zlib.h
+C:/Users/bibi/Documents/GitHub/whitecatlib/lib/windows/compiledlibsforGCC4.8.1/share/man/man3/zlib.3
+C:/Users/bibi/Documents/GitHub/whitecatlib/lib/windows/compiledlibsforGCC4.8.1/share/pkgconfig/zlib.pc

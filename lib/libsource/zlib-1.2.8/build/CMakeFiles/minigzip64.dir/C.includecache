@@ -6,10 +6,6 @@
 
 #IncludeRegexTransform: 
 
-../zlib.h
-zconf.h
-../zconf.h
-
 C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/test/minigzip.c
 zlib.h
 C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/test/zlib.h
@@ -37,6 +33,10 @@ windows.h
 -
 unistd.h
 -
+
+C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/zlib.h
+zconf.h
+C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/zconf.h
 
 zconf.h
 windows.h

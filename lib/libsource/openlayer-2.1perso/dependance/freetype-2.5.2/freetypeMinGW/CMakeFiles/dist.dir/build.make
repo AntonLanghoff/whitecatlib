@@ -37,10 +37,10 @@ EQUALS = =
 CMAKE_EDIT_COMMAND = "C:\Program Files (x86)\CMake 2.8\bin\cmake-gui.exe"
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2
+CMAKE_SOURCE_DIR = C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW
+CMAKE_BINARY_DIR = C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW
 
 # Utility rule file for dist.
 
@@ -63,6 +63,6 @@ CMakeFiles/dist.dir/clean:
 .PHONY : CMakeFiles/dist.dir/clean
 
 CMakeFiles/dist.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2 C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2 C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles\dist.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2 C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2 C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles\dist.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/dist.dir/depend
 

@@ -1,8 +1,8 @@
-IF(NOT EXISTS "C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1MinGW/install_manifest.txt")
-  MESSAGE(FATAL_ERROR "Cannot find install manifest: \"C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1MinGW/install_manifest.txt\"")
-ENDIF(NOT EXISTS "C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1MinGW/install_manifest.txt")
+IF(NOT EXISTS "C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1MinGW/install_manifest.txt")
+  MESSAGE(FATAL_ERROR "Cannot find install manifest: \"C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1MinGW/install_manifest.txt\"")
+ENDIF(NOT EXISTS "C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1MinGW/install_manifest.txt")
 
-FILE(READ "C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1MinGW/install_manifest.txt" files)
+FILE(READ "C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1MinGW/install_manifest.txt" files)
 STRING(REGEX REPLACE "\n" ";" files "${files}")
 FOREACH(file ${files})
   MESSAGE(STATUS "Uninstalling \"${file}\"")

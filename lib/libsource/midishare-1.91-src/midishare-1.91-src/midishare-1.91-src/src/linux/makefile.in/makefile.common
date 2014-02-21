@@ -1,0 +1,28 @@
+
+TARGET = ../linux/msCommon.o
+OPTIONS = -D_LOOSE_KERNEL_NAMES -DMODVERSIONS -D__Pentium__ -DCONFIG_KERNELD -DMODULE -D__KERNEL__ -DLINUX  -D__NO_VERSION__ 
+INC = -I Headers -I atomic -I /lib/modules/`uname -r`/build/include/
+CFLAGS := $(CFLAGS) $(OPTIONS) $(INC) 
+#CFLAGS := -O3 -Wall $(OPTIONS) $(INC) 
+#CC = gcc
+
+A = atomic
+C = Clients
+K = Kernel
+M = Memory
+S = Sorter
+D = Drivers
+
+SRC = $(wildcard $(C)/*.c $(K)/*.c $(M)/*.c $(S)/*.c $(D)/*.c) $(A)/lflifo.c $(A)/lffifo.c
+OBJ = $(patsubst %.c, %.o, $(SRC))
+
+$(TARGET) : $(OBJ)
+	ld -m elf_i386 -r -o $(TARGET) $(OBJ)
+
+dep:
+	makedepend -- $(CFLAGS) -- -Y -m $(SRC)
+
+clean:
+	rm $(OBJ) $(TARGET)
+
+# DO NOT DELETE

@@ -37,10 +37,10 @@ EQUALS = =
 CMAKE_EDIT_COMMAND = "C:\Program Files (x86)\CMake 2.8\bin\cmake-gui.exe"
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1
+CMAKE_SOURCE_DIR = C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW
+CMAKE_BINARY_DIR = C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW
 
 # Include any dependencies generated for this target.
 include demos/CMakeFiles/gameloop.dir/depend.make
@@ -53,18 +53,18 @@ include demos/CMakeFiles/gameloop.dir/flags.make
 
 demos/CMakeFiles/gameloop.dir/gameloop/Main.obj: demos/CMakeFiles/gameloop.dir/flags.make
 demos/CMakeFiles/gameloop.dir/gameloop/Main.obj: demos/CMakeFiles/gameloop.dir/includes_CXX.rsp
-demos/CMakeFiles/gameloop.dir/gameloop/Main.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/demos/gameloop/Main.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_1)
+demos/CMakeFiles/gameloop.dir/gameloop/Main.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/demos/gameloop/Main.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_1)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object demos/CMakeFiles/gameloop.dir/gameloop/Main.obj"
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\demos && C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\gameloop.dir\gameloop\Main.obj -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\demos\gameloop\Main.cpp
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\demos && C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\gameloop.dir\gameloop\Main.obj -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\demos\gameloop\Main.cpp
 
 demos/CMakeFiles/gameloop.dir/gameloop/Main.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/gameloop.dir/gameloop/Main.i"
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\demos && C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\demos\gameloop\Main.cpp > CMakeFiles\gameloop.dir\gameloop\Main.i
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\demos && C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\demos\gameloop\Main.cpp > CMakeFiles\gameloop.dir\gameloop\Main.i
 
 demos/CMakeFiles/gameloop.dir/gameloop/Main.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/gameloop.dir/gameloop/Main.s"
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\demos && C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\demos\gameloop\Main.cpp -o CMakeFiles\gameloop.dir\gameloop\Main.s
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\demos && C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\demos\gameloop\Main.cpp -o CMakeFiles\gameloop.dir\gameloop\Main.s
 
 demos/CMakeFiles/gameloop.dir/gameloop/Main.obj.requires:
 .PHONY : demos/CMakeFiles/gameloop.dir/gameloop/Main.obj.requires
@@ -85,16 +85,16 @@ gameloop_EXTERNAL_OBJECTS =
 bin/gameloop.exe: demos/CMakeFiles/gameloop.dir/gameloop/Main.obj
 bin/gameloop.exe: demos/CMakeFiles/gameloop.dir/build.make
 bin/gameloop.exe: lib/libopenlayer.a
-bin/gameloop.exe: C:/MinGW/lib/liballeggl.a
+bin/gameloop.exe: C:/compiledlibsforGCC4_8_1/lib/liballeggl.a
 bin/gameloop.exe: C:/MinGW/bin/libpng12.dll
 bin/gameloop.exe: lib/libglyph-agl.a
-bin/gameloop.exe: C:/MinGW/lib/libfreetype.a
+bin/gameloop.exe: C:/compiledlibsforGCC4_8_1/lib/libfreetype.a
 bin/gameloop.exe: C:/MinGW/lib/libz.dll.a
-bin/gameloop.exe: C:/MinGW/lib/liballeg44.dll.a
+bin/gameloop.exe: C:/compiledlibsforGCC4_8_1/lib/liballeg.a
 bin/gameloop.exe: demos/CMakeFiles/gameloop.dir/objects1.rsp
 bin/gameloop.exe: demos/CMakeFiles/gameloop.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --red --bold "Linking CXX executable ..\bin\gameloop.exe"
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\demos && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\gameloop.dir\link.txt --verbose=$(VERBOSE)
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\demos && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\gameloop.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 demos/CMakeFiles/gameloop.dir/build: bin/gameloop.exe
@@ -104,10 +104,10 @@ demos/CMakeFiles/gameloop.dir/requires: demos/CMakeFiles/gameloop.dir/gameloop/M
 .PHONY : demos/CMakeFiles/gameloop.dir/requires
 
 demos/CMakeFiles/gameloop.dir/clean:
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\demos && $(CMAKE_COMMAND) -P CMakeFiles\gameloop.dir\cmake_clean.cmake
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\demos && $(CMAKE_COMMAND) -P CMakeFiles\gameloop.dir\cmake_clean.cmake
 .PHONY : demos/CMakeFiles/gameloop.dir/clean
 
 demos/CMakeFiles/gameloop.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1 C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\demos C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\demos C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\demos\CMakeFiles\gameloop.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1 C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\demos C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\demos C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\demos\CMakeFiles\gameloop.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : demos/CMakeFiles/gameloop.dir/depend
 

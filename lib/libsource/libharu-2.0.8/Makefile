@@ -11,7 +11,7 @@
 #    make install prefix=$HOME
 
 CC=gcc
-PREFIX=/c/mingw
+PREFIX=/c/compiledlibsforGCC4_8_1
 
 LIBNAME=libhpdf.a
 SONAME=libhpdf.dll

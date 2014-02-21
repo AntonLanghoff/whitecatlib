@@ -37,10 +37,10 @@ EQUALS = =
 CMAKE_EDIT_COMMAND = "C:\Program Files (x86)\CMake 2.8\bin\cmake-gui.exe"
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2
+CMAKE_SOURCE_DIR = C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW
+CMAKE_BINARY_DIR = C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW
 
 # Include any dependencies generated for this target.
 include CMakeFiles/freetype.dir/depend.make
@@ -53,18 +53,18 @@ include CMakeFiles/freetype.dir/flags.make
 
 CMakeFiles/freetype.dir/src/autofit/autofit.c.obj: CMakeFiles/freetype.dir/flags.make
 CMakeFiles/freetype.dir/src/autofit/autofit.c.obj: CMakeFiles/freetype.dir/includes_C.rsp
-CMakeFiles/freetype.dir/src/autofit/autofit.c.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/autofit/autofit.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_1)
+CMakeFiles/freetype.dir/src/autofit/autofit.c.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/autofit/autofit.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_1)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/freetype.dir/src/autofit/autofit.c.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\autofit\autofit.c.obj   -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\autofit\autofit.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\autofit\autofit.c.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\autofit\autofit.c
 
 CMakeFiles/freetype.dir/src/autofit/autofit.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/freetype.dir/src/autofit/autofit.c.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\autofit\autofit.c > CMakeFiles\freetype.dir\src\autofit\autofit.c.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\autofit\autofit.c > CMakeFiles\freetype.dir\src\autofit\autofit.c.i
 
 CMakeFiles/freetype.dir/src/autofit/autofit.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/freetype.dir/src/autofit/autofit.c.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\autofit\autofit.c -o CMakeFiles\freetype.dir\src\autofit\autofit.c.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\autofit\autofit.c -o CMakeFiles\freetype.dir\src\autofit\autofit.c.s
 
 CMakeFiles/freetype.dir/src/autofit/autofit.c.obj.requires:
 .PHONY : CMakeFiles/freetype.dir/src/autofit/autofit.c.obj.requires
@@ -77,18 +77,18 @@ CMakeFiles/freetype.dir/src/autofit/autofit.c.obj.provides.build: CMakeFiles/fre
 
 CMakeFiles/freetype.dir/src/base/ftadvanc.c.obj: CMakeFiles/freetype.dir/flags.make
 CMakeFiles/freetype.dir/src/base/ftadvanc.c.obj: CMakeFiles/freetype.dir/includes_C.rsp
-CMakeFiles/freetype.dir/src/base/ftadvanc.c.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftadvanc.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_2)
+CMakeFiles/freetype.dir/src/base/ftadvanc.c.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftadvanc.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_2)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/freetype.dir/src/base/ftadvanc.c.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftadvanc.c.obj   -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftadvanc.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftadvanc.c.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftadvanc.c
 
 CMakeFiles/freetype.dir/src/base/ftadvanc.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/freetype.dir/src/base/ftadvanc.c.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftadvanc.c > CMakeFiles\freetype.dir\src\base\ftadvanc.c.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftadvanc.c > CMakeFiles\freetype.dir\src\base\ftadvanc.c.i
 
 CMakeFiles/freetype.dir/src/base/ftadvanc.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/freetype.dir/src/base/ftadvanc.c.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftadvanc.c -o CMakeFiles\freetype.dir\src\base\ftadvanc.c.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftadvanc.c -o CMakeFiles\freetype.dir\src\base\ftadvanc.c.s
 
 CMakeFiles/freetype.dir/src/base/ftadvanc.c.obj.requires:
 .PHONY : CMakeFiles/freetype.dir/src/base/ftadvanc.c.obj.requires
@@ -101,18 +101,18 @@ CMakeFiles/freetype.dir/src/base/ftadvanc.c.obj.provides.build: CMakeFiles/freet
 
 CMakeFiles/freetype.dir/src/base/ftbbox.c.obj: CMakeFiles/freetype.dir/flags.make
 CMakeFiles/freetype.dir/src/base/ftbbox.c.obj: CMakeFiles/freetype.dir/includes_C.rsp
-CMakeFiles/freetype.dir/src/base/ftbbox.c.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftbbox.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_3)
+CMakeFiles/freetype.dir/src/base/ftbbox.c.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftbbox.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_3)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/freetype.dir/src/base/ftbbox.c.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftbbox.c.obj   -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftbbox.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftbbox.c.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftbbox.c
 
 CMakeFiles/freetype.dir/src/base/ftbbox.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/freetype.dir/src/base/ftbbox.c.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftbbox.c > CMakeFiles\freetype.dir\src\base\ftbbox.c.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftbbox.c > CMakeFiles\freetype.dir\src\base\ftbbox.c.i
 
 CMakeFiles/freetype.dir/src/base/ftbbox.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/freetype.dir/src/base/ftbbox.c.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftbbox.c -o CMakeFiles\freetype.dir\src\base\ftbbox.c.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftbbox.c -o CMakeFiles\freetype.dir\src\base\ftbbox.c.s
 
 CMakeFiles/freetype.dir/src/base/ftbbox.c.obj.requires:
 .PHONY : CMakeFiles/freetype.dir/src/base/ftbbox.c.obj.requires
@@ -125,18 +125,18 @@ CMakeFiles/freetype.dir/src/base/ftbbox.c.obj.provides.build: CMakeFiles/freetyp
 
 CMakeFiles/freetype.dir/src/base/ftbitmap.c.obj: CMakeFiles/freetype.dir/flags.make
 CMakeFiles/freetype.dir/src/base/ftbitmap.c.obj: CMakeFiles/freetype.dir/includes_C.rsp
-CMakeFiles/freetype.dir/src/base/ftbitmap.c.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftbitmap.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_4)
+CMakeFiles/freetype.dir/src/base/ftbitmap.c.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftbitmap.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_4)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/freetype.dir/src/base/ftbitmap.c.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftbitmap.c.obj   -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftbitmap.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftbitmap.c.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftbitmap.c
 
 CMakeFiles/freetype.dir/src/base/ftbitmap.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/freetype.dir/src/base/ftbitmap.c.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftbitmap.c > CMakeFiles\freetype.dir\src\base\ftbitmap.c.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftbitmap.c > CMakeFiles\freetype.dir\src\base\ftbitmap.c.i
 
 CMakeFiles/freetype.dir/src/base/ftbitmap.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/freetype.dir/src/base/ftbitmap.c.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftbitmap.c -o CMakeFiles\freetype.dir\src\base\ftbitmap.c.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftbitmap.c -o CMakeFiles\freetype.dir\src\base\ftbitmap.c.s
 
 CMakeFiles/freetype.dir/src/base/ftbitmap.c.obj.requires:
 .PHONY : CMakeFiles/freetype.dir/src/base/ftbitmap.c.obj.requires
@@ -149,18 +149,18 @@ CMakeFiles/freetype.dir/src/base/ftbitmap.c.obj.provides.build: CMakeFiles/freet
 
 CMakeFiles/freetype.dir/src/base/ftcalc.c.obj: CMakeFiles/freetype.dir/flags.make
 CMakeFiles/freetype.dir/src/base/ftcalc.c.obj: CMakeFiles/freetype.dir/includes_C.rsp
-CMakeFiles/freetype.dir/src/base/ftcalc.c.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftcalc.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_5)
+CMakeFiles/freetype.dir/src/base/ftcalc.c.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftcalc.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_5)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/freetype.dir/src/base/ftcalc.c.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftcalc.c.obj   -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftcalc.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftcalc.c.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftcalc.c
 
 CMakeFiles/freetype.dir/src/base/ftcalc.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/freetype.dir/src/base/ftcalc.c.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftcalc.c > CMakeFiles\freetype.dir\src\base\ftcalc.c.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftcalc.c > CMakeFiles\freetype.dir\src\base\ftcalc.c.i
 
 CMakeFiles/freetype.dir/src/base/ftcalc.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/freetype.dir/src/base/ftcalc.c.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftcalc.c -o CMakeFiles\freetype.dir\src\base\ftcalc.c.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftcalc.c -o CMakeFiles\freetype.dir\src\base\ftcalc.c.s
 
 CMakeFiles/freetype.dir/src/base/ftcalc.c.obj.requires:
 .PHONY : CMakeFiles/freetype.dir/src/base/ftcalc.c.obj.requires
@@ -173,18 +173,18 @@ CMakeFiles/freetype.dir/src/base/ftcalc.c.obj.provides.build: CMakeFiles/freetyp
 
 CMakeFiles/freetype.dir/src/base/ftcid.c.obj: CMakeFiles/freetype.dir/flags.make
 CMakeFiles/freetype.dir/src/base/ftcid.c.obj: CMakeFiles/freetype.dir/includes_C.rsp
-CMakeFiles/freetype.dir/src/base/ftcid.c.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftcid.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_6)
+CMakeFiles/freetype.dir/src/base/ftcid.c.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftcid.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_6)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/freetype.dir/src/base/ftcid.c.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftcid.c.obj   -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftcid.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftcid.c.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftcid.c
 
 CMakeFiles/freetype.dir/src/base/ftcid.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/freetype.dir/src/base/ftcid.c.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftcid.c > CMakeFiles\freetype.dir\src\base\ftcid.c.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftcid.c > CMakeFiles\freetype.dir\src\base\ftcid.c.i
 
 CMakeFiles/freetype.dir/src/base/ftcid.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/freetype.dir/src/base/ftcid.c.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftcid.c -o CMakeFiles\freetype.dir\src\base\ftcid.c.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftcid.c -o CMakeFiles\freetype.dir\src\base\ftcid.c.s
 
 CMakeFiles/freetype.dir/src/base/ftcid.c.obj.requires:
 .PHONY : CMakeFiles/freetype.dir/src/base/ftcid.c.obj.requires
@@ -197,18 +197,18 @@ CMakeFiles/freetype.dir/src/base/ftcid.c.obj.provides.build: CMakeFiles/freetype
 
 CMakeFiles/freetype.dir/src/base/ftdbgmem.c.obj: CMakeFiles/freetype.dir/flags.make
 CMakeFiles/freetype.dir/src/base/ftdbgmem.c.obj: CMakeFiles/freetype.dir/includes_C.rsp
-CMakeFiles/freetype.dir/src/base/ftdbgmem.c.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftdbgmem.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_7)
+CMakeFiles/freetype.dir/src/base/ftdbgmem.c.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftdbgmem.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_7)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/freetype.dir/src/base/ftdbgmem.c.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftdbgmem.c.obj   -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftdbgmem.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftdbgmem.c.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftdbgmem.c
 
 CMakeFiles/freetype.dir/src/base/ftdbgmem.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/freetype.dir/src/base/ftdbgmem.c.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftdbgmem.c > CMakeFiles\freetype.dir\src\base\ftdbgmem.c.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftdbgmem.c > CMakeFiles\freetype.dir\src\base\ftdbgmem.c.i
 
 CMakeFiles/freetype.dir/src/base/ftdbgmem.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/freetype.dir/src/base/ftdbgmem.c.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftdbgmem.c -o CMakeFiles\freetype.dir\src\base\ftdbgmem.c.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftdbgmem.c -o CMakeFiles\freetype.dir\src\base\ftdbgmem.c.s
 
 CMakeFiles/freetype.dir/src/base/ftdbgmem.c.obj.requires:
 .PHONY : CMakeFiles/freetype.dir/src/base/ftdbgmem.c.obj.requires
@@ -221,18 +221,18 @@ CMakeFiles/freetype.dir/src/base/ftdbgmem.c.obj.provides.build: CMakeFiles/freet
 
 CMakeFiles/freetype.dir/src/base/ftdebug.c.obj: CMakeFiles/freetype.dir/flags.make
 CMakeFiles/freetype.dir/src/base/ftdebug.c.obj: CMakeFiles/freetype.dir/includes_C.rsp
-CMakeFiles/freetype.dir/src/base/ftdebug.c.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftdebug.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_8)
+CMakeFiles/freetype.dir/src/base/ftdebug.c.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftdebug.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_8)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/freetype.dir/src/base/ftdebug.c.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftdebug.c.obj   -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftdebug.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftdebug.c.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftdebug.c
 
 CMakeFiles/freetype.dir/src/base/ftdebug.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/freetype.dir/src/base/ftdebug.c.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftdebug.c > CMakeFiles\freetype.dir\src\base\ftdebug.c.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftdebug.c > CMakeFiles\freetype.dir\src\base\ftdebug.c.i
 
 CMakeFiles/freetype.dir/src/base/ftdebug.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/freetype.dir/src/base/ftdebug.c.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftdebug.c -o CMakeFiles\freetype.dir\src\base\ftdebug.c.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftdebug.c -o CMakeFiles\freetype.dir\src\base\ftdebug.c.s
 
 CMakeFiles/freetype.dir/src/base/ftdebug.c.obj.requires:
 .PHONY : CMakeFiles/freetype.dir/src/base/ftdebug.c.obj.requires
@@ -245,18 +245,18 @@ CMakeFiles/freetype.dir/src/base/ftdebug.c.obj.provides.build: CMakeFiles/freety
 
 CMakeFiles/freetype.dir/src/base/ftfstype.c.obj: CMakeFiles/freetype.dir/flags.make
 CMakeFiles/freetype.dir/src/base/ftfstype.c.obj: CMakeFiles/freetype.dir/includes_C.rsp
-CMakeFiles/freetype.dir/src/base/ftfstype.c.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftfstype.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_9)
+CMakeFiles/freetype.dir/src/base/ftfstype.c.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftfstype.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_9)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/freetype.dir/src/base/ftfstype.c.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftfstype.c.obj   -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftfstype.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftfstype.c.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftfstype.c
 
 CMakeFiles/freetype.dir/src/base/ftfstype.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/freetype.dir/src/base/ftfstype.c.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftfstype.c > CMakeFiles\freetype.dir\src\base\ftfstype.c.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftfstype.c > CMakeFiles\freetype.dir\src\base\ftfstype.c.i
 
 CMakeFiles/freetype.dir/src/base/ftfstype.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/freetype.dir/src/base/ftfstype.c.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftfstype.c -o CMakeFiles\freetype.dir\src\base\ftfstype.c.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftfstype.c -o CMakeFiles\freetype.dir\src\base\ftfstype.c.s
 
 CMakeFiles/freetype.dir/src/base/ftfstype.c.obj.requires:
 .PHONY : CMakeFiles/freetype.dir/src/base/ftfstype.c.obj.requires
@@ -269,18 +269,18 @@ CMakeFiles/freetype.dir/src/base/ftfstype.c.obj.provides.build: CMakeFiles/freet
 
 CMakeFiles/freetype.dir/src/base/ftgasp.c.obj: CMakeFiles/freetype.dir/flags.make
 CMakeFiles/freetype.dir/src/base/ftgasp.c.obj: CMakeFiles/freetype.dir/includes_C.rsp
-CMakeFiles/freetype.dir/src/base/ftgasp.c.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftgasp.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_10)
+CMakeFiles/freetype.dir/src/base/ftgasp.c.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftgasp.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_10)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/freetype.dir/src/base/ftgasp.c.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftgasp.c.obj   -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftgasp.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftgasp.c.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftgasp.c
 
 CMakeFiles/freetype.dir/src/base/ftgasp.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/freetype.dir/src/base/ftgasp.c.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftgasp.c > CMakeFiles\freetype.dir\src\base\ftgasp.c.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftgasp.c > CMakeFiles\freetype.dir\src\base\ftgasp.c.i
 
 CMakeFiles/freetype.dir/src/base/ftgasp.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/freetype.dir/src/base/ftgasp.c.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftgasp.c -o CMakeFiles\freetype.dir\src\base\ftgasp.c.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftgasp.c -o CMakeFiles\freetype.dir\src\base\ftgasp.c.s
 
 CMakeFiles/freetype.dir/src/base/ftgasp.c.obj.requires:
 .PHONY : CMakeFiles/freetype.dir/src/base/ftgasp.c.obj.requires
@@ -293,18 +293,18 @@ CMakeFiles/freetype.dir/src/base/ftgasp.c.obj.provides.build: CMakeFiles/freetyp
 
 CMakeFiles/freetype.dir/src/base/ftgloadr.c.obj: CMakeFiles/freetype.dir/flags.make
 CMakeFiles/freetype.dir/src/base/ftgloadr.c.obj: CMakeFiles/freetype.dir/includes_C.rsp
-CMakeFiles/freetype.dir/src/base/ftgloadr.c.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftgloadr.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_11)
+CMakeFiles/freetype.dir/src/base/ftgloadr.c.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftgloadr.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_11)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/freetype.dir/src/base/ftgloadr.c.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftgloadr.c.obj   -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftgloadr.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftgloadr.c.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftgloadr.c
 
 CMakeFiles/freetype.dir/src/base/ftgloadr.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/freetype.dir/src/base/ftgloadr.c.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftgloadr.c > CMakeFiles\freetype.dir\src\base\ftgloadr.c.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftgloadr.c > CMakeFiles\freetype.dir\src\base\ftgloadr.c.i
 
 CMakeFiles/freetype.dir/src/base/ftgloadr.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/freetype.dir/src/base/ftgloadr.c.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftgloadr.c -o CMakeFiles\freetype.dir\src\base\ftgloadr.c.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftgloadr.c -o CMakeFiles\freetype.dir\src\base\ftgloadr.c.s
 
 CMakeFiles/freetype.dir/src/base/ftgloadr.c.obj.requires:
 .PHONY : CMakeFiles/freetype.dir/src/base/ftgloadr.c.obj.requires
@@ -317,18 +317,18 @@ CMakeFiles/freetype.dir/src/base/ftgloadr.c.obj.provides.build: CMakeFiles/freet
 
 CMakeFiles/freetype.dir/src/base/ftglyph.c.obj: CMakeFiles/freetype.dir/flags.make
 CMakeFiles/freetype.dir/src/base/ftglyph.c.obj: CMakeFiles/freetype.dir/includes_C.rsp
-CMakeFiles/freetype.dir/src/base/ftglyph.c.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftglyph.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_12)
+CMakeFiles/freetype.dir/src/base/ftglyph.c.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftglyph.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_12)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/freetype.dir/src/base/ftglyph.c.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftglyph.c.obj   -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftglyph.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftglyph.c.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftglyph.c
 
 CMakeFiles/freetype.dir/src/base/ftglyph.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/freetype.dir/src/base/ftglyph.c.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftglyph.c > CMakeFiles\freetype.dir\src\base\ftglyph.c.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftglyph.c > CMakeFiles\freetype.dir\src\base\ftglyph.c.i
 
 CMakeFiles/freetype.dir/src/base/ftglyph.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/freetype.dir/src/base/ftglyph.c.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftglyph.c -o CMakeFiles\freetype.dir\src\base\ftglyph.c.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftglyph.c -o CMakeFiles\freetype.dir\src\base\ftglyph.c.s
 
 CMakeFiles/freetype.dir/src/base/ftglyph.c.obj.requires:
 .PHONY : CMakeFiles/freetype.dir/src/base/ftglyph.c.obj.requires
@@ -341,18 +341,18 @@ CMakeFiles/freetype.dir/src/base/ftglyph.c.obj.provides.build: CMakeFiles/freety
 
 CMakeFiles/freetype.dir/src/base/ftgxval.c.obj: CMakeFiles/freetype.dir/flags.make
 CMakeFiles/freetype.dir/src/base/ftgxval.c.obj: CMakeFiles/freetype.dir/includes_C.rsp
-CMakeFiles/freetype.dir/src/base/ftgxval.c.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftgxval.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_13)
+CMakeFiles/freetype.dir/src/base/ftgxval.c.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftgxval.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_13)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/freetype.dir/src/base/ftgxval.c.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftgxval.c.obj   -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftgxval.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftgxval.c.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftgxval.c
 
 CMakeFiles/freetype.dir/src/base/ftgxval.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/freetype.dir/src/base/ftgxval.c.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftgxval.c > CMakeFiles\freetype.dir\src\base\ftgxval.c.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftgxval.c > CMakeFiles\freetype.dir\src\base\ftgxval.c.i
 
 CMakeFiles/freetype.dir/src/base/ftgxval.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/freetype.dir/src/base/ftgxval.c.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftgxval.c -o CMakeFiles\freetype.dir\src\base\ftgxval.c.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftgxval.c -o CMakeFiles\freetype.dir\src\base\ftgxval.c.s
 
 CMakeFiles/freetype.dir/src/base/ftgxval.c.obj.requires:
 .PHONY : CMakeFiles/freetype.dir/src/base/ftgxval.c.obj.requires
@@ -365,18 +365,18 @@ CMakeFiles/freetype.dir/src/base/ftgxval.c.obj.provides.build: CMakeFiles/freety
 
 CMakeFiles/freetype.dir/src/base/ftinit.c.obj: CMakeFiles/freetype.dir/flags.make
 CMakeFiles/freetype.dir/src/base/ftinit.c.obj: CMakeFiles/freetype.dir/includes_C.rsp
-CMakeFiles/freetype.dir/src/base/ftinit.c.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftinit.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_14)
+CMakeFiles/freetype.dir/src/base/ftinit.c.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftinit.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_14)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/freetype.dir/src/base/ftinit.c.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftinit.c.obj   -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftinit.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftinit.c.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftinit.c
 
 CMakeFiles/freetype.dir/src/base/ftinit.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/freetype.dir/src/base/ftinit.c.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftinit.c > CMakeFiles\freetype.dir\src\base\ftinit.c.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftinit.c > CMakeFiles\freetype.dir\src\base\ftinit.c.i
 
 CMakeFiles/freetype.dir/src/base/ftinit.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/freetype.dir/src/base/ftinit.c.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftinit.c -o CMakeFiles\freetype.dir\src\base\ftinit.c.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftinit.c -o CMakeFiles\freetype.dir\src\base\ftinit.c.s
 
 CMakeFiles/freetype.dir/src/base/ftinit.c.obj.requires:
 .PHONY : CMakeFiles/freetype.dir/src/base/ftinit.c.obj.requires
@@ -389,18 +389,18 @@ CMakeFiles/freetype.dir/src/base/ftinit.c.obj.provides.build: CMakeFiles/freetyp
 
 CMakeFiles/freetype.dir/src/base/ftlcdfil.c.obj: CMakeFiles/freetype.dir/flags.make
 CMakeFiles/freetype.dir/src/base/ftlcdfil.c.obj: CMakeFiles/freetype.dir/includes_C.rsp
-CMakeFiles/freetype.dir/src/base/ftlcdfil.c.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftlcdfil.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_15)
+CMakeFiles/freetype.dir/src/base/ftlcdfil.c.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftlcdfil.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_15)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/freetype.dir/src/base/ftlcdfil.c.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftlcdfil.c.obj   -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftlcdfil.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftlcdfil.c.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftlcdfil.c
 
 CMakeFiles/freetype.dir/src/base/ftlcdfil.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/freetype.dir/src/base/ftlcdfil.c.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftlcdfil.c > CMakeFiles\freetype.dir\src\base\ftlcdfil.c.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftlcdfil.c > CMakeFiles\freetype.dir\src\base\ftlcdfil.c.i
 
 CMakeFiles/freetype.dir/src/base/ftlcdfil.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/freetype.dir/src/base/ftlcdfil.c.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftlcdfil.c -o CMakeFiles\freetype.dir\src\base\ftlcdfil.c.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftlcdfil.c -o CMakeFiles\freetype.dir\src\base\ftlcdfil.c.s
 
 CMakeFiles/freetype.dir/src/base/ftlcdfil.c.obj.requires:
 .PHONY : CMakeFiles/freetype.dir/src/base/ftlcdfil.c.obj.requires
@@ -413,18 +413,18 @@ CMakeFiles/freetype.dir/src/base/ftlcdfil.c.obj.provides.build: CMakeFiles/freet
 
 CMakeFiles/freetype.dir/src/base/ftmm.c.obj: CMakeFiles/freetype.dir/flags.make
 CMakeFiles/freetype.dir/src/base/ftmm.c.obj: CMakeFiles/freetype.dir/includes_C.rsp
-CMakeFiles/freetype.dir/src/base/ftmm.c.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftmm.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_16)
+CMakeFiles/freetype.dir/src/base/ftmm.c.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftmm.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_16)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/freetype.dir/src/base/ftmm.c.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftmm.c.obj   -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftmm.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftmm.c.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftmm.c
 
 CMakeFiles/freetype.dir/src/base/ftmm.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/freetype.dir/src/base/ftmm.c.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftmm.c > CMakeFiles\freetype.dir\src\base\ftmm.c.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftmm.c > CMakeFiles\freetype.dir\src\base\ftmm.c.i
 
 CMakeFiles/freetype.dir/src/base/ftmm.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/freetype.dir/src/base/ftmm.c.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftmm.c -o CMakeFiles\freetype.dir\src\base\ftmm.c.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftmm.c -o CMakeFiles\freetype.dir\src\base\ftmm.c.s
 
 CMakeFiles/freetype.dir/src/base/ftmm.c.obj.requires:
 .PHONY : CMakeFiles/freetype.dir/src/base/ftmm.c.obj.requires
@@ -437,18 +437,18 @@ CMakeFiles/freetype.dir/src/base/ftmm.c.obj.provides.build: CMakeFiles/freetype.
 
 CMakeFiles/freetype.dir/src/base/ftobjs.c.obj: CMakeFiles/freetype.dir/flags.make
 CMakeFiles/freetype.dir/src/base/ftobjs.c.obj: CMakeFiles/freetype.dir/includes_C.rsp
-CMakeFiles/freetype.dir/src/base/ftobjs.c.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftobjs.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_17)
+CMakeFiles/freetype.dir/src/base/ftobjs.c.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftobjs.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_17)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/freetype.dir/src/base/ftobjs.c.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftobjs.c.obj   -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftobjs.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftobjs.c.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftobjs.c
 
 CMakeFiles/freetype.dir/src/base/ftobjs.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/freetype.dir/src/base/ftobjs.c.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftobjs.c > CMakeFiles\freetype.dir\src\base\ftobjs.c.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftobjs.c > CMakeFiles\freetype.dir\src\base\ftobjs.c.i
 
 CMakeFiles/freetype.dir/src/base/ftobjs.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/freetype.dir/src/base/ftobjs.c.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftobjs.c -o CMakeFiles\freetype.dir\src\base\ftobjs.c.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftobjs.c -o CMakeFiles\freetype.dir\src\base\ftobjs.c.s
 
 CMakeFiles/freetype.dir/src/base/ftobjs.c.obj.requires:
 .PHONY : CMakeFiles/freetype.dir/src/base/ftobjs.c.obj.requires
@@ -461,18 +461,18 @@ CMakeFiles/freetype.dir/src/base/ftobjs.c.obj.provides.build: CMakeFiles/freetyp
 
 CMakeFiles/freetype.dir/src/base/ftotval.c.obj: CMakeFiles/freetype.dir/flags.make
 CMakeFiles/freetype.dir/src/base/ftotval.c.obj: CMakeFiles/freetype.dir/includes_C.rsp
-CMakeFiles/freetype.dir/src/base/ftotval.c.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftotval.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_18)
+CMakeFiles/freetype.dir/src/base/ftotval.c.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftotval.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_18)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/freetype.dir/src/base/ftotval.c.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftotval.c.obj   -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftotval.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftotval.c.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftotval.c
 
 CMakeFiles/freetype.dir/src/base/ftotval.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/freetype.dir/src/base/ftotval.c.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftotval.c > CMakeFiles\freetype.dir\src\base\ftotval.c.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftotval.c > CMakeFiles\freetype.dir\src\base\ftotval.c.i
 
 CMakeFiles/freetype.dir/src/base/ftotval.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/freetype.dir/src/base/ftotval.c.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftotval.c -o CMakeFiles\freetype.dir\src\base\ftotval.c.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftotval.c -o CMakeFiles\freetype.dir\src\base\ftotval.c.s
 
 CMakeFiles/freetype.dir/src/base/ftotval.c.obj.requires:
 .PHONY : CMakeFiles/freetype.dir/src/base/ftotval.c.obj.requires
@@ -485,18 +485,18 @@ CMakeFiles/freetype.dir/src/base/ftotval.c.obj.provides.build: CMakeFiles/freety
 
 CMakeFiles/freetype.dir/src/base/ftoutln.c.obj: CMakeFiles/freetype.dir/flags.make
 CMakeFiles/freetype.dir/src/base/ftoutln.c.obj: CMakeFiles/freetype.dir/includes_C.rsp
-CMakeFiles/freetype.dir/src/base/ftoutln.c.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftoutln.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_19)
+CMakeFiles/freetype.dir/src/base/ftoutln.c.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftoutln.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_19)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/freetype.dir/src/base/ftoutln.c.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftoutln.c.obj   -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftoutln.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftoutln.c.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftoutln.c
 
 CMakeFiles/freetype.dir/src/base/ftoutln.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/freetype.dir/src/base/ftoutln.c.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftoutln.c > CMakeFiles\freetype.dir\src\base\ftoutln.c.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftoutln.c > CMakeFiles\freetype.dir\src\base\ftoutln.c.i
 
 CMakeFiles/freetype.dir/src/base/ftoutln.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/freetype.dir/src/base/ftoutln.c.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftoutln.c -o CMakeFiles\freetype.dir\src\base\ftoutln.c.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftoutln.c -o CMakeFiles\freetype.dir\src\base\ftoutln.c.s
 
 CMakeFiles/freetype.dir/src/base/ftoutln.c.obj.requires:
 .PHONY : CMakeFiles/freetype.dir/src/base/ftoutln.c.obj.requires
@@ -509,18 +509,18 @@ CMakeFiles/freetype.dir/src/base/ftoutln.c.obj.provides.build: CMakeFiles/freety
 
 CMakeFiles/freetype.dir/src/base/ftpatent.c.obj: CMakeFiles/freetype.dir/flags.make
 CMakeFiles/freetype.dir/src/base/ftpatent.c.obj: CMakeFiles/freetype.dir/includes_C.rsp
-CMakeFiles/freetype.dir/src/base/ftpatent.c.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftpatent.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_20)
+CMakeFiles/freetype.dir/src/base/ftpatent.c.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftpatent.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_20)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/freetype.dir/src/base/ftpatent.c.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftpatent.c.obj   -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftpatent.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftpatent.c.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftpatent.c
 
 CMakeFiles/freetype.dir/src/base/ftpatent.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/freetype.dir/src/base/ftpatent.c.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftpatent.c > CMakeFiles\freetype.dir\src\base\ftpatent.c.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftpatent.c > CMakeFiles\freetype.dir\src\base\ftpatent.c.i
 
 CMakeFiles/freetype.dir/src/base/ftpatent.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/freetype.dir/src/base/ftpatent.c.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftpatent.c -o CMakeFiles\freetype.dir\src\base\ftpatent.c.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftpatent.c -o CMakeFiles\freetype.dir\src\base\ftpatent.c.s
 
 CMakeFiles/freetype.dir/src/base/ftpatent.c.obj.requires:
 .PHONY : CMakeFiles/freetype.dir/src/base/ftpatent.c.obj.requires
@@ -533,18 +533,18 @@ CMakeFiles/freetype.dir/src/base/ftpatent.c.obj.provides.build: CMakeFiles/freet
 
 CMakeFiles/freetype.dir/src/base/ftpfr.c.obj: CMakeFiles/freetype.dir/flags.make
 CMakeFiles/freetype.dir/src/base/ftpfr.c.obj: CMakeFiles/freetype.dir/includes_C.rsp
-CMakeFiles/freetype.dir/src/base/ftpfr.c.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftpfr.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_21)
+CMakeFiles/freetype.dir/src/base/ftpfr.c.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftpfr.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_21)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/freetype.dir/src/base/ftpfr.c.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftpfr.c.obj   -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftpfr.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftpfr.c.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftpfr.c
 
 CMakeFiles/freetype.dir/src/base/ftpfr.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/freetype.dir/src/base/ftpfr.c.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftpfr.c > CMakeFiles\freetype.dir\src\base\ftpfr.c.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftpfr.c > CMakeFiles\freetype.dir\src\base\ftpfr.c.i
 
 CMakeFiles/freetype.dir/src/base/ftpfr.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/freetype.dir/src/base/ftpfr.c.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftpfr.c -o CMakeFiles\freetype.dir\src\base\ftpfr.c.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftpfr.c -o CMakeFiles\freetype.dir\src\base\ftpfr.c.s
 
 CMakeFiles/freetype.dir/src/base/ftpfr.c.obj.requires:
 .PHONY : CMakeFiles/freetype.dir/src/base/ftpfr.c.obj.requires
@@ -557,18 +557,18 @@ CMakeFiles/freetype.dir/src/base/ftpfr.c.obj.provides.build: CMakeFiles/freetype
 
 CMakeFiles/freetype.dir/src/base/ftrfork.c.obj: CMakeFiles/freetype.dir/flags.make
 CMakeFiles/freetype.dir/src/base/ftrfork.c.obj: CMakeFiles/freetype.dir/includes_C.rsp
-CMakeFiles/freetype.dir/src/base/ftrfork.c.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftrfork.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_22)
+CMakeFiles/freetype.dir/src/base/ftrfork.c.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftrfork.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_22)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/freetype.dir/src/base/ftrfork.c.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftrfork.c.obj   -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftrfork.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftrfork.c.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftrfork.c
 
 CMakeFiles/freetype.dir/src/base/ftrfork.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/freetype.dir/src/base/ftrfork.c.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftrfork.c > CMakeFiles\freetype.dir\src\base\ftrfork.c.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftrfork.c > CMakeFiles\freetype.dir\src\base\ftrfork.c.i
 
 CMakeFiles/freetype.dir/src/base/ftrfork.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/freetype.dir/src/base/ftrfork.c.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftrfork.c -o CMakeFiles\freetype.dir\src\base\ftrfork.c.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftrfork.c -o CMakeFiles\freetype.dir\src\base\ftrfork.c.s
 
 CMakeFiles/freetype.dir/src/base/ftrfork.c.obj.requires:
 .PHONY : CMakeFiles/freetype.dir/src/base/ftrfork.c.obj.requires
@@ -581,18 +581,18 @@ CMakeFiles/freetype.dir/src/base/ftrfork.c.obj.provides.build: CMakeFiles/freety
 
 CMakeFiles/freetype.dir/src/base/ftsnames.c.obj: CMakeFiles/freetype.dir/flags.make
 CMakeFiles/freetype.dir/src/base/ftsnames.c.obj: CMakeFiles/freetype.dir/includes_C.rsp
-CMakeFiles/freetype.dir/src/base/ftsnames.c.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftsnames.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_23)
+CMakeFiles/freetype.dir/src/base/ftsnames.c.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftsnames.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_23)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/freetype.dir/src/base/ftsnames.c.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftsnames.c.obj   -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftsnames.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftsnames.c.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftsnames.c
 
 CMakeFiles/freetype.dir/src/base/ftsnames.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/freetype.dir/src/base/ftsnames.c.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftsnames.c > CMakeFiles\freetype.dir\src\base\ftsnames.c.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftsnames.c > CMakeFiles\freetype.dir\src\base\ftsnames.c.i
 
 CMakeFiles/freetype.dir/src/base/ftsnames.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/freetype.dir/src/base/ftsnames.c.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftsnames.c -o CMakeFiles\freetype.dir\src\base\ftsnames.c.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftsnames.c -o CMakeFiles\freetype.dir\src\base\ftsnames.c.s
 
 CMakeFiles/freetype.dir/src/base/ftsnames.c.obj.requires:
 .PHONY : CMakeFiles/freetype.dir/src/base/ftsnames.c.obj.requires
@@ -605,18 +605,18 @@ CMakeFiles/freetype.dir/src/base/ftsnames.c.obj.provides.build: CMakeFiles/freet
 
 CMakeFiles/freetype.dir/src/base/ftstream.c.obj: CMakeFiles/freetype.dir/flags.make
 CMakeFiles/freetype.dir/src/base/ftstream.c.obj: CMakeFiles/freetype.dir/includes_C.rsp
-CMakeFiles/freetype.dir/src/base/ftstream.c.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftstream.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_24)
+CMakeFiles/freetype.dir/src/base/ftstream.c.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftstream.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_24)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/freetype.dir/src/base/ftstream.c.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftstream.c.obj   -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftstream.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftstream.c.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftstream.c
 
 CMakeFiles/freetype.dir/src/base/ftstream.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/freetype.dir/src/base/ftstream.c.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftstream.c > CMakeFiles\freetype.dir\src\base\ftstream.c.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftstream.c > CMakeFiles\freetype.dir\src\base\ftstream.c.i
 
 CMakeFiles/freetype.dir/src/base/ftstream.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/freetype.dir/src/base/ftstream.c.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftstream.c -o CMakeFiles\freetype.dir\src\base\ftstream.c.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftstream.c -o CMakeFiles\freetype.dir\src\base\ftstream.c.s
 
 CMakeFiles/freetype.dir/src/base/ftstream.c.obj.requires:
 .PHONY : CMakeFiles/freetype.dir/src/base/ftstream.c.obj.requires
@@ -629,18 +629,18 @@ CMakeFiles/freetype.dir/src/base/ftstream.c.obj.provides.build: CMakeFiles/freet
 
 CMakeFiles/freetype.dir/src/base/ftstroke.c.obj: CMakeFiles/freetype.dir/flags.make
 CMakeFiles/freetype.dir/src/base/ftstroke.c.obj: CMakeFiles/freetype.dir/includes_C.rsp
-CMakeFiles/freetype.dir/src/base/ftstroke.c.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftstroke.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_25)
+CMakeFiles/freetype.dir/src/base/ftstroke.c.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftstroke.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_25)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/freetype.dir/src/base/ftstroke.c.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftstroke.c.obj   -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftstroke.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftstroke.c.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftstroke.c
 
 CMakeFiles/freetype.dir/src/base/ftstroke.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/freetype.dir/src/base/ftstroke.c.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftstroke.c > CMakeFiles\freetype.dir\src\base\ftstroke.c.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftstroke.c > CMakeFiles\freetype.dir\src\base\ftstroke.c.i
 
 CMakeFiles/freetype.dir/src/base/ftstroke.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/freetype.dir/src/base/ftstroke.c.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftstroke.c -o CMakeFiles\freetype.dir\src\base\ftstroke.c.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftstroke.c -o CMakeFiles\freetype.dir\src\base\ftstroke.c.s
 
 CMakeFiles/freetype.dir/src/base/ftstroke.c.obj.requires:
 .PHONY : CMakeFiles/freetype.dir/src/base/ftstroke.c.obj.requires
@@ -653,18 +653,18 @@ CMakeFiles/freetype.dir/src/base/ftstroke.c.obj.provides.build: CMakeFiles/freet
 
 CMakeFiles/freetype.dir/src/base/ftsynth.c.obj: CMakeFiles/freetype.dir/flags.make
 CMakeFiles/freetype.dir/src/base/ftsynth.c.obj: CMakeFiles/freetype.dir/includes_C.rsp
-CMakeFiles/freetype.dir/src/base/ftsynth.c.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftsynth.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_26)
+CMakeFiles/freetype.dir/src/base/ftsynth.c.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftsynth.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_26)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/freetype.dir/src/base/ftsynth.c.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftsynth.c.obj   -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftsynth.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftsynth.c.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftsynth.c
 
 CMakeFiles/freetype.dir/src/base/ftsynth.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/freetype.dir/src/base/ftsynth.c.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftsynth.c > CMakeFiles\freetype.dir\src\base\ftsynth.c.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftsynth.c > CMakeFiles\freetype.dir\src\base\ftsynth.c.i
 
 CMakeFiles/freetype.dir/src/base/ftsynth.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/freetype.dir/src/base/ftsynth.c.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftsynth.c -o CMakeFiles\freetype.dir\src\base\ftsynth.c.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftsynth.c -o CMakeFiles\freetype.dir\src\base\ftsynth.c.s
 
 CMakeFiles/freetype.dir/src/base/ftsynth.c.obj.requires:
 .PHONY : CMakeFiles/freetype.dir/src/base/ftsynth.c.obj.requires
@@ -677,18 +677,18 @@ CMakeFiles/freetype.dir/src/base/ftsynth.c.obj.provides.build: CMakeFiles/freety
 
 CMakeFiles/freetype.dir/src/base/ftsystem.c.obj: CMakeFiles/freetype.dir/flags.make
 CMakeFiles/freetype.dir/src/base/ftsystem.c.obj: CMakeFiles/freetype.dir/includes_C.rsp
-CMakeFiles/freetype.dir/src/base/ftsystem.c.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftsystem.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_27)
+CMakeFiles/freetype.dir/src/base/ftsystem.c.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftsystem.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_27)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/freetype.dir/src/base/ftsystem.c.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftsystem.c.obj   -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftsystem.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftsystem.c.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftsystem.c
 
 CMakeFiles/freetype.dir/src/base/ftsystem.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/freetype.dir/src/base/ftsystem.c.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftsystem.c > CMakeFiles\freetype.dir\src\base\ftsystem.c.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftsystem.c > CMakeFiles\freetype.dir\src\base\ftsystem.c.i
 
 CMakeFiles/freetype.dir/src/base/ftsystem.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/freetype.dir/src/base/ftsystem.c.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftsystem.c -o CMakeFiles\freetype.dir\src\base\ftsystem.c.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftsystem.c -o CMakeFiles\freetype.dir\src\base\ftsystem.c.s
 
 CMakeFiles/freetype.dir/src/base/ftsystem.c.obj.requires:
 .PHONY : CMakeFiles/freetype.dir/src/base/ftsystem.c.obj.requires
@@ -701,18 +701,18 @@ CMakeFiles/freetype.dir/src/base/ftsystem.c.obj.provides.build: CMakeFiles/freet
 
 CMakeFiles/freetype.dir/src/base/fttrigon.c.obj: CMakeFiles/freetype.dir/flags.make
 CMakeFiles/freetype.dir/src/base/fttrigon.c.obj: CMakeFiles/freetype.dir/includes_C.rsp
-CMakeFiles/freetype.dir/src/base/fttrigon.c.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/fttrigon.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_28)
+CMakeFiles/freetype.dir/src/base/fttrigon.c.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/fttrigon.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_28)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/freetype.dir/src/base/fttrigon.c.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\fttrigon.c.obj   -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\fttrigon.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\fttrigon.c.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\fttrigon.c
 
 CMakeFiles/freetype.dir/src/base/fttrigon.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/freetype.dir/src/base/fttrigon.c.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\fttrigon.c > CMakeFiles\freetype.dir\src\base\fttrigon.c.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\fttrigon.c > CMakeFiles\freetype.dir\src\base\fttrigon.c.i
 
 CMakeFiles/freetype.dir/src/base/fttrigon.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/freetype.dir/src/base/fttrigon.c.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\fttrigon.c -o CMakeFiles\freetype.dir\src\base\fttrigon.c.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\fttrigon.c -o CMakeFiles\freetype.dir\src\base\fttrigon.c.s
 
 CMakeFiles/freetype.dir/src/base/fttrigon.c.obj.requires:
 .PHONY : CMakeFiles/freetype.dir/src/base/fttrigon.c.obj.requires
@@ -725,18 +725,18 @@ CMakeFiles/freetype.dir/src/base/fttrigon.c.obj.provides.build: CMakeFiles/freet
 
 CMakeFiles/freetype.dir/src/base/fttype1.c.obj: CMakeFiles/freetype.dir/flags.make
 CMakeFiles/freetype.dir/src/base/fttype1.c.obj: CMakeFiles/freetype.dir/includes_C.rsp
-CMakeFiles/freetype.dir/src/base/fttype1.c.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/fttype1.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_29)
+CMakeFiles/freetype.dir/src/base/fttype1.c.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/fttype1.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_29)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/freetype.dir/src/base/fttype1.c.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\fttype1.c.obj   -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\fttype1.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\fttype1.c.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\fttype1.c
 
 CMakeFiles/freetype.dir/src/base/fttype1.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/freetype.dir/src/base/fttype1.c.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\fttype1.c > CMakeFiles\freetype.dir\src\base\fttype1.c.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\fttype1.c > CMakeFiles\freetype.dir\src\base\fttype1.c.i
 
 CMakeFiles/freetype.dir/src/base/fttype1.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/freetype.dir/src/base/fttype1.c.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\fttype1.c -o CMakeFiles\freetype.dir\src\base\fttype1.c.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\fttype1.c -o CMakeFiles\freetype.dir\src\base\fttype1.c.s
 
 CMakeFiles/freetype.dir/src/base/fttype1.c.obj.requires:
 .PHONY : CMakeFiles/freetype.dir/src/base/fttype1.c.obj.requires
@@ -749,18 +749,18 @@ CMakeFiles/freetype.dir/src/base/fttype1.c.obj.provides.build: CMakeFiles/freety
 
 CMakeFiles/freetype.dir/src/base/ftutil.c.obj: CMakeFiles/freetype.dir/flags.make
 CMakeFiles/freetype.dir/src/base/ftutil.c.obj: CMakeFiles/freetype.dir/includes_C.rsp
-CMakeFiles/freetype.dir/src/base/ftutil.c.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftutil.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_30)
+CMakeFiles/freetype.dir/src/base/ftutil.c.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftutil.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_30)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/freetype.dir/src/base/ftutil.c.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftutil.c.obj   -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftutil.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftutil.c.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftutil.c
 
 CMakeFiles/freetype.dir/src/base/ftutil.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/freetype.dir/src/base/ftutil.c.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftutil.c > CMakeFiles\freetype.dir\src\base\ftutil.c.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftutil.c > CMakeFiles\freetype.dir\src\base\ftutil.c.i
 
 CMakeFiles/freetype.dir/src/base/ftutil.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/freetype.dir/src/base/ftutil.c.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftutil.c -o CMakeFiles\freetype.dir\src\base\ftutil.c.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftutil.c -o CMakeFiles\freetype.dir\src\base\ftutil.c.s
 
 CMakeFiles/freetype.dir/src/base/ftutil.c.obj.requires:
 .PHONY : CMakeFiles/freetype.dir/src/base/ftutil.c.obj.requires
@@ -773,18 +773,18 @@ CMakeFiles/freetype.dir/src/base/ftutil.c.obj.provides.build: CMakeFiles/freetyp
 
 CMakeFiles/freetype.dir/src/base/ftwinfnt.c.obj: CMakeFiles/freetype.dir/flags.make
 CMakeFiles/freetype.dir/src/base/ftwinfnt.c.obj: CMakeFiles/freetype.dir/includes_C.rsp
-CMakeFiles/freetype.dir/src/base/ftwinfnt.c.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftwinfnt.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_31)
+CMakeFiles/freetype.dir/src/base/ftwinfnt.c.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftwinfnt.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_31)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/freetype.dir/src/base/ftwinfnt.c.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftwinfnt.c.obj   -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftwinfnt.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftwinfnt.c.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftwinfnt.c
 
 CMakeFiles/freetype.dir/src/base/ftwinfnt.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/freetype.dir/src/base/ftwinfnt.c.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftwinfnt.c > CMakeFiles\freetype.dir\src\base\ftwinfnt.c.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftwinfnt.c > CMakeFiles\freetype.dir\src\base\ftwinfnt.c.i
 
 CMakeFiles/freetype.dir/src/base/ftwinfnt.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/freetype.dir/src/base/ftwinfnt.c.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftwinfnt.c -o CMakeFiles\freetype.dir\src\base\ftwinfnt.c.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftwinfnt.c -o CMakeFiles\freetype.dir\src\base\ftwinfnt.c.s
 
 CMakeFiles/freetype.dir/src/base/ftwinfnt.c.obj.requires:
 .PHONY : CMakeFiles/freetype.dir/src/base/ftwinfnt.c.obj.requires
@@ -797,18 +797,18 @@ CMakeFiles/freetype.dir/src/base/ftwinfnt.c.obj.provides.build: CMakeFiles/freet
 
 CMakeFiles/freetype.dir/src/base/ftxf86.c.obj: CMakeFiles/freetype.dir/flags.make
 CMakeFiles/freetype.dir/src/base/ftxf86.c.obj: CMakeFiles/freetype.dir/includes_C.rsp
-CMakeFiles/freetype.dir/src/base/ftxf86.c.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftxf86.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_32)
+CMakeFiles/freetype.dir/src/base/ftxf86.c.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/base/ftxf86.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_32)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/freetype.dir/src/base/ftxf86.c.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftxf86.c.obj   -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftxf86.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\base\ftxf86.c.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftxf86.c
 
 CMakeFiles/freetype.dir/src/base/ftxf86.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/freetype.dir/src/base/ftxf86.c.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftxf86.c > CMakeFiles\freetype.dir\src\base\ftxf86.c.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftxf86.c > CMakeFiles\freetype.dir\src\base\ftxf86.c.i
 
 CMakeFiles/freetype.dir/src/base/ftxf86.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/freetype.dir/src/base/ftxf86.c.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftxf86.c -o CMakeFiles\freetype.dir\src\base\ftxf86.c.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\base\ftxf86.c -o CMakeFiles\freetype.dir\src\base\ftxf86.c.s
 
 CMakeFiles/freetype.dir/src/base/ftxf86.c.obj.requires:
 .PHONY : CMakeFiles/freetype.dir/src/base/ftxf86.c.obj.requires
@@ -821,18 +821,18 @@ CMakeFiles/freetype.dir/src/base/ftxf86.c.obj.provides.build: CMakeFiles/freetyp
 
 CMakeFiles/freetype.dir/src/bdf/bdf.c.obj: CMakeFiles/freetype.dir/flags.make
 CMakeFiles/freetype.dir/src/bdf/bdf.c.obj: CMakeFiles/freetype.dir/includes_C.rsp
-CMakeFiles/freetype.dir/src/bdf/bdf.c.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/bdf/bdf.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_33)
+CMakeFiles/freetype.dir/src/bdf/bdf.c.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/bdf/bdf.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_33)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/freetype.dir/src/bdf/bdf.c.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\bdf\bdf.c.obj   -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\bdf\bdf.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\bdf\bdf.c.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\bdf\bdf.c
 
 CMakeFiles/freetype.dir/src/bdf/bdf.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/freetype.dir/src/bdf/bdf.c.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\bdf\bdf.c > CMakeFiles\freetype.dir\src\bdf\bdf.c.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\bdf\bdf.c > CMakeFiles\freetype.dir\src\bdf\bdf.c.i
 
 CMakeFiles/freetype.dir/src/bdf/bdf.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/freetype.dir/src/bdf/bdf.c.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\bdf\bdf.c -o CMakeFiles\freetype.dir\src\bdf\bdf.c.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\bdf\bdf.c -o CMakeFiles\freetype.dir\src\bdf\bdf.c.s
 
 CMakeFiles/freetype.dir/src/bdf/bdf.c.obj.requires:
 .PHONY : CMakeFiles/freetype.dir/src/bdf/bdf.c.obj.requires
@@ -845,18 +845,18 @@ CMakeFiles/freetype.dir/src/bdf/bdf.c.obj.provides.build: CMakeFiles/freetype.di
 
 CMakeFiles/freetype.dir/src/bzip2/ftbzip2.c.obj: CMakeFiles/freetype.dir/flags.make
 CMakeFiles/freetype.dir/src/bzip2/ftbzip2.c.obj: CMakeFiles/freetype.dir/includes_C.rsp
-CMakeFiles/freetype.dir/src/bzip2/ftbzip2.c.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/bzip2/ftbzip2.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_34)
+CMakeFiles/freetype.dir/src/bzip2/ftbzip2.c.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/bzip2/ftbzip2.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_34)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/freetype.dir/src/bzip2/ftbzip2.c.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\bzip2\ftbzip2.c.obj   -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\bzip2\ftbzip2.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\bzip2\ftbzip2.c.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\bzip2\ftbzip2.c
 
 CMakeFiles/freetype.dir/src/bzip2/ftbzip2.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/freetype.dir/src/bzip2/ftbzip2.c.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\bzip2\ftbzip2.c > CMakeFiles\freetype.dir\src\bzip2\ftbzip2.c.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\bzip2\ftbzip2.c > CMakeFiles\freetype.dir\src\bzip2\ftbzip2.c.i
 
 CMakeFiles/freetype.dir/src/bzip2/ftbzip2.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/freetype.dir/src/bzip2/ftbzip2.c.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\bzip2\ftbzip2.c -o CMakeFiles\freetype.dir\src\bzip2\ftbzip2.c.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\bzip2\ftbzip2.c -o CMakeFiles\freetype.dir\src\bzip2\ftbzip2.c.s
 
 CMakeFiles/freetype.dir/src/bzip2/ftbzip2.c.obj.requires:
 .PHONY : CMakeFiles/freetype.dir/src/bzip2/ftbzip2.c.obj.requires
@@ -869,18 +869,18 @@ CMakeFiles/freetype.dir/src/bzip2/ftbzip2.c.obj.provides.build: CMakeFiles/freet
 
 CMakeFiles/freetype.dir/src/cache/ftcache.c.obj: CMakeFiles/freetype.dir/flags.make
 CMakeFiles/freetype.dir/src/cache/ftcache.c.obj: CMakeFiles/freetype.dir/includes_C.rsp
-CMakeFiles/freetype.dir/src/cache/ftcache.c.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/cache/ftcache.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_35)
+CMakeFiles/freetype.dir/src/cache/ftcache.c.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/cache/ftcache.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_35)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/freetype.dir/src/cache/ftcache.c.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\cache\ftcache.c.obj   -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\cache\ftcache.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\cache\ftcache.c.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\cache\ftcache.c
 
 CMakeFiles/freetype.dir/src/cache/ftcache.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/freetype.dir/src/cache/ftcache.c.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\cache\ftcache.c > CMakeFiles\freetype.dir\src\cache\ftcache.c.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\cache\ftcache.c > CMakeFiles\freetype.dir\src\cache\ftcache.c.i
 
 CMakeFiles/freetype.dir/src/cache/ftcache.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/freetype.dir/src/cache/ftcache.c.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\cache\ftcache.c -o CMakeFiles\freetype.dir\src\cache\ftcache.c.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\cache\ftcache.c -o CMakeFiles\freetype.dir\src\cache\ftcache.c.s
 
 CMakeFiles/freetype.dir/src/cache/ftcache.c.obj.requires:
 .PHONY : CMakeFiles/freetype.dir/src/cache/ftcache.c.obj.requires
@@ -893,18 +893,18 @@ CMakeFiles/freetype.dir/src/cache/ftcache.c.obj.provides.build: CMakeFiles/freet
 
 CMakeFiles/freetype.dir/src/cff/cff.c.obj: CMakeFiles/freetype.dir/flags.make
 CMakeFiles/freetype.dir/src/cff/cff.c.obj: CMakeFiles/freetype.dir/includes_C.rsp
-CMakeFiles/freetype.dir/src/cff/cff.c.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/cff/cff.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_36)
+CMakeFiles/freetype.dir/src/cff/cff.c.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/cff/cff.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_36)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/freetype.dir/src/cff/cff.c.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\cff\cff.c.obj   -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\cff\cff.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\cff\cff.c.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\cff\cff.c
 
 CMakeFiles/freetype.dir/src/cff/cff.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/freetype.dir/src/cff/cff.c.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\cff\cff.c > CMakeFiles\freetype.dir\src\cff\cff.c.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\cff\cff.c > CMakeFiles\freetype.dir\src\cff\cff.c.i
 
 CMakeFiles/freetype.dir/src/cff/cff.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/freetype.dir/src/cff/cff.c.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\cff\cff.c -o CMakeFiles\freetype.dir\src\cff\cff.c.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\cff\cff.c -o CMakeFiles\freetype.dir\src\cff\cff.c.s
 
 CMakeFiles/freetype.dir/src/cff/cff.c.obj.requires:
 .PHONY : CMakeFiles/freetype.dir/src/cff/cff.c.obj.requires
@@ -917,18 +917,18 @@ CMakeFiles/freetype.dir/src/cff/cff.c.obj.provides.build: CMakeFiles/freetype.di
 
 CMakeFiles/freetype.dir/src/cid/type1cid.c.obj: CMakeFiles/freetype.dir/flags.make
 CMakeFiles/freetype.dir/src/cid/type1cid.c.obj: CMakeFiles/freetype.dir/includes_C.rsp
-CMakeFiles/freetype.dir/src/cid/type1cid.c.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/cid/type1cid.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_37)
+CMakeFiles/freetype.dir/src/cid/type1cid.c.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/cid/type1cid.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_37)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/freetype.dir/src/cid/type1cid.c.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\cid\type1cid.c.obj   -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\cid\type1cid.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\cid\type1cid.c.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\cid\type1cid.c
 
 CMakeFiles/freetype.dir/src/cid/type1cid.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/freetype.dir/src/cid/type1cid.c.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\cid\type1cid.c > CMakeFiles\freetype.dir\src\cid\type1cid.c.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\cid\type1cid.c > CMakeFiles\freetype.dir\src\cid\type1cid.c.i
 
 CMakeFiles/freetype.dir/src/cid/type1cid.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/freetype.dir/src/cid/type1cid.c.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\cid\type1cid.c -o CMakeFiles\freetype.dir\src\cid\type1cid.c.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\cid\type1cid.c -o CMakeFiles\freetype.dir\src\cid\type1cid.c.s
 
 CMakeFiles/freetype.dir/src/cid/type1cid.c.obj.requires:
 .PHONY : CMakeFiles/freetype.dir/src/cid/type1cid.c.obj.requires
@@ -941,18 +941,18 @@ CMakeFiles/freetype.dir/src/cid/type1cid.c.obj.provides.build: CMakeFiles/freety
 
 CMakeFiles/freetype.dir/src/gzip/ftgzip.c.obj: CMakeFiles/freetype.dir/flags.make
 CMakeFiles/freetype.dir/src/gzip/ftgzip.c.obj: CMakeFiles/freetype.dir/includes_C.rsp
-CMakeFiles/freetype.dir/src/gzip/ftgzip.c.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/gzip/ftgzip.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_38)
+CMakeFiles/freetype.dir/src/gzip/ftgzip.c.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/gzip/ftgzip.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_38)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/freetype.dir/src/gzip/ftgzip.c.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\gzip\ftgzip.c.obj   -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\gzip\ftgzip.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\gzip\ftgzip.c.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\gzip\ftgzip.c
 
 CMakeFiles/freetype.dir/src/gzip/ftgzip.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/freetype.dir/src/gzip/ftgzip.c.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\gzip\ftgzip.c > CMakeFiles\freetype.dir\src\gzip\ftgzip.c.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\gzip\ftgzip.c > CMakeFiles\freetype.dir\src\gzip\ftgzip.c.i
 
 CMakeFiles/freetype.dir/src/gzip/ftgzip.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/freetype.dir/src/gzip/ftgzip.c.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\gzip\ftgzip.c -o CMakeFiles\freetype.dir\src\gzip\ftgzip.c.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\gzip\ftgzip.c -o CMakeFiles\freetype.dir\src\gzip\ftgzip.c.s
 
 CMakeFiles/freetype.dir/src/gzip/ftgzip.c.obj.requires:
 .PHONY : CMakeFiles/freetype.dir/src/gzip/ftgzip.c.obj.requires
@@ -965,18 +965,18 @@ CMakeFiles/freetype.dir/src/gzip/ftgzip.c.obj.provides.build: CMakeFiles/freetyp
 
 CMakeFiles/freetype.dir/src/lzw/ftlzw.c.obj: CMakeFiles/freetype.dir/flags.make
 CMakeFiles/freetype.dir/src/lzw/ftlzw.c.obj: CMakeFiles/freetype.dir/includes_C.rsp
-CMakeFiles/freetype.dir/src/lzw/ftlzw.c.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/lzw/ftlzw.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_39)
+CMakeFiles/freetype.dir/src/lzw/ftlzw.c.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/lzw/ftlzw.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_39)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/freetype.dir/src/lzw/ftlzw.c.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\lzw\ftlzw.c.obj   -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\lzw\ftlzw.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\lzw\ftlzw.c.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\lzw\ftlzw.c
 
 CMakeFiles/freetype.dir/src/lzw/ftlzw.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/freetype.dir/src/lzw/ftlzw.c.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\lzw\ftlzw.c > CMakeFiles\freetype.dir\src\lzw\ftlzw.c.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\lzw\ftlzw.c > CMakeFiles\freetype.dir\src\lzw\ftlzw.c.i
 
 CMakeFiles/freetype.dir/src/lzw/ftlzw.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/freetype.dir/src/lzw/ftlzw.c.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\lzw\ftlzw.c -o CMakeFiles\freetype.dir\src\lzw\ftlzw.c.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\lzw\ftlzw.c -o CMakeFiles\freetype.dir\src\lzw\ftlzw.c.s
 
 CMakeFiles/freetype.dir/src/lzw/ftlzw.c.obj.requires:
 .PHONY : CMakeFiles/freetype.dir/src/lzw/ftlzw.c.obj.requires
@@ -989,18 +989,18 @@ CMakeFiles/freetype.dir/src/lzw/ftlzw.c.obj.provides.build: CMakeFiles/freetype.
 
 CMakeFiles/freetype.dir/src/pcf/pcf.c.obj: CMakeFiles/freetype.dir/flags.make
 CMakeFiles/freetype.dir/src/pcf/pcf.c.obj: CMakeFiles/freetype.dir/includes_C.rsp
-CMakeFiles/freetype.dir/src/pcf/pcf.c.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/pcf/pcf.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_40)
+CMakeFiles/freetype.dir/src/pcf/pcf.c.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/pcf/pcf.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_40)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/freetype.dir/src/pcf/pcf.c.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\pcf\pcf.c.obj   -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\pcf\pcf.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\pcf\pcf.c.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\pcf\pcf.c
 
 CMakeFiles/freetype.dir/src/pcf/pcf.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/freetype.dir/src/pcf/pcf.c.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\pcf\pcf.c > CMakeFiles\freetype.dir\src\pcf\pcf.c.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\pcf\pcf.c > CMakeFiles\freetype.dir\src\pcf\pcf.c.i
 
 CMakeFiles/freetype.dir/src/pcf/pcf.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/freetype.dir/src/pcf/pcf.c.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\pcf\pcf.c -o CMakeFiles\freetype.dir\src\pcf\pcf.c.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\pcf\pcf.c -o CMakeFiles\freetype.dir\src\pcf\pcf.c.s
 
 CMakeFiles/freetype.dir/src/pcf/pcf.c.obj.requires:
 .PHONY : CMakeFiles/freetype.dir/src/pcf/pcf.c.obj.requires
@@ -1013,18 +1013,18 @@ CMakeFiles/freetype.dir/src/pcf/pcf.c.obj.provides.build: CMakeFiles/freetype.di
 
 CMakeFiles/freetype.dir/src/pfr/pfr.c.obj: CMakeFiles/freetype.dir/flags.make
 CMakeFiles/freetype.dir/src/pfr/pfr.c.obj: CMakeFiles/freetype.dir/includes_C.rsp
-CMakeFiles/freetype.dir/src/pfr/pfr.c.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/pfr/pfr.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_41)
+CMakeFiles/freetype.dir/src/pfr/pfr.c.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/pfr/pfr.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_41)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/freetype.dir/src/pfr/pfr.c.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\pfr\pfr.c.obj   -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\pfr\pfr.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\pfr\pfr.c.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\pfr\pfr.c
 
 CMakeFiles/freetype.dir/src/pfr/pfr.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/freetype.dir/src/pfr/pfr.c.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\pfr\pfr.c > CMakeFiles\freetype.dir\src\pfr\pfr.c.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\pfr\pfr.c > CMakeFiles\freetype.dir\src\pfr\pfr.c.i
 
 CMakeFiles/freetype.dir/src/pfr/pfr.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/freetype.dir/src/pfr/pfr.c.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\pfr\pfr.c -o CMakeFiles\freetype.dir\src\pfr\pfr.c.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\pfr\pfr.c -o CMakeFiles\freetype.dir\src\pfr\pfr.c.s
 
 CMakeFiles/freetype.dir/src/pfr/pfr.c.obj.requires:
 .PHONY : CMakeFiles/freetype.dir/src/pfr/pfr.c.obj.requires
@@ -1037,18 +1037,18 @@ CMakeFiles/freetype.dir/src/pfr/pfr.c.obj.provides.build: CMakeFiles/freetype.di
 
 CMakeFiles/freetype.dir/src/psaux/psaux.c.obj: CMakeFiles/freetype.dir/flags.make
 CMakeFiles/freetype.dir/src/psaux/psaux.c.obj: CMakeFiles/freetype.dir/includes_C.rsp
-CMakeFiles/freetype.dir/src/psaux/psaux.c.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/psaux/psaux.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_42)
+CMakeFiles/freetype.dir/src/psaux/psaux.c.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/psaux/psaux.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_42)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/freetype.dir/src/psaux/psaux.c.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\psaux\psaux.c.obj   -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\psaux\psaux.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\psaux\psaux.c.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\psaux\psaux.c
 
 CMakeFiles/freetype.dir/src/psaux/psaux.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/freetype.dir/src/psaux/psaux.c.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\psaux\psaux.c > CMakeFiles\freetype.dir\src\psaux\psaux.c.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\psaux\psaux.c > CMakeFiles\freetype.dir\src\psaux\psaux.c.i
 
 CMakeFiles/freetype.dir/src/psaux/psaux.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/freetype.dir/src/psaux/psaux.c.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\psaux\psaux.c -o CMakeFiles\freetype.dir\src\psaux\psaux.c.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\psaux\psaux.c -o CMakeFiles\freetype.dir\src\psaux\psaux.c.s
 
 CMakeFiles/freetype.dir/src/psaux/psaux.c.obj.requires:
 .PHONY : CMakeFiles/freetype.dir/src/psaux/psaux.c.obj.requires
@@ -1061,18 +1061,18 @@ CMakeFiles/freetype.dir/src/psaux/psaux.c.obj.provides.build: CMakeFiles/freetyp
 
 CMakeFiles/freetype.dir/src/pshinter/pshinter.c.obj: CMakeFiles/freetype.dir/flags.make
 CMakeFiles/freetype.dir/src/pshinter/pshinter.c.obj: CMakeFiles/freetype.dir/includes_C.rsp
-CMakeFiles/freetype.dir/src/pshinter/pshinter.c.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/pshinter/pshinter.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_43)
+CMakeFiles/freetype.dir/src/pshinter/pshinter.c.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/pshinter/pshinter.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_43)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/freetype.dir/src/pshinter/pshinter.c.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\pshinter\pshinter.c.obj   -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\pshinter\pshinter.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\pshinter\pshinter.c.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\pshinter\pshinter.c
 
 CMakeFiles/freetype.dir/src/pshinter/pshinter.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/freetype.dir/src/pshinter/pshinter.c.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\pshinter\pshinter.c > CMakeFiles\freetype.dir\src\pshinter\pshinter.c.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\pshinter\pshinter.c > CMakeFiles\freetype.dir\src\pshinter\pshinter.c.i
 
 CMakeFiles/freetype.dir/src/pshinter/pshinter.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/freetype.dir/src/pshinter/pshinter.c.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\pshinter\pshinter.c -o CMakeFiles\freetype.dir\src\pshinter\pshinter.c.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\pshinter\pshinter.c -o CMakeFiles\freetype.dir\src\pshinter\pshinter.c.s
 
 CMakeFiles/freetype.dir/src/pshinter/pshinter.c.obj.requires:
 .PHONY : CMakeFiles/freetype.dir/src/pshinter/pshinter.c.obj.requires
@@ -1085,18 +1085,18 @@ CMakeFiles/freetype.dir/src/pshinter/pshinter.c.obj.provides.build: CMakeFiles/f
 
 CMakeFiles/freetype.dir/src/psnames/psmodule.c.obj: CMakeFiles/freetype.dir/flags.make
 CMakeFiles/freetype.dir/src/psnames/psmodule.c.obj: CMakeFiles/freetype.dir/includes_C.rsp
-CMakeFiles/freetype.dir/src/psnames/psmodule.c.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/psnames/psmodule.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_44)
+CMakeFiles/freetype.dir/src/psnames/psmodule.c.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/psnames/psmodule.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_44)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/freetype.dir/src/psnames/psmodule.c.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\psnames\psmodule.c.obj   -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\psnames\psmodule.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\psnames\psmodule.c.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\psnames\psmodule.c
 
 CMakeFiles/freetype.dir/src/psnames/psmodule.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/freetype.dir/src/psnames/psmodule.c.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\psnames\psmodule.c > CMakeFiles\freetype.dir\src\psnames\psmodule.c.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\psnames\psmodule.c > CMakeFiles\freetype.dir\src\psnames\psmodule.c.i
 
 CMakeFiles/freetype.dir/src/psnames/psmodule.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/freetype.dir/src/psnames/psmodule.c.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\psnames\psmodule.c -o CMakeFiles\freetype.dir\src\psnames\psmodule.c.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\psnames\psmodule.c -o CMakeFiles\freetype.dir\src\psnames\psmodule.c.s
 
 CMakeFiles/freetype.dir/src/psnames/psmodule.c.obj.requires:
 .PHONY : CMakeFiles/freetype.dir/src/psnames/psmodule.c.obj.requires
@@ -1109,18 +1109,18 @@ CMakeFiles/freetype.dir/src/psnames/psmodule.c.obj.provides.build: CMakeFiles/fr
 
 CMakeFiles/freetype.dir/src/raster/raster.c.obj: CMakeFiles/freetype.dir/flags.make
 CMakeFiles/freetype.dir/src/raster/raster.c.obj: CMakeFiles/freetype.dir/includes_C.rsp
-CMakeFiles/freetype.dir/src/raster/raster.c.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/raster/raster.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_45)
+CMakeFiles/freetype.dir/src/raster/raster.c.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/raster/raster.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_45)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/freetype.dir/src/raster/raster.c.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\raster\raster.c.obj   -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\raster\raster.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\raster\raster.c.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\raster\raster.c
 
 CMakeFiles/freetype.dir/src/raster/raster.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/freetype.dir/src/raster/raster.c.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\raster\raster.c > CMakeFiles\freetype.dir\src\raster\raster.c.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\raster\raster.c > CMakeFiles\freetype.dir\src\raster\raster.c.i
 
 CMakeFiles/freetype.dir/src/raster/raster.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/freetype.dir/src/raster/raster.c.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\raster\raster.c -o CMakeFiles\freetype.dir\src\raster\raster.c.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\raster\raster.c -o CMakeFiles\freetype.dir\src\raster\raster.c.s
 
 CMakeFiles/freetype.dir/src/raster/raster.c.obj.requires:
 .PHONY : CMakeFiles/freetype.dir/src/raster/raster.c.obj.requires
@@ -1133,18 +1133,18 @@ CMakeFiles/freetype.dir/src/raster/raster.c.obj.provides.build: CMakeFiles/freet
 
 CMakeFiles/freetype.dir/src/sfnt/sfnt.c.obj: CMakeFiles/freetype.dir/flags.make
 CMakeFiles/freetype.dir/src/sfnt/sfnt.c.obj: CMakeFiles/freetype.dir/includes_C.rsp
-CMakeFiles/freetype.dir/src/sfnt/sfnt.c.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/sfnt/sfnt.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_46)
+CMakeFiles/freetype.dir/src/sfnt/sfnt.c.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/sfnt/sfnt.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_46)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/freetype.dir/src/sfnt/sfnt.c.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\sfnt\sfnt.c.obj   -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\sfnt\sfnt.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\sfnt\sfnt.c.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\sfnt\sfnt.c
 
 CMakeFiles/freetype.dir/src/sfnt/sfnt.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/freetype.dir/src/sfnt/sfnt.c.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\sfnt\sfnt.c > CMakeFiles\freetype.dir\src\sfnt\sfnt.c.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\sfnt\sfnt.c > CMakeFiles\freetype.dir\src\sfnt\sfnt.c.i
 
 CMakeFiles/freetype.dir/src/sfnt/sfnt.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/freetype.dir/src/sfnt/sfnt.c.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\sfnt\sfnt.c -o CMakeFiles\freetype.dir\src\sfnt\sfnt.c.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\sfnt\sfnt.c -o CMakeFiles\freetype.dir\src\sfnt\sfnt.c.s
 
 CMakeFiles/freetype.dir/src/sfnt/sfnt.c.obj.requires:
 .PHONY : CMakeFiles/freetype.dir/src/sfnt/sfnt.c.obj.requires
@@ -1157,18 +1157,18 @@ CMakeFiles/freetype.dir/src/sfnt/sfnt.c.obj.provides.build: CMakeFiles/freetype.
 
 CMakeFiles/freetype.dir/src/smooth/smooth.c.obj: CMakeFiles/freetype.dir/flags.make
 CMakeFiles/freetype.dir/src/smooth/smooth.c.obj: CMakeFiles/freetype.dir/includes_C.rsp
-CMakeFiles/freetype.dir/src/smooth/smooth.c.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/smooth/smooth.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_47)
+CMakeFiles/freetype.dir/src/smooth/smooth.c.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/smooth/smooth.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_47)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/freetype.dir/src/smooth/smooth.c.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\smooth\smooth.c.obj   -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\smooth\smooth.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\smooth\smooth.c.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\smooth\smooth.c
 
 CMakeFiles/freetype.dir/src/smooth/smooth.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/freetype.dir/src/smooth/smooth.c.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\smooth\smooth.c > CMakeFiles\freetype.dir\src\smooth\smooth.c.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\smooth\smooth.c > CMakeFiles\freetype.dir\src\smooth\smooth.c.i
 
 CMakeFiles/freetype.dir/src/smooth/smooth.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/freetype.dir/src/smooth/smooth.c.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\smooth\smooth.c -o CMakeFiles\freetype.dir\src\smooth\smooth.c.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\smooth\smooth.c -o CMakeFiles\freetype.dir\src\smooth\smooth.c.s
 
 CMakeFiles/freetype.dir/src/smooth/smooth.c.obj.requires:
 .PHONY : CMakeFiles/freetype.dir/src/smooth/smooth.c.obj.requires
@@ -1181,18 +1181,18 @@ CMakeFiles/freetype.dir/src/smooth/smooth.c.obj.provides.build: CMakeFiles/freet
 
 CMakeFiles/freetype.dir/src/truetype/truetype.c.obj: CMakeFiles/freetype.dir/flags.make
 CMakeFiles/freetype.dir/src/truetype/truetype.c.obj: CMakeFiles/freetype.dir/includes_C.rsp
-CMakeFiles/freetype.dir/src/truetype/truetype.c.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/truetype/truetype.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_48)
+CMakeFiles/freetype.dir/src/truetype/truetype.c.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/truetype/truetype.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_48)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/freetype.dir/src/truetype/truetype.c.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\truetype\truetype.c.obj   -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\truetype\truetype.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\truetype\truetype.c.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\truetype\truetype.c
 
 CMakeFiles/freetype.dir/src/truetype/truetype.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/freetype.dir/src/truetype/truetype.c.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\truetype\truetype.c > CMakeFiles\freetype.dir\src\truetype\truetype.c.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\truetype\truetype.c > CMakeFiles\freetype.dir\src\truetype\truetype.c.i
 
 CMakeFiles/freetype.dir/src/truetype/truetype.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/freetype.dir/src/truetype/truetype.c.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\truetype\truetype.c -o CMakeFiles\freetype.dir\src\truetype\truetype.c.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\truetype\truetype.c -o CMakeFiles\freetype.dir\src\truetype\truetype.c.s
 
 CMakeFiles/freetype.dir/src/truetype/truetype.c.obj.requires:
 .PHONY : CMakeFiles/freetype.dir/src/truetype/truetype.c.obj.requires
@@ -1205,18 +1205,18 @@ CMakeFiles/freetype.dir/src/truetype/truetype.c.obj.provides.build: CMakeFiles/f
 
 CMakeFiles/freetype.dir/src/type1/type1.c.obj: CMakeFiles/freetype.dir/flags.make
 CMakeFiles/freetype.dir/src/type1/type1.c.obj: CMakeFiles/freetype.dir/includes_C.rsp
-CMakeFiles/freetype.dir/src/type1/type1.c.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/type1/type1.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_49)
+CMakeFiles/freetype.dir/src/type1/type1.c.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/type1/type1.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_49)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/freetype.dir/src/type1/type1.c.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\type1\type1.c.obj   -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\type1\type1.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\type1\type1.c.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\type1\type1.c
 
 CMakeFiles/freetype.dir/src/type1/type1.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/freetype.dir/src/type1/type1.c.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\type1\type1.c > CMakeFiles\freetype.dir\src\type1\type1.c.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\type1\type1.c > CMakeFiles\freetype.dir\src\type1\type1.c.i
 
 CMakeFiles/freetype.dir/src/type1/type1.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/freetype.dir/src/type1/type1.c.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\type1\type1.c -o CMakeFiles\freetype.dir\src\type1\type1.c.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\type1\type1.c -o CMakeFiles\freetype.dir\src\type1\type1.c.s
 
 CMakeFiles/freetype.dir/src/type1/type1.c.obj.requires:
 .PHONY : CMakeFiles/freetype.dir/src/type1/type1.c.obj.requires
@@ -1229,18 +1229,18 @@ CMakeFiles/freetype.dir/src/type1/type1.c.obj.provides.build: CMakeFiles/freetyp
 
 CMakeFiles/freetype.dir/src/type42/type42.c.obj: CMakeFiles/freetype.dir/flags.make
 CMakeFiles/freetype.dir/src/type42/type42.c.obj: CMakeFiles/freetype.dir/includes_C.rsp
-CMakeFiles/freetype.dir/src/type42/type42.c.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/type42/type42.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_50)
+CMakeFiles/freetype.dir/src/type42/type42.c.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/type42/type42.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_50)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/freetype.dir/src/type42/type42.c.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\type42\type42.c.obj   -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\type42\type42.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\type42\type42.c.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\type42\type42.c
 
 CMakeFiles/freetype.dir/src/type42/type42.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/freetype.dir/src/type42/type42.c.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\type42\type42.c > CMakeFiles\freetype.dir\src\type42\type42.c.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\type42\type42.c > CMakeFiles\freetype.dir\src\type42\type42.c.i
 
 CMakeFiles/freetype.dir/src/type42/type42.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/freetype.dir/src/type42/type42.c.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\type42\type42.c -o CMakeFiles\freetype.dir\src\type42\type42.c.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\type42\type42.c -o CMakeFiles\freetype.dir\src\type42\type42.c.s
 
 CMakeFiles/freetype.dir/src/type42/type42.c.obj.requires:
 .PHONY : CMakeFiles/freetype.dir/src/type42/type42.c.obj.requires
@@ -1253,18 +1253,18 @@ CMakeFiles/freetype.dir/src/type42/type42.c.obj.provides.build: CMakeFiles/freet
 
 CMakeFiles/freetype.dir/src/winfonts/winfnt.c.obj: CMakeFiles/freetype.dir/flags.make
 CMakeFiles/freetype.dir/src/winfonts/winfnt.c.obj: CMakeFiles/freetype.dir/includes_C.rsp
-CMakeFiles/freetype.dir/src/winfonts/winfnt.c.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/winfonts/winfnt.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_51)
+CMakeFiles/freetype.dir/src/winfonts/winfnt.c.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/src/winfonts/winfnt.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles $(CMAKE_PROGRESS_51)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/freetype.dir/src/winfonts/winfnt.c.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\winfonts\winfnt.c.obj   -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\winfonts\winfnt.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\freetype.dir\src\winfonts\winfnt.c.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\winfonts\winfnt.c
 
 CMakeFiles/freetype.dir/src/winfonts/winfnt.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/freetype.dir/src/winfonts/winfnt.c.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\winfonts\winfnt.c > CMakeFiles\freetype.dir\src\winfonts\winfnt.c.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\winfonts\winfnt.c > CMakeFiles\freetype.dir\src\winfonts\winfnt.c.i
 
 CMakeFiles/freetype.dir/src/winfonts/winfnt.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/freetype.dir/src/winfonts/winfnt.c.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\winfonts\winfnt.c -o CMakeFiles\freetype.dir\src\winfonts\winfnt.c.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2\src\winfonts\winfnt.c -o CMakeFiles\freetype.dir\src\winfonts\winfnt.c.s
 
 CMakeFiles/freetype.dir/src/winfonts/winfnt.c.obj.requires:
 .PHONY : CMakeFiles/freetype.dir/src/winfonts/winfnt.c.obj.requires
@@ -1451,6 +1451,6 @@ CMakeFiles/freetype.dir/clean:
 .PHONY : CMakeFiles/freetype.dir/clean
 
 CMakeFiles/freetype.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2 C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2 C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles\freetype.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2 C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetype-2.5.2 C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles\freetype.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/freetype.dir/depend
 

@@ -1,0 +1,21 @@
+#!/bin/sh
+#
+
+LIB=../../lib
+INC=../Include
+
+echo Making aliases
+cd $INC
+ln -s $LIB/*.h .
+
+cd $LIB
+for a in [^k]*.c
+do
+	[ -h k$a ] || ln -s $a k$a
+done
+
+echo Making dependencies
+make dep >/dev/null 2>&1
+
+echo end of lib configure
+

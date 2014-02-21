@@ -37,10 +37,10 @@ EQUALS = =
 CMAKE_EDIT_COMMAND = "C:\Program Files (x86)\CMake 2.8\bin\cmake-gui.exe"
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1
+CMAKE_SOURCE_DIR = C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW
+CMAKE_BINARY_DIR = C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW
 
 # Include any dependencies generated for this target.
 include demos/CMakeFiles/renderbitmap.dir/depend.make
@@ -53,18 +53,18 @@ include demos/CMakeFiles/renderbitmap.dir/flags.make
 
 demos/CMakeFiles/renderbitmap.dir/renderbitmap/Main.obj: demos/CMakeFiles/renderbitmap.dir/flags.make
 demos/CMakeFiles/renderbitmap.dir/renderbitmap/Main.obj: demos/CMakeFiles/renderbitmap.dir/includes_CXX.rsp
-demos/CMakeFiles/renderbitmap.dir/renderbitmap/Main.obj: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/demos/renderbitmap/Main.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_1)
+demos/CMakeFiles/renderbitmap.dir/renderbitmap/Main.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/demos/renderbitmap/Main.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_1)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object demos/CMakeFiles/renderbitmap.dir/renderbitmap/Main.obj"
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\demos && C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\renderbitmap.dir\renderbitmap\Main.obj -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\demos\renderbitmap\Main.cpp
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\demos && C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\renderbitmap.dir\renderbitmap\Main.obj -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\demos\renderbitmap\Main.cpp
 
 demos/CMakeFiles/renderbitmap.dir/renderbitmap/Main.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/renderbitmap.dir/renderbitmap/Main.i"
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\demos && C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\demos\renderbitmap\Main.cpp > CMakeFiles\renderbitmap.dir\renderbitmap\Main.i
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\demos && C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\demos\renderbitmap\Main.cpp > CMakeFiles\renderbitmap.dir\renderbitmap\Main.i
 
 demos/CMakeFiles/renderbitmap.dir/renderbitmap/Main.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/renderbitmap.dir/renderbitmap/Main.s"
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\demos && C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\demos\renderbitmap\Main.cpp -o CMakeFiles\renderbitmap.dir\renderbitmap\Main.s
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\demos && C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\demos\renderbitmap\Main.cpp -o CMakeFiles\renderbitmap.dir\renderbitmap\Main.s
 
 demos/CMakeFiles/renderbitmap.dir/renderbitmap/Main.obj.requires:
 .PHONY : demos/CMakeFiles/renderbitmap.dir/renderbitmap/Main.obj.requires
@@ -85,16 +85,16 @@ renderbitmap_EXTERNAL_OBJECTS =
 bin/renderbitmap.exe: demos/CMakeFiles/renderbitmap.dir/renderbitmap/Main.obj
 bin/renderbitmap.exe: demos/CMakeFiles/renderbitmap.dir/build.make
 bin/renderbitmap.exe: lib/libopenlayer.a
-bin/renderbitmap.exe: C:/MinGW/lib/liballeggl.a
+bin/renderbitmap.exe: C:/compiledlibsforGCC4_8_1/lib/liballeggl.a
 bin/renderbitmap.exe: C:/MinGW/bin/libpng12.dll
 bin/renderbitmap.exe: lib/libglyph-agl.a
-bin/renderbitmap.exe: C:/MinGW/lib/libfreetype.a
+bin/renderbitmap.exe: C:/compiledlibsforGCC4_8_1/lib/libfreetype.a
 bin/renderbitmap.exe: C:/MinGW/lib/libz.dll.a
-bin/renderbitmap.exe: C:/MinGW/lib/liballeg44.dll.a
+bin/renderbitmap.exe: C:/compiledlibsforGCC4_8_1/lib/liballeg.a
 bin/renderbitmap.exe: demos/CMakeFiles/renderbitmap.dir/objects1.rsp
 bin/renderbitmap.exe: demos/CMakeFiles/renderbitmap.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --red --bold "Linking CXX executable ..\bin\renderbitmap.exe"
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\demos && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\renderbitmap.dir\link.txt --verbose=$(VERBOSE)
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\demos && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\renderbitmap.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 demos/CMakeFiles/renderbitmap.dir/build: bin/renderbitmap.exe
@@ -104,10 +104,10 @@ demos/CMakeFiles/renderbitmap.dir/requires: demos/CMakeFiles/renderbitmap.dir/re
 .PHONY : demos/CMakeFiles/renderbitmap.dir/requires
 
 demos/CMakeFiles/renderbitmap.dir/clean:
-	cd /d C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\demos && $(CMAKE_COMMAND) -P CMakeFiles\renderbitmap.dir\cmake_clean.cmake
+	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\demos && $(CMAKE_COMMAND) -P CMakeFiles\renderbitmap.dir\cmake_clean.cmake
 .PHONY : demos/CMakeFiles/renderbitmap.dir/clean
 
 demos/CMakeFiles/renderbitmap.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1 C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\demos C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\demos C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\demos\CMakeFiles\renderbitmap.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1 C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\demos C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\demos C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\demos\CMakeFiles\renderbitmap.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : demos/CMakeFiles/renderbitmap.dir/depend
 

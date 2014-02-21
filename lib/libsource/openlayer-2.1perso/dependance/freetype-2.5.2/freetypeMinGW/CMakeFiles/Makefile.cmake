@@ -27,7 +27,7 @@ SET(CMAKE_MAKEFILE_DEPENDS
   "C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/Platform/Windows.cmake"
   "C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/Platform/WindowsPaths.cmake"
   "C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Templates/CPackConfig.cmake.in"
-  "C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/CMakeLists.txt"
+  "C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetype-2.5.2/CMakeLists.txt"
   "CMakeFiles/2.8.12.2/CMakeCCompiler.cmake"
   "CMakeFiles/2.8.12.2/CMakeCXXCompiler.cmake"
   "CMakeFiles/2.8.12.2/CMakeRCCompiler.cmake"

@@ -24,12 +24,12 @@ SET(CMAKE_MAKEFILE_DEPENDS
   "C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/Platform/Windows-windres.cmake"
   "C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/Platform/Windows.cmake"
   "C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/Platform/WindowsPaths.cmake"
-  "../CMakeLists.txt"
   "CMakeFiles/2.8.12.2/CMakeCCompiler.cmake"
   "CMakeFiles/2.8.12.2/CMakeRCCompiler.cmake"
   "CMakeFiles/2.8.12.2/CMakeSystem.cmake"
-  "../zconf.h.cmakein"
-  "../zlib.pc.cmakein"
+  "C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/CMakeLists.txt"
+  "C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/zconf.h.cmakein"
+  "C:/whitecat_crossplateform/lib/libsource/zlib-1.2.8/zlib.pc.cmakein"
   )
 
 # The corresponding makefile is:

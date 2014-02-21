@@ -10,7 +10,7 @@ The output was:
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
 
-The C compiler identification is GNU, found in "C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetypeMinGW/CMakeFiles/2.8.12.2/CompilerIdC/a.exe"
+The C compiler identification is GNU, found in "C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetypeMinGW/CMakeFiles/2.8.12.2/CompilerIdC/a.exe"
 
 Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
 Compiler: C:/MinGW/bin/g++.exe 
@@ -23,39 +23,39 @@ The output was:
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
 
-The CXX compiler identification is GNU, found in "C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetypeMinGW/CMakeFiles/2.8.12.2/CompilerIdCXX/a.exe"
+The CXX compiler identification is GNU, found in "C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetypeMinGW/CMakeFiles/2.8.12.2/CompilerIdCXX/a.exe"
 
 Determining if the C compiler works passed with the following output:
-Change Dir: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetypeMinGW/CMakeFiles/CMakeTmp
+Change Dir: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetypeMinGW/CMakeFiles/CMakeTmp
 
-Run Build Command:C:/MinGW/bin/mingw32-make.exe "cmTryCompileExec2455855739/fast"
-C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTryCompileExec2455855739.dir\build.make CMakeFiles/cmTryCompileExec2455855739.dir/build
-mingw32-make.exe[1]: Entering directory 'C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetypeMinGW/CMakeFiles/CMakeTmp'
-"C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles\CMakeTmp\CMakeFiles 1
-Building C object CMakeFiles/cmTryCompileExec2455855739.dir/testCCompiler.c.obj
-C:\MinGW\bin\gcc.exe    -o CMakeFiles\cmTryCompileExec2455855739.dir\testCCompiler.c.obj   -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles\CMakeTmp\testCCompiler.c
-Linking C executable cmTryCompileExec2455855739.exe
-"C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTryCompileExec2455855739.dir\link.txt --verbose=1
-"C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E remove -f CMakeFiles\cmTryCompileExec2455855739.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\cmTryCompileExec2455855739.dir/objects.a @CMakeFiles\cmTryCompileExec2455855739.dir\objects1.rsp
-C:\MinGW\bin\gcc.exe       -Wl,--whole-archive CMakeFiles\cmTryCompileExec2455855739.dir/objects.a -Wl,--no-whole-archive  -o cmTryCompileExec2455855739.exe -Wl,--out-implib,libcmTryCompileExec2455855739.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
-mingw32-make.exe[1]: Leaving directory 'C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetypeMinGW/CMakeFiles/CMakeTmp'
+Run Build Command:C:/MinGW/bin/mingw32-make.exe "cmTryCompileExec3454572529/fast"
+C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTryCompileExec3454572529.dir\build.make CMakeFiles/cmTryCompileExec3454572529.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetypeMinGW/CMakeFiles/CMakeTmp'
+"C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles\CMakeTmp\CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3454572529.dir/testCCompiler.c.obj
+C:\MinGW\bin\gcc.exe    -o CMakeFiles\cmTryCompileExec3454572529.dir\testCCompiler.c.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles\CMakeTmp\testCCompiler.c
+Linking C executable cmTryCompileExec3454572529.exe
+"C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTryCompileExec3454572529.dir\link.txt --verbose=1
+"C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E remove -f CMakeFiles\cmTryCompileExec3454572529.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\cmTryCompileExec3454572529.dir/objects.a @CMakeFiles\cmTryCompileExec3454572529.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe       -Wl,--whole-archive CMakeFiles\cmTryCompileExec3454572529.dir/objects.a -Wl,--no-whole-archive  -o cmTryCompileExec3454572529.exe -Wl,--out-implib,libcmTryCompileExec3454572529.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
+mingw32-make.exe[1]: Leaving directory 'C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetypeMinGW/CMakeFiles/CMakeTmp'
 
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetypeMinGW/CMakeFiles/CMakeTmp
+Change Dir: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetypeMinGW/CMakeFiles/CMakeTmp
 
-Run Build Command:C:/MinGW/bin/mingw32-make.exe "cmTryCompileExec3813042880/fast"
-C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTryCompileExec3813042880.dir\build.make CMakeFiles/cmTryCompileExec3813042880.dir/build
-mingw32-make.exe[1]: Entering directory 'C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetypeMinGW/CMakeFiles/CMakeTmp'
-"C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles\CMakeTmp\CMakeFiles 1
-Building C object CMakeFiles/cmTryCompileExec3813042880.dir/CMakeCCompilerABI.c.obj
-C:\MinGW\bin\gcc.exe    -o CMakeFiles\cmTryCompileExec3813042880.dir\CMakeCCompilerABI.c.obj   -c "C:\Program Files (x86)\CMake 2.8\share\cmake-2.8\Modules\CMakeCCompilerABI.c"
-Linking C executable cmTryCompileExec3813042880.exe
-"C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTryCompileExec3813042880.dir\link.txt --verbose=1
-"C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E remove -f CMakeFiles\cmTryCompileExec3813042880.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\cmTryCompileExec3813042880.dir/objects.a @CMakeFiles\cmTryCompileExec3813042880.dir\objects1.rsp
-C:\MinGW\bin\gcc.exe     -v -Wl,--whole-archive CMakeFiles\cmTryCompileExec3813042880.dir/objects.a -Wl,--no-whole-archive  -o cmTryCompileExec3813042880.exe -Wl,--out-implib,libcmTryCompileExec3813042880.dll.a -Wl,--major-image-version,0,--minor-image-version,0   
+Run Build Command:C:/MinGW/bin/mingw32-make.exe "cmTryCompileExec1949721388/fast"
+C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTryCompileExec1949721388.dir\build.make CMakeFiles/cmTryCompileExec1949721388.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetypeMinGW/CMakeFiles/CMakeTmp'
+"C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles\CMakeTmp\CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec1949721388.dir/CMakeCCompilerABI.c.obj
+C:\MinGW\bin\gcc.exe    -o CMakeFiles\cmTryCompileExec1949721388.dir\CMakeCCompilerABI.c.obj   -c "C:\Program Files (x86)\CMake 2.8\share\cmake-2.8\Modules\CMakeCCompilerABI.c"
+Linking C executable cmTryCompileExec1949721388.exe
+"C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTryCompileExec1949721388.dir\link.txt --verbose=1
+"C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E remove -f CMakeFiles\cmTryCompileExec1949721388.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\cmTryCompileExec1949721388.dir/objects.a @CMakeFiles\cmTryCompileExec1949721388.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe     -v -Wl,--whole-archive CMakeFiles\cmTryCompileExec1949721388.dir/objects.a -Wl,--no-whole-archive  -o cmTryCompileExec1949721388.exe -Wl,--out-implib,libcmTryCompileExec1949721388.dll.a -Wl,--major-image-version,0,--minor-image-version,0   
 Using built-in specs.
 COLLECT_GCC=C:\MinGW\bin\gcc.exe
 COLLECT_LTO_WRAPPER=c:/mingw/bin/../libexec/gcc/mingw32/4.8.1/lto-wrapper.exe
@@ -65,26 +65,26 @@ Thread model: win32
 gcc version 4.8.1 (GCC) 
 COMPILER_PATH=c:/mingw/bin/../libexec/gcc/mingw32/4.8.1/;c:/mingw/bin/../libexec/gcc/;c:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../../mingw32/bin/
 LIBRARY_PATH=c:/mingw/bin/../lib/gcc/mingw32/4.8.1/;c:/mingw/bin/../lib/gcc/;c:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../../mingw32/lib/;c:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTryCompileExec3813042880.exe' '-mtune=generic' '-march=pentiumpro'
- c:/mingw/bin/../libexec/gcc/mingw32/4.8.1/collect2.exe -Bdynamic -o cmTryCompileExec3813042880.exe c:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../../mingw32/lib/crt2.o c:/mingw/bin/../lib/gcc/mingw32/4.8.1/crtbegin.o -Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1 -Lc:/mingw/bin/../lib/gcc -Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../../mingw32/lib -Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../.. --whole-archive CMakeFiles\cmTryCompileExec3813042880.dir/objects.a --no-whole-archive --out-implib libcmTryCompileExec3813042880.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt c:/mingw/bin/../lib/gcc/mingw32/4.8.1/crtend.o
-mingw32-make.exe[1]: Leaving directory 'C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetypeMinGW/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTryCompileExec1949721388.exe' '-mtune=generic' '-march=pentiumpro'
+ c:/mingw/bin/../libexec/gcc/mingw32/4.8.1/collect2.exe -Bdynamic -o cmTryCompileExec1949721388.exe c:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../../mingw32/lib/crt2.o c:/mingw/bin/../lib/gcc/mingw32/4.8.1/crtbegin.o -Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1 -Lc:/mingw/bin/../lib/gcc -Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../../mingw32/lib -Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../.. --whole-archive CMakeFiles\cmTryCompileExec1949721388.dir/objects.a --no-whole-archive --out-implib libcmTryCompileExec1949721388.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt c:/mingw/bin/../lib/gcc/mingw32/4.8.1/crtend.o
+mingw32-make.exe[1]: Leaving directory 'C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetypeMinGW/CMakeFiles/CMakeTmp'
 
 
 Parsed C implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld\.exe|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetypeMinGW/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetypeMinGW/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:C:/MinGW/bin/mingw32-make.exe "cmTryCompileExec3813042880/fast"]
-  ignore line: [C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTryCompileExec3813042880.dir\build.make CMakeFiles/cmTryCompileExec3813042880.dir/build]
-  ignore line: [mingw32-make.exe[1]: Entering directory 'C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetypeMinGW/CMakeFiles/CMakeTmp']
-  ignore line: ["C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles\CMakeTmp\CMakeFiles 1]
-  ignore line: [Building C object CMakeFiles/cmTryCompileExec3813042880.dir/CMakeCCompilerABI.c.obj]
-  ignore line: [C:\MinGW\bin\gcc.exe    -o CMakeFiles\cmTryCompileExec3813042880.dir\CMakeCCompilerABI.c.obj   -c "C:\Program Files (x86)\CMake 2.8\share\cmake-2.8\Modules\CMakeCCompilerABI.c"]
-  ignore line: [Linking C executable cmTryCompileExec3813042880.exe]
-  ignore line: ["C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTryCompileExec3813042880.dir\link.txt --verbose=1]
-  ignore line: ["C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E remove -f CMakeFiles\cmTryCompileExec3813042880.dir/objects.a]
-  ignore line: [C:\MinGW\bin\ar.exe cr CMakeFiles\cmTryCompileExec3813042880.dir/objects.a @CMakeFiles\cmTryCompileExec3813042880.dir\objects1.rsp]
-  ignore line: [C:\MinGW\bin\gcc.exe     -v -Wl,--whole-archive CMakeFiles\cmTryCompileExec3813042880.dir/objects.a -Wl,--no-whole-archive  -o cmTryCompileExec3813042880.exe -Wl,--out-implib,libcmTryCompileExec3813042880.dll.a -Wl,--major-image-version,0,--minor-image-version,0   ]
+  ignore line: [Run Build Command:C:/MinGW/bin/mingw32-make.exe "cmTryCompileExec1949721388/fast"]
+  ignore line: [C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTryCompileExec1949721388.dir\build.make CMakeFiles/cmTryCompileExec1949721388.dir/build]
+  ignore line: [mingw32-make.exe[1]: Entering directory 'C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetypeMinGW/CMakeFiles/CMakeTmp']
+  ignore line: ["C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles\CMakeTmp\CMakeFiles 1]
+  ignore line: [Building C object CMakeFiles/cmTryCompileExec1949721388.dir/CMakeCCompilerABI.c.obj]
+  ignore line: [C:\MinGW\bin\gcc.exe    -o CMakeFiles\cmTryCompileExec1949721388.dir\CMakeCCompilerABI.c.obj   -c "C:\Program Files (x86)\CMake 2.8\share\cmake-2.8\Modules\CMakeCCompilerABI.c"]
+  ignore line: [Linking C executable cmTryCompileExec1949721388.exe]
+  ignore line: ["C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTryCompileExec1949721388.dir\link.txt --verbose=1]
+  ignore line: ["C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E remove -f CMakeFiles\cmTryCompileExec1949721388.dir/objects.a]
+  ignore line: [C:\MinGW\bin\ar.exe cr CMakeFiles\cmTryCompileExec1949721388.dir/objects.a @CMakeFiles\cmTryCompileExec1949721388.dir\objects1.rsp]
+  ignore line: [C:\MinGW\bin\gcc.exe     -v -Wl,--whole-archive CMakeFiles\cmTryCompileExec1949721388.dir/objects.a -Wl,--no-whole-archive  -o cmTryCompileExec1949721388.exe -Wl,--out-implib,libcmTryCompileExec1949721388.dll.a -Wl,--major-image-version,0,--minor-image-version,0   ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=C:\MinGW\bin\gcc.exe]
   ignore line: [COLLECT_LTO_WRAPPER=c:/mingw/bin/../libexec/gcc/mingw32/4.8.1/lto-wrapper.exe]
@@ -99,12 +99,12 @@ Parsed C implicit link information from above output:
   ignore line: [c:/mingw/bin/../lib/gcc/]
   ignore line: [c:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../../mingw32/lib/]
   ignore line: [c:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTryCompileExec3813042880.exe' '-mtune=generic' '-march=pentiumpro']
-  link line: [ c:/mingw/bin/../libexec/gcc/mingw32/4.8.1/collect2.exe -Bdynamic -o cmTryCompileExec3813042880.exe c:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../../mingw32/lib/crt2.o c:/mingw/bin/../lib/gcc/mingw32/4.8.1/crtbegin.o -Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1 -Lc:/mingw/bin/../lib/gcc -Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../../mingw32/lib -Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../.. --whole-archive CMakeFiles\cmTryCompileExec3813042880.dir/objects.a --no-whole-archive --out-implib libcmTryCompileExec3813042880.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt c:/mingw/bin/../lib/gcc/mingw32/4.8.1/crtend.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTryCompileExec1949721388.exe' '-mtune=generic' '-march=pentiumpro']
+  link line: [ c:/mingw/bin/../libexec/gcc/mingw32/4.8.1/collect2.exe -Bdynamic -o cmTryCompileExec1949721388.exe c:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../../mingw32/lib/crt2.o c:/mingw/bin/../lib/gcc/mingw32/4.8.1/crtbegin.o -Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1 -Lc:/mingw/bin/../lib/gcc -Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../../mingw32/lib -Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../.. --whole-archive CMakeFiles\cmTryCompileExec1949721388.dir/objects.a --no-whole-archive --out-implib libcmTryCompileExec1949721388.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt c:/mingw/bin/../lib/gcc/mingw32/4.8.1/crtend.o]
     arg [c:/mingw/bin/../libexec/gcc/mingw32/4.8.1/collect2.exe] ==> ignore
     arg [-Bdynamic] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTryCompileExec3813042880.exe] ==> ignore
+    arg [cmTryCompileExec1949721388.exe] ==> ignore
     arg [c:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../../mingw32/lib/crt2.o] ==> ignore
     arg [c:/mingw/bin/../lib/gcc/mingw32/4.8.1/crtbegin.o] ==> ignore
     arg [-Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1] ==> dir [c:/mingw/bin/../lib/gcc/mingw32/4.8.1]
@@ -112,10 +112,10 @@ Parsed C implicit link information from above output:
     arg [-Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../../mingw32/lib] ==> dir [c:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../../mingw32/lib]
     arg [-Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../..] ==> dir [c:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../..]
     arg [--whole-archive] ==> ignore
-    arg [CMakeFiles\cmTryCompileExec3813042880.dir/objects.a] ==> ignore
+    arg [CMakeFiles\cmTryCompileExec1949721388.dir/objects.a] ==> ignore
     arg [--no-whole-archive] ==> ignore
     arg [--out-implib] ==> ignore
-    arg [libcmTryCompileExec3813042880.dll.a] ==> ignore
+    arg [libcmTryCompileExec1949721388.dll.a] ==> ignore
     arg [--major-image-version] ==> ignore
     arg [0] ==> ignore
     arg [--minor-image-version] ==> ignore
@@ -151,36 +151,36 @@ Parsed C implicit link information from above output:
 
 
 Determining if the CXX compiler works passed with the following output:
-Change Dir: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetypeMinGW/CMakeFiles/CMakeTmp
+Change Dir: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetypeMinGW/CMakeFiles/CMakeTmp
 
-Run Build Command:C:/MinGW/bin/mingw32-make.exe "cmTryCompileExec154423941/fast"
-C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTryCompileExec154423941.dir\build.make CMakeFiles/cmTryCompileExec154423941.dir/build
-mingw32-make.exe[1]: Entering directory 'C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetypeMinGW/CMakeFiles/CMakeTmp'
-"C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles\CMakeTmp\CMakeFiles 1
-Building CXX object CMakeFiles/cmTryCompileExec154423941.dir/testCXXCompiler.cxx.obj
-C:\MinGW\bin\g++.exe     -o CMakeFiles\cmTryCompileExec154423941.dir\testCXXCompiler.cxx.obj -c C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles\CMakeTmp\testCXXCompiler.cxx
-Linking CXX executable cmTryCompileExec154423941.exe
-"C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTryCompileExec154423941.dir\link.txt --verbose=1
-"C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E remove -f CMakeFiles\cmTryCompileExec154423941.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\cmTryCompileExec154423941.dir/objects.a @CMakeFiles\cmTryCompileExec154423941.dir\objects1.rsp
-C:\MinGW\bin\g++.exe       -Wl,--whole-archive CMakeFiles\cmTryCompileExec154423941.dir/objects.a -Wl,--no-whole-archive  -o cmTryCompileExec154423941.exe -Wl,--out-implib,libcmTryCompileExec154423941.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
-mingw32-make.exe[1]: Leaving directory 'C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetypeMinGW/CMakeFiles/CMakeTmp'
+Run Build Command:C:/MinGW/bin/mingw32-make.exe "cmTryCompileExec2733623363/fast"
+C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTryCompileExec2733623363.dir\build.make CMakeFiles/cmTryCompileExec2733623363.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetypeMinGW/CMakeFiles/CMakeTmp'
+"C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles\CMakeTmp\CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec2733623363.dir/testCXXCompiler.cxx.obj
+C:\MinGW\bin\g++.exe     -o CMakeFiles\cmTryCompileExec2733623363.dir\testCXXCompiler.cxx.obj -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles\CMakeTmp\testCXXCompiler.cxx
+Linking CXX executable cmTryCompileExec2733623363.exe
+"C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTryCompileExec2733623363.dir\link.txt --verbose=1
+"C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E remove -f CMakeFiles\cmTryCompileExec2733623363.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\cmTryCompileExec2733623363.dir/objects.a @CMakeFiles\cmTryCompileExec2733623363.dir\objects1.rsp
+C:\MinGW\bin\g++.exe       -Wl,--whole-archive CMakeFiles\cmTryCompileExec2733623363.dir/objects.a -Wl,--no-whole-archive  -o cmTryCompileExec2733623363.exe -Wl,--out-implib,libcmTryCompileExec2733623363.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
+mingw32-make.exe[1]: Leaving directory 'C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetypeMinGW/CMakeFiles/CMakeTmp'
 
 
 Detecting CXX compiler ABI info compiled with the following output:
-Change Dir: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetypeMinGW/CMakeFiles/CMakeTmp
+Change Dir: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetypeMinGW/CMakeFiles/CMakeTmp
 
-Run Build Command:C:/MinGW/bin/mingw32-make.exe "cmTryCompileExec1810797891/fast"
-C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTryCompileExec1810797891.dir\build.make CMakeFiles/cmTryCompileExec1810797891.dir/build
-mingw32-make.exe[1]: Entering directory 'C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetypeMinGW/CMakeFiles/CMakeTmp'
-"C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles\CMakeTmp\CMakeFiles 1
-Building CXX object CMakeFiles/cmTryCompileExec1810797891.dir/CMakeCXXCompilerABI.cpp.obj
-C:\MinGW\bin\g++.exe     -o CMakeFiles\cmTryCompileExec1810797891.dir\CMakeCXXCompilerABI.cpp.obj -c "C:\Program Files (x86)\CMake 2.8\share\cmake-2.8\Modules\CMakeCXXCompilerABI.cpp"
-Linking CXX executable cmTryCompileExec1810797891.exe
-"C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTryCompileExec1810797891.dir\link.txt --verbose=1
-"C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E remove -f CMakeFiles\cmTryCompileExec1810797891.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\cmTryCompileExec1810797891.dir/objects.a @CMakeFiles\cmTryCompileExec1810797891.dir\objects1.rsp
-C:\MinGW\bin\g++.exe     -v -Wl,--whole-archive CMakeFiles\cmTryCompileExec1810797891.dir/objects.a -Wl,--no-whole-archive  -o cmTryCompileExec1810797891.exe -Wl,--out-implib,libcmTryCompileExec1810797891.dll.a -Wl,--major-image-version,0,--minor-image-version,0   
+Run Build Command:C:/MinGW/bin/mingw32-make.exe "cmTryCompileExec2761134675/fast"
+C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTryCompileExec2761134675.dir\build.make CMakeFiles/cmTryCompileExec2761134675.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetypeMinGW/CMakeFiles/CMakeTmp'
+"C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles\CMakeTmp\CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec2761134675.dir/CMakeCXXCompilerABI.cpp.obj
+C:\MinGW\bin\g++.exe     -o CMakeFiles\cmTryCompileExec2761134675.dir\CMakeCXXCompilerABI.cpp.obj -c "C:\Program Files (x86)\CMake 2.8\share\cmake-2.8\Modules\CMakeCXXCompilerABI.cpp"
+Linking CXX executable cmTryCompileExec2761134675.exe
+"C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTryCompileExec2761134675.dir\link.txt --verbose=1
+"C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E remove -f CMakeFiles\cmTryCompileExec2761134675.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\cmTryCompileExec2761134675.dir/objects.a @CMakeFiles\cmTryCompileExec2761134675.dir\objects1.rsp
+C:\MinGW\bin\g++.exe     -v -Wl,--whole-archive CMakeFiles\cmTryCompileExec2761134675.dir/objects.a -Wl,--no-whole-archive  -o cmTryCompileExec2761134675.exe -Wl,--out-implib,libcmTryCompileExec2761134675.dll.a -Wl,--major-image-version,0,--minor-image-version,0   
 Using built-in specs.
 COLLECT_GCC=C:\MinGW\bin\g++.exe
 COLLECT_LTO_WRAPPER=c:/mingw/bin/../libexec/gcc/mingw32/4.8.1/lto-wrapper.exe
@@ -190,26 +190,26 @@ Thread model: win32
 gcc version 4.8.1 (GCC) 
 COMPILER_PATH=c:/mingw/bin/../libexec/gcc/mingw32/4.8.1/;c:/mingw/bin/../libexec/gcc/;c:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../../mingw32/bin/
 LIBRARY_PATH=c:/mingw/bin/../lib/gcc/mingw32/4.8.1/;c:/mingw/bin/../lib/gcc/;c:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../../mingw32/lib/;c:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTryCompileExec1810797891.exe' '-shared-libgcc' '-mtune=generic' '-march=pentiumpro'
- c:/mingw/bin/../libexec/gcc/mingw32/4.8.1/collect2.exe -Bdynamic -u ___register_frame_info -u ___deregister_frame_info -o cmTryCompileExec1810797891.exe c:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../../mingw32/lib/crt2.o c:/mingw/bin/../lib/gcc/mingw32/4.8.1/crtbegin.o -Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1 -Lc:/mingw/bin/../lib/gcc -Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../../mingw32/lib -Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../.. --whole-archive CMakeFiles\cmTryCompileExec1810797891.dir/objects.a --no-whole-archive --out-implib libcmTryCompileExec1810797891.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt c:/mingw/bin/../lib/gcc/mingw32/4.8.1/crtend.o
-mingw32-make.exe[1]: Leaving directory 'C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetypeMinGW/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTryCompileExec2761134675.exe' '-shared-libgcc' '-mtune=generic' '-march=pentiumpro'
+ c:/mingw/bin/../libexec/gcc/mingw32/4.8.1/collect2.exe -Bdynamic -u ___register_frame_info -u ___deregister_frame_info -o cmTryCompileExec2761134675.exe c:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../../mingw32/lib/crt2.o c:/mingw/bin/../lib/gcc/mingw32/4.8.1/crtbegin.o -Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1 -Lc:/mingw/bin/../lib/gcc -Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../../mingw32/lib -Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../.. --whole-archive CMakeFiles\cmTryCompileExec2761134675.dir/objects.a --no-whole-archive --out-implib libcmTryCompileExec2761134675.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt c:/mingw/bin/../lib/gcc/mingw32/4.8.1/crtend.o
+mingw32-make.exe[1]: Leaving directory 'C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetypeMinGW/CMakeFiles/CMakeTmp'
 
 
 Parsed CXX implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld\.exe|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetypeMinGW/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetypeMinGW/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:C:/MinGW/bin/mingw32-make.exe "cmTryCompileExec1810797891/fast"]
-  ignore line: [C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTryCompileExec1810797891.dir\build.make CMakeFiles/cmTryCompileExec1810797891.dir/build]
-  ignore line: [mingw32-make.exe[1]: Entering directory 'C:/whitecat_crossplateform/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetypeMinGW/CMakeFiles/CMakeTmp']
-  ignore line: ["C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles\CMakeTmp\CMakeFiles 1]
-  ignore line: [Building CXX object CMakeFiles/cmTryCompileExec1810797891.dir/CMakeCXXCompilerABI.cpp.obj]
-  ignore line: [C:\MinGW\bin\g++.exe     -o CMakeFiles\cmTryCompileExec1810797891.dir\CMakeCXXCompilerABI.cpp.obj -c "C:\Program Files (x86)\CMake 2.8\share\cmake-2.8\Modules\CMakeCXXCompilerABI.cpp"]
-  ignore line: [Linking CXX executable cmTryCompileExec1810797891.exe]
-  ignore line: ["C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTryCompileExec1810797891.dir\link.txt --verbose=1]
-  ignore line: ["C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E remove -f CMakeFiles\cmTryCompileExec1810797891.dir/objects.a]
-  ignore line: [C:\MinGW\bin\ar.exe cr CMakeFiles\cmTryCompileExec1810797891.dir/objects.a @CMakeFiles\cmTryCompileExec1810797891.dir\objects1.rsp]
-  ignore line: [C:\MinGW\bin\g++.exe     -v -Wl,--whole-archive CMakeFiles\cmTryCompileExec1810797891.dir/objects.a -Wl,--no-whole-archive  -o cmTryCompileExec1810797891.exe -Wl,--out-implib,libcmTryCompileExec1810797891.dll.a -Wl,--major-image-version,0,--minor-image-version,0   ]
+  ignore line: [Run Build Command:C:/MinGW/bin/mingw32-make.exe "cmTryCompileExec2761134675/fast"]
+  ignore line: [C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTryCompileExec2761134675.dir\build.make CMakeFiles/cmTryCompileExec2761134675.dir/build]
+  ignore line: [mingw32-make.exe[1]: Entering directory 'C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetypeMinGW/CMakeFiles/CMakeTmp']
+  ignore line: ["C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\dependance\freetype-2.5.2\freetypeMinGW\CMakeFiles\CMakeTmp\CMakeFiles 1]
+  ignore line: [Building CXX object CMakeFiles/cmTryCompileExec2761134675.dir/CMakeCXXCompilerABI.cpp.obj]
+  ignore line: [C:\MinGW\bin\g++.exe     -o CMakeFiles\cmTryCompileExec2761134675.dir\CMakeCXXCompilerABI.cpp.obj -c "C:\Program Files (x86)\CMake 2.8\share\cmake-2.8\Modules\CMakeCXXCompilerABI.cpp"]
+  ignore line: [Linking CXX executable cmTryCompileExec2761134675.exe]
+  ignore line: ["C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTryCompileExec2761134675.dir\link.txt --verbose=1]
+  ignore line: ["C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E remove -f CMakeFiles\cmTryCompileExec2761134675.dir/objects.a]
+  ignore line: [C:\MinGW\bin\ar.exe cr CMakeFiles\cmTryCompileExec2761134675.dir/objects.a @CMakeFiles\cmTryCompileExec2761134675.dir\objects1.rsp]
+  ignore line: [C:\MinGW\bin\g++.exe     -v -Wl,--whole-archive CMakeFiles\cmTryCompileExec2761134675.dir/objects.a -Wl,--no-whole-archive  -o cmTryCompileExec2761134675.exe -Wl,--out-implib,libcmTryCompileExec2761134675.dll.a -Wl,--major-image-version,0,--minor-image-version,0   ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=C:\MinGW\bin\g++.exe]
   ignore line: [COLLECT_LTO_WRAPPER=c:/mingw/bin/../libexec/gcc/mingw32/4.8.1/lto-wrapper.exe]
@@ -224,8 +224,8 @@ Parsed CXX implicit link information from above output:
   ignore line: [c:/mingw/bin/../lib/gcc/]
   ignore line: [c:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../../mingw32/lib/]
   ignore line: [c:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTryCompileExec1810797891.exe' '-shared-libgcc' '-mtune=generic' '-march=pentiumpro']
-  link line: [ c:/mingw/bin/../libexec/gcc/mingw32/4.8.1/collect2.exe -Bdynamic -u ___register_frame_info -u ___deregister_frame_info -o cmTryCompileExec1810797891.exe c:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../../mingw32/lib/crt2.o c:/mingw/bin/../lib/gcc/mingw32/4.8.1/crtbegin.o -Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1 -Lc:/mingw/bin/../lib/gcc -Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../../mingw32/lib -Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../.. --whole-archive CMakeFiles\cmTryCompileExec1810797891.dir/objects.a --no-whole-archive --out-implib libcmTryCompileExec1810797891.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt c:/mingw/bin/../lib/gcc/mingw32/4.8.1/crtend.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTryCompileExec2761134675.exe' '-shared-libgcc' '-mtune=generic' '-march=pentiumpro']
+  link line: [ c:/mingw/bin/../libexec/gcc/mingw32/4.8.1/collect2.exe -Bdynamic -u ___register_frame_info -u ___deregister_frame_info -o cmTryCompileExec2761134675.exe c:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../../mingw32/lib/crt2.o c:/mingw/bin/../lib/gcc/mingw32/4.8.1/crtbegin.o -Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1 -Lc:/mingw/bin/../lib/gcc -Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../../mingw32/lib -Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../.. --whole-archive CMakeFiles\cmTryCompileExec2761134675.dir/objects.a --no-whole-archive --out-implib libcmTryCompileExec2761134675.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt c:/mingw/bin/../lib/gcc/mingw32/4.8.1/crtend.o]
     arg [c:/mingw/bin/../libexec/gcc/mingw32/4.8.1/collect2.exe] ==> ignore
     arg [-Bdynamic] ==> ignore
     arg [-u] ==> ignore
@@ -233,7 +233,7 @@ Parsed CXX implicit link information from above output:
     arg [-u] ==> ignore
     arg [___deregister_frame_info] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTryCompileExec1810797891.exe] ==> ignore
+    arg [cmTryCompileExec2761134675.exe] ==> ignore
     arg [c:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../../mingw32/lib/crt2.o] ==> ignore
     arg [c:/mingw/bin/../lib/gcc/mingw32/4.8.1/crtbegin.o] ==> ignore
     arg [-Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1] ==> dir [c:/mingw/bin/../lib/gcc/mingw32/4.8.1]
@@ -241,10 +241,10 @@ Parsed CXX implicit link information from above output:
     arg [-Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../../mingw32/lib] ==> dir [c:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../../mingw32/lib]
     arg [-Lc:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../..] ==> dir [c:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../..]
     arg [--whole-archive] ==> ignore
-    arg [CMakeFiles\cmTryCompileExec1810797891.dir/objects.a] ==> ignore
+    arg [CMakeFiles\cmTryCompileExec2761134675.dir/objects.a] ==> ignore
     arg [--no-whole-archive] ==> ignore
     arg [--out-implib] ==> ignore
-    arg [libcmTryCompileExec1810797891.dll.a] ==> ignore
+    arg [libcmTryCompileExec2761134675.dll.a] ==> ignore
     arg [--major-image-version] ==> ignore
     arg [0] ==> ignore
     arg [--minor-image-version] ==> ignore

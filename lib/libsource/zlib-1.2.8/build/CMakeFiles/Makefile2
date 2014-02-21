@@ -52,7 +52,7 @@ CMAKE_EDIT_COMMAND = "C:\Program Files (x86)\CMake 2.8\bin\cmake-gui.exe"
 CMAKE_SOURCE_DIR = C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\build
+CMAKE_BINARY_DIR = C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\zlib-1.2.8\build
 
 #=============================================================================
 # Target rules for target CMakeFiles/example.dir
@@ -61,7 +61,7 @@ CMAKE_BINARY_DIR = C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\build
 CMakeFiles/example.dir/all: CMakeFiles/zlib.dir/all
 	$(MAKE) -f CMakeFiles\example.dir\build.make CMakeFiles/example.dir/depend
 	$(MAKE) -f CMakeFiles\example.dir\build.make CMakeFiles/example.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\build\CMakeFiles  1
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\zlib-1.2.8\build\CMakeFiles  1
 	@echo Built target example
 .PHONY : CMakeFiles/example.dir/all
 
@@ -71,9 +71,9 @@ all: CMakeFiles/example.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/example.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\build\CMakeFiles 17
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\zlib-1.2.8\build\CMakeFiles 17
 	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/example.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\zlib-1.2.8\build\CMakeFiles 0
 .PHONY : CMakeFiles/example.dir/rule
 
 # Convenience name for target.
@@ -96,7 +96,7 @@ clean: CMakeFiles/example.dir/clean
 CMakeFiles/example64.dir/all: CMakeFiles/zlib.dir/all
 	$(MAKE) -f CMakeFiles\example64.dir\build.make CMakeFiles/example64.dir/depend
 	$(MAKE) -f CMakeFiles\example64.dir\build.make CMakeFiles/example64.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\build\CMakeFiles  2
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\zlib-1.2.8\build\CMakeFiles  2
 	@echo Built target example64
 .PHONY : CMakeFiles/example64.dir/all
 
@@ -106,9 +106,9 @@ all: CMakeFiles/example64.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/example64.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\build\CMakeFiles 17
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\zlib-1.2.8\build\CMakeFiles 17
 	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/example64.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\zlib-1.2.8\build\CMakeFiles 0
 .PHONY : CMakeFiles/example64.dir/rule
 
 # Convenience name for target.
@@ -131,7 +131,7 @@ clean: CMakeFiles/example64.dir/clean
 CMakeFiles/minigzip.dir/all: CMakeFiles/zlib.dir/all
 	$(MAKE) -f CMakeFiles\minigzip.dir\build.make CMakeFiles/minigzip.dir/depend
 	$(MAKE) -f CMakeFiles\minigzip.dir\build.make CMakeFiles/minigzip.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\build\CMakeFiles  3
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\zlib-1.2.8\build\CMakeFiles  3
 	@echo Built target minigzip
 .PHONY : CMakeFiles/minigzip.dir/all
 
@@ -141,9 +141,9 @@ all: CMakeFiles/minigzip.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/minigzip.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\build\CMakeFiles 17
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\zlib-1.2.8\build\CMakeFiles 17
 	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/minigzip.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\zlib-1.2.8\build\CMakeFiles 0
 .PHONY : CMakeFiles/minigzip.dir/rule
 
 # Convenience name for target.
@@ -166,7 +166,7 @@ clean: CMakeFiles/minigzip.dir/clean
 CMakeFiles/minigzip64.dir/all: CMakeFiles/zlib.dir/all
 	$(MAKE) -f CMakeFiles\minigzip64.dir\build.make CMakeFiles/minigzip64.dir/depend
 	$(MAKE) -f CMakeFiles\minigzip64.dir\build.make CMakeFiles/minigzip64.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\build\CMakeFiles  4
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\zlib-1.2.8\build\CMakeFiles  4
 	@echo Built target minigzip64
 .PHONY : CMakeFiles/minigzip64.dir/all
 
@@ -176,9 +176,9 @@ all: CMakeFiles/minigzip64.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/minigzip64.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\build\CMakeFiles 17
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\zlib-1.2.8\build\CMakeFiles 17
 	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/minigzip64.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\zlib-1.2.8\build\CMakeFiles 0
 .PHONY : CMakeFiles/minigzip64.dir/rule
 
 # Convenience name for target.
@@ -201,7 +201,7 @@ clean: CMakeFiles/minigzip64.dir/clean
 CMakeFiles/zlib.dir/all:
 	$(MAKE) -f CMakeFiles\zlib.dir\build.make CMakeFiles/zlib.dir/depend
 	$(MAKE) -f CMakeFiles\zlib.dir\build.make CMakeFiles/zlib.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\build\CMakeFiles  5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\zlib-1.2.8\build\CMakeFiles  5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
 	@echo Built target zlib
 .PHONY : CMakeFiles/zlib.dir/all
 
@@ -211,9 +211,9 @@ all: CMakeFiles/zlib.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/zlib.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\build\CMakeFiles 16
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\zlib-1.2.8\build\CMakeFiles 16
 	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/zlib.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\zlib-1.2.8\build\CMakeFiles 0
 .PHONY : CMakeFiles/zlib.dir/rule
 
 # Convenience name for target.
@@ -236,7 +236,7 @@ clean: CMakeFiles/zlib.dir/clean
 CMakeFiles/zlibstatic.dir/all:
 	$(MAKE) -f CMakeFiles\zlibstatic.dir\build.make CMakeFiles/zlibstatic.dir/depend
 	$(MAKE) -f CMakeFiles\zlibstatic.dir\build.make CMakeFiles/zlibstatic.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\build\CMakeFiles  21 22 23 24 25 26 27 28 29 30 31 32 33 34 35
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\zlib-1.2.8\build\CMakeFiles  21 22 23 24 25 26 27 28 29 30 31 32 33 34 35
 	@echo Built target zlibstatic
 .PHONY : CMakeFiles/zlibstatic.dir/all
 
@@ -246,9 +246,9 @@ all: CMakeFiles/zlibstatic.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/zlibstatic.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\build\CMakeFiles 15
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\zlib-1.2.8\build\CMakeFiles 15
 	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/zlibstatic.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\whitecat_crossplateform\lib\libsource\zlib-1.2.8\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\zlib-1.2.8\build\CMakeFiles 0
 .PHONY : CMakeFiles/zlibstatic.dir/rule
 
 # Convenience name for target.
