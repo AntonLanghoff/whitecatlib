@@ -37,10 +37,10 @@ EQUALS = =
 CMAKE_EDIT_COMMAND = "C:\Program Files (x86)\CMake 2.8\bin\cmake-gui.exe"
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1
+CMAKE_SOURCE_DIR = C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW
+CMAKE_BINARY_DIR = C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW
 
 # Include any dependencies generated for this target.
 include utils/glyphkeeper/CMakeFiles/glyph-agl.dir/depend.make
@@ -53,18 +53,18 @@ include utils/glyphkeeper/CMakeFiles/glyph-agl.dir/flags.make
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph.obj: utils/glyphkeeper/CMakeFiles/glyph-agl.dir/flags.make
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph.obj: utils/glyphkeeper/CMakeFiles/glyph-agl.dir/includes_C.rsp
-utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/utils/glyphkeeper/src/glyph.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_1)
+utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph.obj: C:/Users/bibi/Documents/depot_christoph/whitecat_crossplateform/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/utils/glyphkeeper/src/glyph.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_1)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph.obj"
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\glyph-agl.dir\src\glyph.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph.c
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\glyph-agl.dir\src\glyph.obj   -c C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph.c
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/glyph-agl.dir/src/glyph.i"
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph.c > CMakeFiles\glyph-agl.dir\src\glyph.i
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph.c > CMakeFiles\glyph-agl.dir\src\glyph.i
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/glyph-agl.dir/src/glyph.s"
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph.c -o CMakeFiles\glyph-agl.dir\src\glyph.s
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph.c -o CMakeFiles\glyph-agl.dir\src\glyph.s
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph.obj.requires:
 .PHONY : utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph.obj.requires
@@ -77,18 +77,18 @@ utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph.obj.provides.build: utils/g
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_global_vars.obj: utils/glyphkeeper/CMakeFiles/glyph-agl.dir/flags.make
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_global_vars.obj: utils/glyphkeeper/CMakeFiles/glyph-agl.dir/includes_C.rsp
-utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_global_vars.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/utils/glyphkeeper/src/glyph_global_vars.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_2)
+utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_global_vars.obj: C:/Users/bibi/Documents/depot_christoph/whitecat_crossplateform/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/utils/glyphkeeper/src/glyph_global_vars.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_2)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_global_vars.obj"
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\glyph-agl.dir\src\glyph_global_vars.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_global_vars.c
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\glyph-agl.dir\src\glyph_global_vars.obj   -c C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_global_vars.c
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_global_vars.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/glyph-agl.dir/src/glyph_global_vars.i"
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_global_vars.c > CMakeFiles\glyph-agl.dir\src\glyph_global_vars.i
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_global_vars.c > CMakeFiles\glyph-agl.dir\src\glyph_global_vars.i
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_global_vars.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/glyph-agl.dir/src/glyph_global_vars.s"
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_global_vars.c -o CMakeFiles\glyph-agl.dir\src\glyph_global_vars.s
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_global_vars.c -o CMakeFiles\glyph-agl.dir\src\glyph_global_vars.s
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_global_vars.obj.requires:
 .PHONY : utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_global_vars.obj.requires
@@ -101,18 +101,18 @@ utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_global_vars.obj.provides.bu
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_rend.obj: utils/glyphkeeper/CMakeFiles/glyph-agl.dir/flags.make
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_rend.obj: utils/glyphkeeper/CMakeFiles/glyph-agl.dir/includes_C.rsp
-utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_rend.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/utils/glyphkeeper/src/glyph_rend.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_3)
+utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_rend.obj: C:/Users/bibi/Documents/depot_christoph/whitecat_crossplateform/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/utils/glyphkeeper/src/glyph_rend.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_3)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_rend.obj"
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\glyph-agl.dir\src\glyph_rend.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_rend.c
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\glyph-agl.dir\src\glyph_rend.obj   -c C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_rend.c
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_rend.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/glyph-agl.dir/src/glyph_rend.i"
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_rend.c > CMakeFiles\glyph-agl.dir\src\glyph_rend.i
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_rend.c > CMakeFiles\glyph-agl.dir\src\glyph_rend.i
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_rend.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/glyph-agl.dir/src/glyph_rend.s"
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_rend.c -o CMakeFiles\glyph-agl.dir\src\glyph_rend.s
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_rend.c -o CMakeFiles\glyph-agl.dir\src\glyph_rend.s
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_rend.obj.requires:
 .PHONY : utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_rend.obj.requires
@@ -125,18 +125,18 @@ utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_rend.obj.provides.build: ut
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_allegro_mono.obj: utils/glyphkeeper/CMakeFiles/glyph-agl.dir/flags.make
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_allegro_mono.obj: utils/glyphkeeper/CMakeFiles/glyph-agl.dir/includes_C.rsp
-utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_allegro_mono.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/utils/glyphkeeper/src/glyph_to_allegro_mono.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_4)
+utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_allegro_mono.obj: C:/Users/bibi/Documents/depot_christoph/whitecat_crossplateform/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/utils/glyphkeeper/src/glyph_to_allegro_mono.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_4)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_allegro_mono.obj"
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\glyph-agl.dir\src\glyph_to_allegro_mono.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_to_allegro_mono.c
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\glyph-agl.dir\src\glyph_to_allegro_mono.obj   -c C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_to_allegro_mono.c
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_allegro_mono.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/glyph-agl.dir/src/glyph_to_allegro_mono.i"
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_to_allegro_mono.c > CMakeFiles\glyph-agl.dir\src\glyph_to_allegro_mono.i
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_to_allegro_mono.c > CMakeFiles\glyph-agl.dir\src\glyph_to_allegro_mono.i
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_allegro_mono.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/glyph-agl.dir/src/glyph_to_allegro_mono.s"
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_to_allegro_mono.c -o CMakeFiles\glyph-agl.dir\src\glyph_to_allegro_mono.s
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_to_allegro_mono.c -o CMakeFiles\glyph-agl.dir\src\glyph_to_allegro_mono.s
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_allegro_mono.obj.requires:
 .PHONY : utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_allegro_mono.obj.requires
@@ -149,18 +149,18 @@ utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_allegro_mono.obj.provide
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_dimensions.obj: utils/glyphkeeper/CMakeFiles/glyph-agl.dir/flags.make
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_dimensions.obj: utils/glyphkeeper/CMakeFiles/glyph-agl.dir/includes_C.rsp
-utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_dimensions.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/utils/glyphkeeper/src/glyph_dimensions.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_5)
+utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_dimensions.obj: C:/Users/bibi/Documents/depot_christoph/whitecat_crossplateform/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/utils/glyphkeeper/src/glyph_dimensions.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_5)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_dimensions.obj"
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\glyph-agl.dir\src\glyph_dimensions.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_dimensions.c
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\glyph-agl.dir\src\glyph_dimensions.obj   -c C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_dimensions.c
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_dimensions.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/glyph-agl.dir/src/glyph_dimensions.i"
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_dimensions.c > CMakeFiles\glyph-agl.dir\src\glyph_dimensions.i
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_dimensions.c > CMakeFiles\glyph-agl.dir\src\glyph_dimensions.i
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_dimensions.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/glyph-agl.dir/src/glyph_dimensions.s"
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_dimensions.c -o CMakeFiles\glyph-agl.dir\src\glyph_dimensions.s
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_dimensions.c -o CMakeFiles\glyph-agl.dir\src\glyph_dimensions.s
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_dimensions.obj.requires:
 .PHONY : utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_dimensions.obj.requires
@@ -173,18 +173,18 @@ utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_dimensions.obj.provides.bui
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_index.obj: utils/glyphkeeper/CMakeFiles/glyph-agl.dir/flags.make
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_index.obj: utils/glyphkeeper/CMakeFiles/glyph-agl.dir/includes_C.rsp
-utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_index.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/utils/glyphkeeper/src/glyph_index.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_6)
+utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_index.obj: C:/Users/bibi/Documents/depot_christoph/whitecat_crossplateform/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/utils/glyphkeeper/src/glyph_index.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_6)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_index.obj"
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\glyph-agl.dir\src\glyph_index.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_index.c
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\glyph-agl.dir\src\glyph_index.obj   -c C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_index.c
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_index.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/glyph-agl.dir/src/glyph_index.i"
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_index.c > CMakeFiles\glyph-agl.dir\src\glyph_index.i
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_index.c > CMakeFiles\glyph-agl.dir\src\glyph_index.i
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_index.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/glyph-agl.dir/src/glyph_index.s"
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_index.c -o CMakeFiles\glyph-agl.dir\src\glyph_index.s
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_index.c -o CMakeFiles\glyph-agl.dir\src\glyph_index.s
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_index.obj.requires:
 .PHONY : utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_index.obj.requires
@@ -197,18 +197,18 @@ utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_index.obj.provides.build: u
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_allegro_aa.obj: utils/glyphkeeper/CMakeFiles/glyph-agl.dir/flags.make
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_allegro_aa.obj: utils/glyphkeeper/CMakeFiles/glyph-agl.dir/includes_C.rsp
-utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_allegro_aa.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/utils/glyphkeeper/src/glyph_to_allegro_aa.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_7)
+utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_allegro_aa.obj: C:/Users/bibi/Documents/depot_christoph/whitecat_crossplateform/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/utils/glyphkeeper/src/glyph_to_allegro_aa.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_7)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_allegro_aa.obj"
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\glyph-agl.dir\src\glyph_to_allegro_aa.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_to_allegro_aa.c
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\glyph-agl.dir\src\glyph_to_allegro_aa.obj   -c C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_to_allegro_aa.c
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_allegro_aa.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/glyph-agl.dir/src/glyph_to_allegro_aa.i"
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_to_allegro_aa.c > CMakeFiles\glyph-agl.dir\src\glyph_to_allegro_aa.i
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_to_allegro_aa.c > CMakeFiles\glyph-agl.dir\src\glyph_to_allegro_aa.i
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_allegro_aa.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/glyph-agl.dir/src/glyph_to_allegro_aa.s"
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_to_allegro_aa.c -o CMakeFiles\glyph-agl.dir\src\glyph_to_allegro_aa.s
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_to_allegro_aa.c -o CMakeFiles\glyph-agl.dir\src\glyph_to_allegro_aa.s
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_allegro_aa.obj.requires:
 .PHONY : utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_allegro_aa.obj.requires
@@ -221,18 +221,18 @@ utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_allegro_aa.obj.provides.
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_opengl.obj: utils/glyphkeeper/CMakeFiles/glyph-agl.dir/flags.make
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_opengl.obj: utils/glyphkeeper/CMakeFiles/glyph-agl.dir/includes_C.rsp
-utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_opengl.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/utils/glyphkeeper/src/glyph_to_opengl.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_8)
+utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_opengl.obj: C:/Users/bibi/Documents/depot_christoph/whitecat_crossplateform/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/utils/glyphkeeper/src/glyph_to_opengl.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_8)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_opengl.obj"
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\glyph-agl.dir\src\glyph_to_opengl.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_to_opengl.c
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\glyph-agl.dir\src\glyph_to_opengl.obj   -c C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_to_opengl.c
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_opengl.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/glyph-agl.dir/src/glyph_to_opengl.i"
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_to_opengl.c > CMakeFiles\glyph-agl.dir\src\glyph_to_opengl.i
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_to_opengl.c > CMakeFiles\glyph-agl.dir\src\glyph_to_opengl.i
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_opengl.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/glyph-agl.dir/src/glyph_to_opengl.s"
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_to_opengl.c -o CMakeFiles\glyph-agl.dir\src\glyph_to_opengl.s
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_to_opengl.c -o CMakeFiles\glyph-agl.dir\src\glyph_to_opengl.s
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_opengl.obj.requires:
 .PHONY : utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_opengl.obj.requires
@@ -245,18 +245,18 @@ utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_opengl.obj.provides.buil
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_face.obj: utils/glyphkeeper/CMakeFiles/glyph-agl.dir/flags.make
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_face.obj: utils/glyphkeeper/CMakeFiles/glyph-agl.dir/includes_C.rsp
-utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_face.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/utils/glyphkeeper/src/glyph_face.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_9)
+utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_face.obj: C:/Users/bibi/Documents/depot_christoph/whitecat_crossplateform/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/utils/glyphkeeper/src/glyph_face.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_9)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_face.obj"
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\glyph-agl.dir\src\glyph_face.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_face.c
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\glyph-agl.dir\src\glyph_face.obj   -c C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_face.c
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_face.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/glyph-agl.dir/src/glyph_face.i"
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_face.c > CMakeFiles\glyph-agl.dir\src\glyph_face.i
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_face.c > CMakeFiles\glyph-agl.dir\src\glyph_face.i
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_face.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/glyph-agl.dir/src/glyph_face.s"
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_face.c -o CMakeFiles\glyph-agl.dir\src\glyph_face.s
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_face.c -o CMakeFiles\glyph-agl.dir\src\glyph_face.s
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_face.obj.requires:
 .PHONY : utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_face.obj.requires
@@ -269,18 +269,18 @@ utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_face.obj.provides.build: ut
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_main.obj: utils/glyphkeeper/CMakeFiles/glyph-agl.dir/flags.make
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_main.obj: utils/glyphkeeper/CMakeFiles/glyph-agl.dir/includes_C.rsp
-utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_main.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/utils/glyphkeeper/src/glyph_main.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_10)
+utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_main.obj: C:/Users/bibi/Documents/depot_christoph/whitecat_crossplateform/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/utils/glyphkeeper/src/glyph_main.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_10)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_main.obj"
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\glyph-agl.dir\src\glyph_main.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_main.c
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\glyph-agl.dir\src\glyph_main.obj   -c C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_main.c
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_main.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/glyph-agl.dir/src/glyph_main.i"
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_main.c > CMakeFiles\glyph-agl.dir\src\glyph_main.i
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_main.c > CMakeFiles\glyph-agl.dir\src\glyph_main.i
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_main.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/glyph-agl.dir/src/glyph_main.s"
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_main.c -o CMakeFiles\glyph-agl.dir\src\glyph_main.s
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_main.c -o CMakeFiles\glyph-agl.dir\src\glyph_main.s
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_main.obj.requires:
 .PHONY : utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_main.obj.requires
@@ -293,18 +293,18 @@ utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_main.obj.provides.build: ut
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_allegro.obj: utils/glyphkeeper/CMakeFiles/glyph-agl.dir/flags.make
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_allegro.obj: utils/glyphkeeper/CMakeFiles/glyph-agl.dir/includes_C.rsp
-utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_allegro.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/utils/glyphkeeper/src/glyph_to_allegro.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_11)
+utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_allegro.obj: C:/Users/bibi/Documents/depot_christoph/whitecat_crossplateform/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/utils/glyphkeeper/src/glyph_to_allegro.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_11)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_allegro.obj"
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\glyph-agl.dir\src\glyph_to_allegro.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_to_allegro.c
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\glyph-agl.dir\src\glyph_to_allegro.obj   -c C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_to_allegro.c
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_allegro.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/glyph-agl.dir/src/glyph_to_allegro.i"
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_to_allegro.c > CMakeFiles\glyph-agl.dir\src\glyph_to_allegro.i
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_to_allegro.c > CMakeFiles\glyph-agl.dir\src\glyph_to_allegro.i
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_allegro.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/glyph-agl.dir/src/glyph_to_allegro.s"
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_to_allegro.c -o CMakeFiles\glyph-agl.dir\src\glyph_to_allegro.s
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_to_allegro.c -o CMakeFiles\glyph-agl.dir\src\glyph_to_allegro.s
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_allegro.obj.requires:
 .PHONY : utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_allegro.obj.requires
@@ -317,18 +317,18 @@ utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_allegro.obj.provides.bui
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_utils.obj: utils/glyphkeeper/CMakeFiles/glyph-agl.dir/flags.make
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_utils.obj: utils/glyphkeeper/CMakeFiles/glyph-agl.dir/includes_C.rsp
-utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_utils.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/utils/glyphkeeper/src/glyph_utils.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_12)
+utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_utils.obj: C:/Users/bibi/Documents/depot_christoph/whitecat_crossplateform/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/utils/glyphkeeper/src/glyph_utils.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_12)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_utils.obj"
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\glyph-agl.dir\src\glyph_utils.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_utils.c
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\glyph-agl.dir\src\glyph_utils.obj   -c C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_utils.c
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_utils.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/glyph-agl.dir/src/glyph_utils.i"
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_utils.c > CMakeFiles\glyph-agl.dir\src\glyph_utils.i
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_utils.c > CMakeFiles\glyph-agl.dir\src\glyph_utils.i
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_utils.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/glyph-agl.dir/src/glyph_utils.s"
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_utils.c -o CMakeFiles\glyph-agl.dir\src\glyph_utils.s
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_utils.c -o CMakeFiles\glyph-agl.dir\src\glyph_utils.s
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_utils.obj.requires:
 .PHONY : utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_utils.obj.requires
@@ -341,18 +341,18 @@ utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_utils.obj.provides.build: u
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_memory.obj: utils/glyphkeeper/CMakeFiles/glyph-agl.dir/flags.make
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_memory.obj: utils/glyphkeeper/CMakeFiles/glyph-agl.dir/includes_C.rsp
-utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_memory.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/utils/glyphkeeper/src/glyph_memory.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_13)
+utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_memory.obj: C:/Users/bibi/Documents/depot_christoph/whitecat_crossplateform/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/utils/glyphkeeper/src/glyph_memory.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_13)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_memory.obj"
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\glyph-agl.dir\src\glyph_memory.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_memory.c
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\glyph-agl.dir\src\glyph_memory.obj   -c C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_memory.c
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_memory.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/glyph-agl.dir/src/glyph_memory.i"
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_memory.c > CMakeFiles\glyph-agl.dir\src\glyph_memory.i
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_memory.c > CMakeFiles\glyph-agl.dir\src\glyph_memory.i
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_memory.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/glyph-agl.dir/src/glyph_memory.s"
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_memory.c -o CMakeFiles\glyph-agl.dir\src\glyph_memory.s
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_memory.c -o CMakeFiles\glyph-agl.dir\src\glyph_memory.s
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_memory.obj.requires:
 .PHONY : utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_memory.obj.requires
@@ -365,18 +365,18 @@ utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_memory.obj.provides.build: 
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_workout.obj: utils/glyphkeeper/CMakeFiles/glyph-agl.dir/flags.make
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_workout.obj: utils/glyphkeeper/CMakeFiles/glyph-agl.dir/includes_C.rsp
-utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_workout.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/utils/glyphkeeper/src/glyph_workout.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_14)
+utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_workout.obj: C:/Users/bibi/Documents/depot_christoph/whitecat_crossplateform/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/utils/glyphkeeper/src/glyph_workout.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_14)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_workout.obj"
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\glyph-agl.dir\src\glyph_workout.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_workout.c
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\glyph-agl.dir\src\glyph_workout.obj   -c C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_workout.c
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_workout.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/glyph-agl.dir/src/glyph_workout.i"
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_workout.c > CMakeFiles\glyph-agl.dir\src\glyph_workout.i
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_workout.c > CMakeFiles\glyph-agl.dir\src\glyph_workout.i
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_workout.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/glyph-agl.dir/src/glyph_workout.s"
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_workout.c -o CMakeFiles\glyph-agl.dir\src\glyph_workout.s
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper\src\glyph_workout.c -o CMakeFiles\glyph-agl.dir\src\glyph_workout.s
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_workout.obj.requires:
 .PHONY : utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_workout.obj.requires
@@ -424,8 +424,8 @@ lib/libglyph-agl.a: utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_workout
 lib/libglyph-agl.a: utils/glyphkeeper/CMakeFiles/glyph-agl.dir/build.make
 lib/libglyph-agl.a: utils/glyphkeeper/CMakeFiles/glyph-agl.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --red --bold "Linking C static library ..\..\lib\libglyph-agl.a"
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && $(CMAKE_COMMAND) -P CMakeFiles\glyph-agl.dir\cmake_clean_target.cmake
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\glyph-agl.dir\link.txt --verbose=$(VERBOSE)
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && $(CMAKE_COMMAND) -P CMakeFiles\glyph-agl.dir\cmake_clean_target.cmake
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\glyph-agl.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/build: lib/libglyph-agl.a
@@ -448,10 +448,10 @@ utils/glyphkeeper/CMakeFiles/glyph-agl.dir/requires: utils/glyphkeeper/CMakeFile
 .PHONY : utils/glyphkeeper/CMakeFiles/glyph-agl.dir/requires
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/clean:
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && $(CMAKE_COMMAND) -P CMakeFiles\glyph-agl.dir\cmake_clean.cmake
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper && $(CMAKE_COMMAND) -P CMakeFiles\glyph-agl.dir\cmake_clean.cmake
 .PHONY : utils/glyphkeeper/CMakeFiles/glyph-agl.dir/clean
 
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1 C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper\CMakeFiles\glyph-agl.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1 C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\utils\glyphkeeper C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper\CMakeFiles\glyph-agl.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : utils/glyphkeeper/CMakeFiles/glyph-agl.dir/depend
 

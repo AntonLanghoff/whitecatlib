@@ -41,10 +41,10 @@ EQUALS = =
 CMAKE_EDIT_COMMAND = "C:\Program Files (x86)\CMake 2.8\bin\cmake-gui.exe"
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1
+CMAKE_SOURCE_DIR = C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW
+CMAKE_BINARY_DIR = C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -112,14 +112,14 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper\CMakeFiles\progress.marks
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f CMakeFiles\Makefile2 utils/glyphkeeper/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles 0
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\utils\glyphkeeper\CMakeFiles\progress.marks
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f CMakeFiles\Makefile2 utils/glyphkeeper/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f CMakeFiles\Makefile2 utils/glyphkeeper/clean
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f CMakeFiles\Makefile2 utils/glyphkeeper/clean
 .PHONY : clean
 
 # The main clean target
@@ -128,22 +128,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f CMakeFiles\Makefile2 utils/glyphkeeper/preinstall
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f CMakeFiles\Makefile2 utils/glyphkeeper/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f CMakeFiles\Makefile2 utils/glyphkeeper/preinstall
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f CMakeFiles\Makefile2 utils/glyphkeeper/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 1
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/rule:
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f CMakeFiles\Makefile2 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/rule
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f CMakeFiles\Makefile2 utils/glyphkeeper/CMakeFiles/glyph-agl.dir/rule
 .PHONY : utils/glyphkeeper/CMakeFiles/glyph-agl.dir/rule
 
 # Convenience name for target.
@@ -152,217 +152,217 @@ glyph-agl: utils/glyphkeeper/CMakeFiles/glyph-agl.dir/rule
 
 # fast build rule for target.
 glyph-agl/fast:
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/build
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/build
 .PHONY : glyph-agl/fast
 
 # target to build an object file
 src/glyph.obj:
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph.obj
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph.obj
 .PHONY : src/glyph.obj
 
 # target to preprocess a source file
 src/glyph.i:
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph.i
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph.i
 .PHONY : src/glyph.i
 
 # target to generate assembly for a file
 src/glyph.s:
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph.s
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph.s
 .PHONY : src/glyph.s
 
 # target to build an object file
 src/glyph_dimensions.obj:
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_dimensions.obj
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_dimensions.obj
 .PHONY : src/glyph_dimensions.obj
 
 # target to preprocess a source file
 src/glyph_dimensions.i:
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_dimensions.i
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_dimensions.i
 .PHONY : src/glyph_dimensions.i
 
 # target to generate assembly for a file
 src/glyph_dimensions.s:
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_dimensions.s
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_dimensions.s
 .PHONY : src/glyph_dimensions.s
 
 # target to build an object file
 src/glyph_face.obj:
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_face.obj
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_face.obj
 .PHONY : src/glyph_face.obj
 
 # target to preprocess a source file
 src/glyph_face.i:
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_face.i
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_face.i
 .PHONY : src/glyph_face.i
 
 # target to generate assembly for a file
 src/glyph_face.s:
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_face.s
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_face.s
 .PHONY : src/glyph_face.s
 
 # target to build an object file
 src/glyph_global_vars.obj:
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_global_vars.obj
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_global_vars.obj
 .PHONY : src/glyph_global_vars.obj
 
 # target to preprocess a source file
 src/glyph_global_vars.i:
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_global_vars.i
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_global_vars.i
 .PHONY : src/glyph_global_vars.i
 
 # target to generate assembly for a file
 src/glyph_global_vars.s:
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_global_vars.s
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_global_vars.s
 .PHONY : src/glyph_global_vars.s
 
 # target to build an object file
 src/glyph_index.obj:
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_index.obj
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_index.obj
 .PHONY : src/glyph_index.obj
 
 # target to preprocess a source file
 src/glyph_index.i:
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_index.i
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_index.i
 .PHONY : src/glyph_index.i
 
 # target to generate assembly for a file
 src/glyph_index.s:
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_index.s
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_index.s
 .PHONY : src/glyph_index.s
 
 # target to build an object file
 src/glyph_main.obj:
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_main.obj
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_main.obj
 .PHONY : src/glyph_main.obj
 
 # target to preprocess a source file
 src/glyph_main.i:
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_main.i
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_main.i
 .PHONY : src/glyph_main.i
 
 # target to generate assembly for a file
 src/glyph_main.s:
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_main.s
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_main.s
 .PHONY : src/glyph_main.s
 
 # target to build an object file
 src/glyph_memory.obj:
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_memory.obj
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_memory.obj
 .PHONY : src/glyph_memory.obj
 
 # target to preprocess a source file
 src/glyph_memory.i:
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_memory.i
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_memory.i
 .PHONY : src/glyph_memory.i
 
 # target to generate assembly for a file
 src/glyph_memory.s:
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_memory.s
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_memory.s
 .PHONY : src/glyph_memory.s
 
 # target to build an object file
 src/glyph_rend.obj:
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_rend.obj
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_rend.obj
 .PHONY : src/glyph_rend.obj
 
 # target to preprocess a source file
 src/glyph_rend.i:
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_rend.i
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_rend.i
 .PHONY : src/glyph_rend.i
 
 # target to generate assembly for a file
 src/glyph_rend.s:
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_rend.s
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_rend.s
 .PHONY : src/glyph_rend.s
 
 # target to build an object file
 src/glyph_to_allegro.obj:
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_allegro.obj
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_allegro.obj
 .PHONY : src/glyph_to_allegro.obj
 
 # target to preprocess a source file
 src/glyph_to_allegro.i:
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_allegro.i
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_allegro.i
 .PHONY : src/glyph_to_allegro.i
 
 # target to generate assembly for a file
 src/glyph_to_allegro.s:
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_allegro.s
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_allegro.s
 .PHONY : src/glyph_to_allegro.s
 
 # target to build an object file
 src/glyph_to_allegro_aa.obj:
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_allegro_aa.obj
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_allegro_aa.obj
 .PHONY : src/glyph_to_allegro_aa.obj
 
 # target to preprocess a source file
 src/glyph_to_allegro_aa.i:
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_allegro_aa.i
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_allegro_aa.i
 .PHONY : src/glyph_to_allegro_aa.i
 
 # target to generate assembly for a file
 src/glyph_to_allegro_aa.s:
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_allegro_aa.s
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_allegro_aa.s
 .PHONY : src/glyph_to_allegro_aa.s
 
 # target to build an object file
 src/glyph_to_allegro_mono.obj:
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_allegro_mono.obj
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_allegro_mono.obj
 .PHONY : src/glyph_to_allegro_mono.obj
 
 # target to preprocess a source file
 src/glyph_to_allegro_mono.i:
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_allegro_mono.i
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_allegro_mono.i
 .PHONY : src/glyph_to_allegro_mono.i
 
 # target to generate assembly for a file
 src/glyph_to_allegro_mono.s:
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_allegro_mono.s
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_allegro_mono.s
 .PHONY : src/glyph_to_allegro_mono.s
 
 # target to build an object file
 src/glyph_to_opengl.obj:
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_opengl.obj
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_opengl.obj
 .PHONY : src/glyph_to_opengl.obj
 
 # target to preprocess a source file
 src/glyph_to_opengl.i:
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_opengl.i
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_opengl.i
 .PHONY : src/glyph_to_opengl.i
 
 # target to generate assembly for a file
 src/glyph_to_opengl.s:
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_opengl.s
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_to_opengl.s
 .PHONY : src/glyph_to_opengl.s
 
 # target to build an object file
 src/glyph_utils.obj:
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_utils.obj
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_utils.obj
 .PHONY : src/glyph_utils.obj
 
 # target to preprocess a source file
 src/glyph_utils.i:
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_utils.i
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_utils.i
 .PHONY : src/glyph_utils.i
 
 # target to generate assembly for a file
 src/glyph_utils.s:
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_utils.s
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_utils.s
 .PHONY : src/glyph_utils.s
 
 # target to build an object file
 src/glyph_workout.obj:
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_workout.obj
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_workout.obj
 .PHONY : src/glyph_workout.obj
 
 # target to preprocess a source file
 src/glyph_workout.i:
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_workout.i
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_workout.i
 .PHONY : src/glyph_workout.i
 
 # target to generate assembly for a file
 src/glyph_workout.s:
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_workout.s
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(MAKE) -f utils\glyphkeeper\CMakeFiles\glyph-agl.dir\build.make utils/glyphkeeper/CMakeFiles/glyph-agl.dir/src/glyph_workout.s
 .PHONY : src/glyph_workout.s
 
 # Help Target
@@ -431,6 +431,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /d C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 0
+	cd /d C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

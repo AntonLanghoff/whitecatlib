@@ -37,10 +37,10 @@ EQUALS = =
 CMAKE_EDIT_COMMAND = "C:\Program Files (x86)\CMake 2.8\bin\cmake-gui.exe"
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1
+CMAKE_SOURCE_DIR = C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW
+CMAKE_BINARY_DIR = C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW
 
 # Include any dependencies generated for this target.
 include CMakeFiles/openlayer.dir/depend.make
@@ -53,18 +53,18 @@ include CMakeFiles/openlayer.dir/flags.make
 
 CMakeFiles/openlayer.dir/src/Animation.obj: CMakeFiles/openlayer.dir/flags.make
 CMakeFiles/openlayer.dir/src/Animation.obj: CMakeFiles/openlayer.dir/includes_CXX.rsp
-CMakeFiles/openlayer.dir/src/Animation.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/Animation.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_1)
+CMakeFiles/openlayer.dir/src/Animation.obj: C:/Users/bibi/Documents/depot_christoph/whitecat_crossplateform/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/Animation.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_1)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/openlayer.dir/src/Animation.obj"
-	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\Animation.obj -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Animation.cpp
+	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\Animation.obj -c C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Animation.cpp
 
 CMakeFiles/openlayer.dir/src/Animation.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openlayer.dir/src/Animation.i"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Animation.cpp > CMakeFiles\openlayer.dir\src\Animation.i
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Animation.cpp > CMakeFiles\openlayer.dir\src\Animation.i
 
 CMakeFiles/openlayer.dir/src/Animation.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openlayer.dir/src/Animation.s"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Animation.cpp -o CMakeFiles\openlayer.dir\src\Animation.s
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Animation.cpp -o CMakeFiles\openlayer.dir\src\Animation.s
 
 CMakeFiles/openlayer.dir/src/Animation.obj.requires:
 .PHONY : CMakeFiles/openlayer.dir/src/Animation.obj.requires
@@ -77,18 +77,18 @@ CMakeFiles/openlayer.dir/src/Animation.obj.provides.build: CMakeFiles/openlayer.
 
 CMakeFiles/openlayer.dir/src/Bitmap.obj: CMakeFiles/openlayer.dir/flags.make
 CMakeFiles/openlayer.dir/src/Bitmap.obj: CMakeFiles/openlayer.dir/includes_CXX.rsp
-CMakeFiles/openlayer.dir/src/Bitmap.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/Bitmap.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_2)
+CMakeFiles/openlayer.dir/src/Bitmap.obj: C:/Users/bibi/Documents/depot_christoph/whitecat_crossplateform/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/Bitmap.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_2)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/openlayer.dir/src/Bitmap.obj"
-	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\Bitmap.obj -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Bitmap.cpp
+	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\Bitmap.obj -c C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Bitmap.cpp
 
 CMakeFiles/openlayer.dir/src/Bitmap.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openlayer.dir/src/Bitmap.i"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Bitmap.cpp > CMakeFiles\openlayer.dir\src\Bitmap.i
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Bitmap.cpp > CMakeFiles\openlayer.dir\src\Bitmap.i
 
 CMakeFiles/openlayer.dir/src/Bitmap.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openlayer.dir/src/Bitmap.s"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Bitmap.cpp -o CMakeFiles\openlayer.dir\src\Bitmap.s
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Bitmap.cpp -o CMakeFiles\openlayer.dir\src\Bitmap.s
 
 CMakeFiles/openlayer.dir/src/Bitmap.obj.requires:
 .PHONY : CMakeFiles/openlayer.dir/src/Bitmap.obj.requires
@@ -101,18 +101,18 @@ CMakeFiles/openlayer.dir/src/Bitmap.obj.provides.build: CMakeFiles/openlayer.dir
 
 CMakeFiles/openlayer.dir/src/Blenders.obj: CMakeFiles/openlayer.dir/flags.make
 CMakeFiles/openlayer.dir/src/Blenders.obj: CMakeFiles/openlayer.dir/includes_CXX.rsp
-CMakeFiles/openlayer.dir/src/Blenders.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/Blenders.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_3)
+CMakeFiles/openlayer.dir/src/Blenders.obj: C:/Users/bibi/Documents/depot_christoph/whitecat_crossplateform/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/Blenders.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_3)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/openlayer.dir/src/Blenders.obj"
-	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\Blenders.obj -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Blenders.cpp
+	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\Blenders.obj -c C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Blenders.cpp
 
 CMakeFiles/openlayer.dir/src/Blenders.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openlayer.dir/src/Blenders.i"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Blenders.cpp > CMakeFiles\openlayer.dir\src\Blenders.i
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Blenders.cpp > CMakeFiles\openlayer.dir\src\Blenders.i
 
 CMakeFiles/openlayer.dir/src/Blenders.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openlayer.dir/src/Blenders.s"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Blenders.cpp -o CMakeFiles\openlayer.dir\src\Blenders.s
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Blenders.cpp -o CMakeFiles\openlayer.dir\src\Blenders.s
 
 CMakeFiles/openlayer.dir/src/Blenders.obj.requires:
 .PHONY : CMakeFiles/openlayer.dir/src/Blenders.obj.requires
@@ -125,18 +125,18 @@ CMakeFiles/openlayer.dir/src/Blenders.obj.provides.build: CMakeFiles/openlayer.d
 
 CMakeFiles/openlayer.dir/src/Canvas.obj: CMakeFiles/openlayer.dir/flags.make
 CMakeFiles/openlayer.dir/src/Canvas.obj: CMakeFiles/openlayer.dir/includes_CXX.rsp
-CMakeFiles/openlayer.dir/src/Canvas.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/Canvas.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_4)
+CMakeFiles/openlayer.dir/src/Canvas.obj: C:/Users/bibi/Documents/depot_christoph/whitecat_crossplateform/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/Canvas.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_4)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/openlayer.dir/src/Canvas.obj"
-	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\Canvas.obj -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Canvas.cpp
+	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\Canvas.obj -c C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Canvas.cpp
 
 CMakeFiles/openlayer.dir/src/Canvas.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openlayer.dir/src/Canvas.i"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Canvas.cpp > CMakeFiles\openlayer.dir\src\Canvas.i
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Canvas.cpp > CMakeFiles\openlayer.dir\src\Canvas.i
 
 CMakeFiles/openlayer.dir/src/Canvas.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openlayer.dir/src/Canvas.s"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Canvas.cpp -o CMakeFiles\openlayer.dir\src\Canvas.s
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Canvas.cpp -o CMakeFiles\openlayer.dir\src\Canvas.s
 
 CMakeFiles/openlayer.dir/src/Canvas.obj.requires:
 .PHONY : CMakeFiles/openlayer.dir/src/Canvas.obj.requires
@@ -149,18 +149,18 @@ CMakeFiles/openlayer.dir/src/Canvas.obj.provides.build: CMakeFiles/openlayer.dir
 
 CMakeFiles/openlayer.dir/src/Circle.obj: CMakeFiles/openlayer.dir/flags.make
 CMakeFiles/openlayer.dir/src/Circle.obj: CMakeFiles/openlayer.dir/includes_CXX.rsp
-CMakeFiles/openlayer.dir/src/Circle.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/Circle.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_5)
+CMakeFiles/openlayer.dir/src/Circle.obj: C:/Users/bibi/Documents/depot_christoph/whitecat_crossplateform/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/Circle.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_5)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/openlayer.dir/src/Circle.obj"
-	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\Circle.obj -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Circle.cpp
+	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\Circle.obj -c C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Circle.cpp
 
 CMakeFiles/openlayer.dir/src/Circle.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openlayer.dir/src/Circle.i"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Circle.cpp > CMakeFiles\openlayer.dir\src\Circle.i
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Circle.cpp > CMakeFiles\openlayer.dir\src\Circle.i
 
 CMakeFiles/openlayer.dir/src/Circle.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openlayer.dir/src/Circle.s"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Circle.cpp -o CMakeFiles\openlayer.dir\src\Circle.s
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Circle.cpp -o CMakeFiles\openlayer.dir\src\Circle.s
 
 CMakeFiles/openlayer.dir/src/Circle.obj.requires:
 .PHONY : CMakeFiles/openlayer.dir/src/Circle.obj.requires
@@ -173,18 +173,18 @@ CMakeFiles/openlayer.dir/src/Circle.obj.provides.build: CMakeFiles/openlayer.dir
 
 CMakeFiles/openlayer.dir/src/Collisions.obj: CMakeFiles/openlayer.dir/flags.make
 CMakeFiles/openlayer.dir/src/Collisions.obj: CMakeFiles/openlayer.dir/includes_CXX.rsp
-CMakeFiles/openlayer.dir/src/Collisions.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/Collisions.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_6)
+CMakeFiles/openlayer.dir/src/Collisions.obj: C:/Users/bibi/Documents/depot_christoph/whitecat_crossplateform/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/Collisions.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_6)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/openlayer.dir/src/Collisions.obj"
-	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\Collisions.obj -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Collisions.cpp
+	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\Collisions.obj -c C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Collisions.cpp
 
 CMakeFiles/openlayer.dir/src/Collisions.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openlayer.dir/src/Collisions.i"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Collisions.cpp > CMakeFiles\openlayer.dir\src\Collisions.i
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Collisions.cpp > CMakeFiles\openlayer.dir\src\Collisions.i
 
 CMakeFiles/openlayer.dir/src/Collisions.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openlayer.dir/src/Collisions.s"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Collisions.cpp -o CMakeFiles\openlayer.dir\src\Collisions.s
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Collisions.cpp -o CMakeFiles\openlayer.dir\src\Collisions.s
 
 CMakeFiles/openlayer.dir/src/Collisions.obj.requires:
 .PHONY : CMakeFiles/openlayer.dir/src/Collisions.obj.requires
@@ -197,18 +197,18 @@ CMakeFiles/openlayer.dir/src/Collisions.obj.provides.build: CMakeFiles/openlayer
 
 CMakeFiles/openlayer.dir/src/Effects.obj: CMakeFiles/openlayer.dir/flags.make
 CMakeFiles/openlayer.dir/src/Effects.obj: CMakeFiles/openlayer.dir/includes_CXX.rsp
-CMakeFiles/openlayer.dir/src/Effects.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/Effects.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_7)
+CMakeFiles/openlayer.dir/src/Effects.obj: C:/Users/bibi/Documents/depot_christoph/whitecat_crossplateform/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/Effects.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_7)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/openlayer.dir/src/Effects.obj"
-	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\Effects.obj -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Effects.cpp
+	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\Effects.obj -c C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Effects.cpp
 
 CMakeFiles/openlayer.dir/src/Effects.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openlayer.dir/src/Effects.i"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Effects.cpp > CMakeFiles\openlayer.dir\src\Effects.i
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Effects.cpp > CMakeFiles\openlayer.dir\src\Effects.i
 
 CMakeFiles/openlayer.dir/src/Effects.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openlayer.dir/src/Effects.s"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Effects.cpp -o CMakeFiles\openlayer.dir\src\Effects.s
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Effects.cpp -o CMakeFiles\openlayer.dir\src\Effects.s
 
 CMakeFiles/openlayer.dir/src/Effects.obj.requires:
 .PHONY : CMakeFiles/openlayer.dir/src/Effects.obj.requires
@@ -221,18 +221,18 @@ CMakeFiles/openlayer.dir/src/Effects.obj.provides.build: CMakeFiles/openlayer.di
 
 CMakeFiles/openlayer.dir/src/FpsCounter.obj: CMakeFiles/openlayer.dir/flags.make
 CMakeFiles/openlayer.dir/src/FpsCounter.obj: CMakeFiles/openlayer.dir/includes_CXX.rsp
-CMakeFiles/openlayer.dir/src/FpsCounter.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/FpsCounter.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_8)
+CMakeFiles/openlayer.dir/src/FpsCounter.obj: C:/Users/bibi/Documents/depot_christoph/whitecat_crossplateform/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/FpsCounter.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_8)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/openlayer.dir/src/FpsCounter.obj"
-	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\FpsCounter.obj -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\FpsCounter.cpp
+	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\FpsCounter.obj -c C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\FpsCounter.cpp
 
 CMakeFiles/openlayer.dir/src/FpsCounter.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openlayer.dir/src/FpsCounter.i"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\FpsCounter.cpp > CMakeFiles\openlayer.dir\src\FpsCounter.i
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\FpsCounter.cpp > CMakeFiles\openlayer.dir\src\FpsCounter.i
 
 CMakeFiles/openlayer.dir/src/FpsCounter.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openlayer.dir/src/FpsCounter.s"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\FpsCounter.cpp -o CMakeFiles\openlayer.dir\src\FpsCounter.s
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\FpsCounter.cpp -o CMakeFiles\openlayer.dir\src\FpsCounter.s
 
 CMakeFiles/openlayer.dir/src/FpsCounter.obj.requires:
 .PHONY : CMakeFiles/openlayer.dir/src/FpsCounter.obj.requires
@@ -245,18 +245,18 @@ CMakeFiles/openlayer.dir/src/FpsCounter.obj.provides.build: CMakeFiles/openlayer
 
 CMakeFiles/openlayer.dir/src/Framebuffer.obj: CMakeFiles/openlayer.dir/flags.make
 CMakeFiles/openlayer.dir/src/Framebuffer.obj: CMakeFiles/openlayer.dir/includes_CXX.rsp
-CMakeFiles/openlayer.dir/src/Framebuffer.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/Framebuffer.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_9)
+CMakeFiles/openlayer.dir/src/Framebuffer.obj: C:/Users/bibi/Documents/depot_christoph/whitecat_crossplateform/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/Framebuffer.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_9)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/openlayer.dir/src/Framebuffer.obj"
-	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\Framebuffer.obj -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Framebuffer.cpp
+	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\Framebuffer.obj -c C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Framebuffer.cpp
 
 CMakeFiles/openlayer.dir/src/Framebuffer.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openlayer.dir/src/Framebuffer.i"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Framebuffer.cpp > CMakeFiles\openlayer.dir\src\Framebuffer.i
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Framebuffer.cpp > CMakeFiles\openlayer.dir\src\Framebuffer.i
 
 CMakeFiles/openlayer.dir/src/Framebuffer.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openlayer.dir/src/Framebuffer.s"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Framebuffer.cpp -o CMakeFiles\openlayer.dir\src\Framebuffer.s
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Framebuffer.cpp -o CMakeFiles\openlayer.dir\src\Framebuffer.s
 
 CMakeFiles/openlayer.dir/src/Framebuffer.obj.requires:
 .PHONY : CMakeFiles/openlayer.dir/src/Framebuffer.obj.requires
@@ -269,18 +269,18 @@ CMakeFiles/openlayer.dir/src/Framebuffer.obj.provides.build: CMakeFiles/openlaye
 
 CMakeFiles/openlayer.dir/src/GarbageCollector.obj: CMakeFiles/openlayer.dir/flags.make
 CMakeFiles/openlayer.dir/src/GarbageCollector.obj: CMakeFiles/openlayer.dir/includes_CXX.rsp
-CMakeFiles/openlayer.dir/src/GarbageCollector.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/GarbageCollector.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_10)
+CMakeFiles/openlayer.dir/src/GarbageCollector.obj: C:/Users/bibi/Documents/depot_christoph/whitecat_crossplateform/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/GarbageCollector.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_10)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/openlayer.dir/src/GarbageCollector.obj"
-	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\GarbageCollector.obj -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\GarbageCollector.cpp
+	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\GarbageCollector.obj -c C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\GarbageCollector.cpp
 
 CMakeFiles/openlayer.dir/src/GarbageCollector.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openlayer.dir/src/GarbageCollector.i"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\GarbageCollector.cpp > CMakeFiles\openlayer.dir\src\GarbageCollector.i
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\GarbageCollector.cpp > CMakeFiles\openlayer.dir\src\GarbageCollector.i
 
 CMakeFiles/openlayer.dir/src/GarbageCollector.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openlayer.dir/src/GarbageCollector.s"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\GarbageCollector.cpp -o CMakeFiles\openlayer.dir\src\GarbageCollector.s
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\GarbageCollector.cpp -o CMakeFiles\openlayer.dir\src\GarbageCollector.s
 
 CMakeFiles/openlayer.dir/src/GarbageCollector.obj.requires:
 .PHONY : CMakeFiles/openlayer.dir/src/GarbageCollector.obj.requires
@@ -293,18 +293,18 @@ CMakeFiles/openlayer.dir/src/GarbageCollector.obj.provides.build: CMakeFiles/ope
 
 CMakeFiles/openlayer.dir/src/General.obj: CMakeFiles/openlayer.dir/flags.make
 CMakeFiles/openlayer.dir/src/General.obj: CMakeFiles/openlayer.dir/includes_CXX.rsp
-CMakeFiles/openlayer.dir/src/General.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/General.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_11)
+CMakeFiles/openlayer.dir/src/General.obj: C:/Users/bibi/Documents/depot_christoph/whitecat_crossplateform/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/General.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_11)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/openlayer.dir/src/General.obj"
-	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\General.obj -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\General.cpp
+	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\General.obj -c C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\General.cpp
 
 CMakeFiles/openlayer.dir/src/General.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openlayer.dir/src/General.i"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\General.cpp > CMakeFiles\openlayer.dir\src\General.i
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\General.cpp > CMakeFiles\openlayer.dir\src\General.i
 
 CMakeFiles/openlayer.dir/src/General.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openlayer.dir/src/General.s"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\General.cpp -o CMakeFiles\openlayer.dir\src\General.s
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\General.cpp -o CMakeFiles\openlayer.dir\src\General.s
 
 CMakeFiles/openlayer.dir/src/General.obj.requires:
 .PHONY : CMakeFiles/openlayer.dir/src/General.obj.requires
@@ -317,18 +317,18 @@ CMakeFiles/openlayer.dir/src/General.obj.provides.build: CMakeFiles/openlayer.di
 
 CMakeFiles/openlayer.dir/src/GfxRend.obj: CMakeFiles/openlayer.dir/flags.make
 CMakeFiles/openlayer.dir/src/GfxRend.obj: CMakeFiles/openlayer.dir/includes_CXX.rsp
-CMakeFiles/openlayer.dir/src/GfxRend.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/GfxRend.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_12)
+CMakeFiles/openlayer.dir/src/GfxRend.obj: C:/Users/bibi/Documents/depot_christoph/whitecat_crossplateform/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/GfxRend.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_12)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/openlayer.dir/src/GfxRend.obj"
-	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\GfxRend.obj -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\GfxRend.cpp
+	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\GfxRend.obj -c C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\GfxRend.cpp
 
 CMakeFiles/openlayer.dir/src/GfxRend.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openlayer.dir/src/GfxRend.i"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\GfxRend.cpp > CMakeFiles\openlayer.dir\src\GfxRend.i
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\GfxRend.cpp > CMakeFiles\openlayer.dir\src\GfxRend.i
 
 CMakeFiles/openlayer.dir/src/GfxRend.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openlayer.dir/src/GfxRend.s"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\GfxRend.cpp -o CMakeFiles\openlayer.dir\src\GfxRend.s
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\GfxRend.cpp -o CMakeFiles\openlayer.dir\src\GfxRend.s
 
 CMakeFiles/openlayer.dir/src/GfxRend.obj.requires:
 .PHONY : CMakeFiles/openlayer.dir/src/GfxRend.obj.requires
@@ -341,18 +341,18 @@ CMakeFiles/openlayer.dir/src/GfxRend.obj.provides.build: CMakeFiles/openlayer.di
 
 CMakeFiles/openlayer.dir/src/GlDriver.obj: CMakeFiles/openlayer.dir/flags.make
 CMakeFiles/openlayer.dir/src/GlDriver.obj: CMakeFiles/openlayer.dir/includes_CXX.rsp
-CMakeFiles/openlayer.dir/src/GlDriver.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/GlDriver.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_13)
+CMakeFiles/openlayer.dir/src/GlDriver.obj: C:/Users/bibi/Documents/depot_christoph/whitecat_crossplateform/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/GlDriver.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_13)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/openlayer.dir/src/GlDriver.obj"
-	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\GlDriver.obj -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\GlDriver.cpp
+	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\GlDriver.obj -c C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\GlDriver.cpp
 
 CMakeFiles/openlayer.dir/src/GlDriver.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openlayer.dir/src/GlDriver.i"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\GlDriver.cpp > CMakeFiles\openlayer.dir\src\GlDriver.i
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\GlDriver.cpp > CMakeFiles\openlayer.dir\src\GlDriver.i
 
 CMakeFiles/openlayer.dir/src/GlDriver.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openlayer.dir/src/GlDriver.s"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\GlDriver.cpp -o CMakeFiles\openlayer.dir\src\GlDriver.s
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\GlDriver.cpp -o CMakeFiles\openlayer.dir\src\GlDriver.s
 
 CMakeFiles/openlayer.dir/src/GlDriver.obj.requires:
 .PHONY : CMakeFiles/openlayer.dir/src/GlDriver.obj.requires
@@ -365,18 +365,18 @@ CMakeFiles/openlayer.dir/src/GlDriver.obj.provides.build: CMakeFiles/openlayer.d
 
 CMakeFiles/openlayer.dir/src/Glyph.obj: CMakeFiles/openlayer.dir/flags.make
 CMakeFiles/openlayer.dir/src/Glyph.obj: CMakeFiles/openlayer.dir/includes_CXX.rsp
-CMakeFiles/openlayer.dir/src/Glyph.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/Glyph.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_14)
+CMakeFiles/openlayer.dir/src/Glyph.obj: C:/Users/bibi/Documents/depot_christoph/whitecat_crossplateform/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/Glyph.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_14)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/openlayer.dir/src/Glyph.obj"
-	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\Glyph.obj -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Glyph.cpp
+	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\Glyph.obj -c C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Glyph.cpp
 
 CMakeFiles/openlayer.dir/src/Glyph.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openlayer.dir/src/Glyph.i"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Glyph.cpp > CMakeFiles\openlayer.dir\src\Glyph.i
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Glyph.cpp > CMakeFiles\openlayer.dir\src\Glyph.i
 
 CMakeFiles/openlayer.dir/src/Glyph.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openlayer.dir/src/Glyph.s"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Glyph.cpp -o CMakeFiles\openlayer.dir\src\Glyph.s
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Glyph.cpp -o CMakeFiles\openlayer.dir\src\Glyph.s
 
 CMakeFiles/openlayer.dir/src/Glyph.obj.requires:
 .PHONY : CMakeFiles/openlayer.dir/src/Glyph.obj.requires
@@ -389,18 +389,18 @@ CMakeFiles/openlayer.dir/src/Glyph.obj.provides.build: CMakeFiles/openlayer.dir/
 
 CMakeFiles/openlayer.dir/src/Internal.obj: CMakeFiles/openlayer.dir/flags.make
 CMakeFiles/openlayer.dir/src/Internal.obj: CMakeFiles/openlayer.dir/includes_CXX.rsp
-CMakeFiles/openlayer.dir/src/Internal.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/Internal.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_15)
+CMakeFiles/openlayer.dir/src/Internal.obj: C:/Users/bibi/Documents/depot_christoph/whitecat_crossplateform/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/Internal.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_15)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/openlayer.dir/src/Internal.obj"
-	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\Internal.obj -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Internal.cpp
+	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\Internal.obj -c C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Internal.cpp
 
 CMakeFiles/openlayer.dir/src/Internal.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openlayer.dir/src/Internal.i"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Internal.cpp > CMakeFiles\openlayer.dir\src\Internal.i
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Internal.cpp > CMakeFiles\openlayer.dir\src\Internal.i
 
 CMakeFiles/openlayer.dir/src/Internal.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openlayer.dir/src/Internal.s"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Internal.cpp -o CMakeFiles\openlayer.dir\src\Internal.s
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Internal.cpp -o CMakeFiles\openlayer.dir\src\Internal.s
 
 CMakeFiles/openlayer.dir/src/Internal.obj.requires:
 .PHONY : CMakeFiles/openlayer.dir/src/Internal.obj.requires
@@ -413,18 +413,18 @@ CMakeFiles/openlayer.dir/src/Internal.obj.provides.build: CMakeFiles/openlayer.d
 
 CMakeFiles/openlayer.dir/src/Line.obj: CMakeFiles/openlayer.dir/flags.make
 CMakeFiles/openlayer.dir/src/Line.obj: CMakeFiles/openlayer.dir/includes_CXX.rsp
-CMakeFiles/openlayer.dir/src/Line.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/Line.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_16)
+CMakeFiles/openlayer.dir/src/Line.obj: C:/Users/bibi/Documents/depot_christoph/whitecat_crossplateform/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/Line.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_16)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/openlayer.dir/src/Line.obj"
-	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\Line.obj -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Line.cpp
+	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\Line.obj -c C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Line.cpp
 
 CMakeFiles/openlayer.dir/src/Line.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openlayer.dir/src/Line.i"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Line.cpp > CMakeFiles\openlayer.dir\src\Line.i
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Line.cpp > CMakeFiles\openlayer.dir\src\Line.i
 
 CMakeFiles/openlayer.dir/src/Line.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openlayer.dir/src/Line.s"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Line.cpp -o CMakeFiles\openlayer.dir\src\Line.s
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Line.cpp -o CMakeFiles\openlayer.dir\src\Line.s
 
 CMakeFiles/openlayer.dir/src/Line.obj.requires:
 .PHONY : CMakeFiles/openlayer.dir/src/Line.obj.requires
@@ -437,18 +437,18 @@ CMakeFiles/openlayer.dir/src/Line.obj.provides.build: CMakeFiles/openlayer.dir/s
 
 CMakeFiles/openlayer.dir/src/LineStrip.obj: CMakeFiles/openlayer.dir/flags.make
 CMakeFiles/openlayer.dir/src/LineStrip.obj: CMakeFiles/openlayer.dir/includes_CXX.rsp
-CMakeFiles/openlayer.dir/src/LineStrip.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/LineStrip.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_17)
+CMakeFiles/openlayer.dir/src/LineStrip.obj: C:/Users/bibi/Documents/depot_christoph/whitecat_crossplateform/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/LineStrip.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_17)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/openlayer.dir/src/LineStrip.obj"
-	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\LineStrip.obj -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\LineStrip.cpp
+	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\LineStrip.obj -c C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\LineStrip.cpp
 
 CMakeFiles/openlayer.dir/src/LineStrip.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openlayer.dir/src/LineStrip.i"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\LineStrip.cpp > CMakeFiles\openlayer.dir\src\LineStrip.i
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\LineStrip.cpp > CMakeFiles\openlayer.dir\src\LineStrip.i
 
 CMakeFiles/openlayer.dir/src/LineStrip.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openlayer.dir/src/LineStrip.s"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\LineStrip.cpp -o CMakeFiles\openlayer.dir\src\LineStrip.s
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\LineStrip.cpp -o CMakeFiles\openlayer.dir\src\LineStrip.s
 
 CMakeFiles/openlayer.dir/src/LineStrip.obj.requires:
 .PHONY : CMakeFiles/openlayer.dir/src/LineStrip.obj.requires
@@ -461,18 +461,18 @@ CMakeFiles/openlayer.dir/src/LineStrip.obj.provides.build: CMakeFiles/openlayer.
 
 CMakeFiles/openlayer.dir/src/loadpng.obj: CMakeFiles/openlayer.dir/flags.make
 CMakeFiles/openlayer.dir/src/loadpng.obj: CMakeFiles/openlayer.dir/includes_C.rsp
-CMakeFiles/openlayer.dir/src/loadpng.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/loadpng.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_18)
+CMakeFiles/openlayer.dir/src/loadpng.obj: C:/Users/bibi/Documents/depot_christoph/whitecat_crossplateform/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/loadpng.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_18)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/openlayer.dir/src/loadpng.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\openlayer.dir\src\loadpng.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\loadpng.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\openlayer.dir\src\loadpng.obj   -c C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\loadpng.c
 
 CMakeFiles/openlayer.dir/src/loadpng.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/openlayer.dir/src/loadpng.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\loadpng.c > CMakeFiles\openlayer.dir\src\loadpng.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\loadpng.c > CMakeFiles\openlayer.dir\src\loadpng.i
 
 CMakeFiles/openlayer.dir/src/loadpng.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/openlayer.dir/src/loadpng.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\loadpng.c -o CMakeFiles\openlayer.dir\src\loadpng.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\loadpng.c -o CMakeFiles\openlayer.dir\src\loadpng.s
 
 CMakeFiles/openlayer.dir/src/loadpng.obj.requires:
 .PHONY : CMakeFiles/openlayer.dir/src/loadpng.obj.requires
@@ -485,18 +485,18 @@ CMakeFiles/openlayer.dir/src/loadpng.obj.provides.build: CMakeFiles/openlayer.di
 
 CMakeFiles/openlayer.dir/src/Matrix.obj: CMakeFiles/openlayer.dir/flags.make
 CMakeFiles/openlayer.dir/src/Matrix.obj: CMakeFiles/openlayer.dir/includes_CXX.rsp
-CMakeFiles/openlayer.dir/src/Matrix.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/Matrix.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_19)
+CMakeFiles/openlayer.dir/src/Matrix.obj: C:/Users/bibi/Documents/depot_christoph/whitecat_crossplateform/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/Matrix.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_19)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/openlayer.dir/src/Matrix.obj"
-	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\Matrix.obj -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Matrix.cpp
+	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\Matrix.obj -c C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Matrix.cpp
 
 CMakeFiles/openlayer.dir/src/Matrix.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openlayer.dir/src/Matrix.i"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Matrix.cpp > CMakeFiles\openlayer.dir\src\Matrix.i
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Matrix.cpp > CMakeFiles\openlayer.dir\src\Matrix.i
 
 CMakeFiles/openlayer.dir/src/Matrix.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openlayer.dir/src/Matrix.s"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Matrix.cpp -o CMakeFiles\openlayer.dir\src\Matrix.s
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Matrix.cpp -o CMakeFiles\openlayer.dir\src\Matrix.s
 
 CMakeFiles/openlayer.dir/src/Matrix.obj.requires:
 .PHONY : CMakeFiles/openlayer.dir/src/Matrix.obj.requires
@@ -509,18 +509,18 @@ CMakeFiles/openlayer.dir/src/Matrix.obj.provides.build: CMakeFiles/openlayer.dir
 
 CMakeFiles/openlayer.dir/src/PendingLoad.obj: CMakeFiles/openlayer.dir/flags.make
 CMakeFiles/openlayer.dir/src/PendingLoad.obj: CMakeFiles/openlayer.dir/includes_CXX.rsp
-CMakeFiles/openlayer.dir/src/PendingLoad.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/PendingLoad.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_20)
+CMakeFiles/openlayer.dir/src/PendingLoad.obj: C:/Users/bibi/Documents/depot_christoph/whitecat_crossplateform/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/PendingLoad.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_20)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/openlayer.dir/src/PendingLoad.obj"
-	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\PendingLoad.obj -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\PendingLoad.cpp
+	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\PendingLoad.obj -c C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\PendingLoad.cpp
 
 CMakeFiles/openlayer.dir/src/PendingLoad.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openlayer.dir/src/PendingLoad.i"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\PendingLoad.cpp > CMakeFiles\openlayer.dir\src\PendingLoad.i
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\PendingLoad.cpp > CMakeFiles\openlayer.dir\src\PendingLoad.i
 
 CMakeFiles/openlayer.dir/src/PendingLoad.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openlayer.dir/src/PendingLoad.s"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\PendingLoad.cpp -o CMakeFiles\openlayer.dir\src\PendingLoad.s
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\PendingLoad.cpp -o CMakeFiles\openlayer.dir\src\PendingLoad.s
 
 CMakeFiles/openlayer.dir/src/PendingLoad.obj.requires:
 .PHONY : CMakeFiles/openlayer.dir/src/PendingLoad.obj.requires
@@ -533,18 +533,18 @@ CMakeFiles/openlayer.dir/src/PendingLoad.obj.provides.build: CMakeFiles/openlaye
 
 CMakeFiles/openlayer.dir/src/Placement.obj: CMakeFiles/openlayer.dir/flags.make
 CMakeFiles/openlayer.dir/src/Placement.obj: CMakeFiles/openlayer.dir/includes_CXX.rsp
-CMakeFiles/openlayer.dir/src/Placement.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/Placement.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_21)
+CMakeFiles/openlayer.dir/src/Placement.obj: C:/Users/bibi/Documents/depot_christoph/whitecat_crossplateform/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/Placement.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_21)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/openlayer.dir/src/Placement.obj"
-	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\Placement.obj -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Placement.cpp
+	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\Placement.obj -c C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Placement.cpp
 
 CMakeFiles/openlayer.dir/src/Placement.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openlayer.dir/src/Placement.i"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Placement.cpp > CMakeFiles\openlayer.dir\src\Placement.i
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Placement.cpp > CMakeFiles\openlayer.dir\src\Placement.i
 
 CMakeFiles/openlayer.dir/src/Placement.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openlayer.dir/src/Placement.s"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Placement.cpp -o CMakeFiles\openlayer.dir\src\Placement.s
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Placement.cpp -o CMakeFiles\openlayer.dir\src\Placement.s
 
 CMakeFiles/openlayer.dir/src/Placement.obj.requires:
 .PHONY : CMakeFiles/openlayer.dir/src/Placement.obj.requires
@@ -557,18 +557,18 @@ CMakeFiles/openlayer.dir/src/Placement.obj.provides.build: CMakeFiles/openlayer.
 
 CMakeFiles/openlayer.dir/src/Point.obj: CMakeFiles/openlayer.dir/flags.make
 CMakeFiles/openlayer.dir/src/Point.obj: CMakeFiles/openlayer.dir/includes_CXX.rsp
-CMakeFiles/openlayer.dir/src/Point.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/Point.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_22)
+CMakeFiles/openlayer.dir/src/Point.obj: C:/Users/bibi/Documents/depot_christoph/whitecat_crossplateform/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/Point.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_22)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/openlayer.dir/src/Point.obj"
-	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\Point.obj -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Point.cpp
+	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\Point.obj -c C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Point.cpp
 
 CMakeFiles/openlayer.dir/src/Point.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openlayer.dir/src/Point.i"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Point.cpp > CMakeFiles\openlayer.dir\src\Point.i
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Point.cpp > CMakeFiles\openlayer.dir\src\Point.i
 
 CMakeFiles/openlayer.dir/src/Point.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openlayer.dir/src/Point.s"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Point.cpp -o CMakeFiles\openlayer.dir\src\Point.s
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Point.cpp -o CMakeFiles\openlayer.dir\src\Point.s
 
 CMakeFiles/openlayer.dir/src/Point.obj.requires:
 .PHONY : CMakeFiles/openlayer.dir/src/Point.obj.requires
@@ -581,18 +581,18 @@ CMakeFiles/openlayer.dir/src/Point.obj.provides.build: CMakeFiles/openlayer.dir/
 
 CMakeFiles/openlayer.dir/src/Polygon.obj: CMakeFiles/openlayer.dir/flags.make
 CMakeFiles/openlayer.dir/src/Polygon.obj: CMakeFiles/openlayer.dir/includes_CXX.rsp
-CMakeFiles/openlayer.dir/src/Polygon.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/Polygon.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_23)
+CMakeFiles/openlayer.dir/src/Polygon.obj: C:/Users/bibi/Documents/depot_christoph/whitecat_crossplateform/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/Polygon.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_23)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/openlayer.dir/src/Polygon.obj"
-	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\Polygon.obj -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Polygon.cpp
+	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\Polygon.obj -c C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Polygon.cpp
 
 CMakeFiles/openlayer.dir/src/Polygon.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openlayer.dir/src/Polygon.i"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Polygon.cpp > CMakeFiles\openlayer.dir\src\Polygon.i
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Polygon.cpp > CMakeFiles\openlayer.dir\src\Polygon.i
 
 CMakeFiles/openlayer.dir/src/Polygon.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openlayer.dir/src/Polygon.s"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Polygon.cpp -o CMakeFiles\openlayer.dir\src\Polygon.s
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Polygon.cpp -o CMakeFiles\openlayer.dir\src\Polygon.s
 
 CMakeFiles/openlayer.dir/src/Polygon.obj.requires:
 .PHONY : CMakeFiles/openlayer.dir/src/Polygon.obj.requires
@@ -605,18 +605,18 @@ CMakeFiles/openlayer.dir/src/Polygon.obj.provides.build: CMakeFiles/openlayer.di
 
 CMakeFiles/openlayer.dir/src/Rectangle.obj: CMakeFiles/openlayer.dir/flags.make
 CMakeFiles/openlayer.dir/src/Rectangle.obj: CMakeFiles/openlayer.dir/includes_CXX.rsp
-CMakeFiles/openlayer.dir/src/Rectangle.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/Rectangle.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_24)
+CMakeFiles/openlayer.dir/src/Rectangle.obj: C:/Users/bibi/Documents/depot_christoph/whitecat_crossplateform/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/Rectangle.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_24)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/openlayer.dir/src/Rectangle.obj"
-	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\Rectangle.obj -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Rectangle.cpp
+	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\Rectangle.obj -c C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Rectangle.cpp
 
 CMakeFiles/openlayer.dir/src/Rectangle.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openlayer.dir/src/Rectangle.i"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Rectangle.cpp > CMakeFiles\openlayer.dir\src\Rectangle.i
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Rectangle.cpp > CMakeFiles\openlayer.dir\src\Rectangle.i
 
 CMakeFiles/openlayer.dir/src/Rectangle.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openlayer.dir/src/Rectangle.s"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Rectangle.cpp -o CMakeFiles\openlayer.dir\src\Rectangle.s
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Rectangle.cpp -o CMakeFiles\openlayer.dir\src\Rectangle.s
 
 CMakeFiles/openlayer.dir/src/Rectangle.obj.requires:
 .PHONY : CMakeFiles/openlayer.dir/src/Rectangle.obj.requires
@@ -629,18 +629,18 @@ CMakeFiles/openlayer.dir/src/Rectangle.obj.provides.build: CMakeFiles/openlayer.
 
 CMakeFiles/openlayer.dir/src/regpng.obj: CMakeFiles/openlayer.dir/flags.make
 CMakeFiles/openlayer.dir/src/regpng.obj: CMakeFiles/openlayer.dir/includes_C.rsp
-CMakeFiles/openlayer.dir/src/regpng.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/regpng.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_25)
+CMakeFiles/openlayer.dir/src/regpng.obj: C:/Users/bibi/Documents/depot_christoph/whitecat_crossplateform/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/regpng.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_25)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/openlayer.dir/src/regpng.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\openlayer.dir\src\regpng.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\regpng.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\openlayer.dir\src\regpng.obj   -c C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\regpng.c
 
 CMakeFiles/openlayer.dir/src/regpng.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/openlayer.dir/src/regpng.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\regpng.c > CMakeFiles\openlayer.dir\src\regpng.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\regpng.c > CMakeFiles\openlayer.dir\src\regpng.i
 
 CMakeFiles/openlayer.dir/src/regpng.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/openlayer.dir/src/regpng.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\regpng.c -o CMakeFiles\openlayer.dir\src\regpng.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\regpng.c -o CMakeFiles\openlayer.dir\src\regpng.s
 
 CMakeFiles/openlayer.dir/src/regpng.obj.requires:
 .PHONY : CMakeFiles/openlayer.dir/src/regpng.obj.requires
@@ -653,18 +653,18 @@ CMakeFiles/openlayer.dir/src/regpng.obj.provides.build: CMakeFiles/openlayer.dir
 
 CMakeFiles/openlayer.dir/src/RenderModes.obj: CMakeFiles/openlayer.dir/flags.make
 CMakeFiles/openlayer.dir/src/RenderModes.obj: CMakeFiles/openlayer.dir/includes_CXX.rsp
-CMakeFiles/openlayer.dir/src/RenderModes.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/RenderModes.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_26)
+CMakeFiles/openlayer.dir/src/RenderModes.obj: C:/Users/bibi/Documents/depot_christoph/whitecat_crossplateform/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/RenderModes.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_26)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/openlayer.dir/src/RenderModes.obj"
-	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\RenderModes.obj -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\RenderModes.cpp
+	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\RenderModes.obj -c C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\RenderModes.cpp
 
 CMakeFiles/openlayer.dir/src/RenderModes.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openlayer.dir/src/RenderModes.i"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\RenderModes.cpp > CMakeFiles\openlayer.dir\src\RenderModes.i
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\RenderModes.cpp > CMakeFiles\openlayer.dir\src\RenderModes.i
 
 CMakeFiles/openlayer.dir/src/RenderModes.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openlayer.dir/src/RenderModes.s"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\RenderModes.cpp -o CMakeFiles\openlayer.dir\src\RenderModes.s
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\RenderModes.cpp -o CMakeFiles\openlayer.dir\src\RenderModes.s
 
 CMakeFiles/openlayer.dir/src/RenderModes.obj.requires:
 .PHONY : CMakeFiles/openlayer.dir/src/RenderModes.obj.requires
@@ -677,18 +677,18 @@ CMakeFiles/openlayer.dir/src/RenderModes.obj.provides.build: CMakeFiles/openlaye
 
 CMakeFiles/openlayer.dir/src/Rgba.obj: CMakeFiles/openlayer.dir/flags.make
 CMakeFiles/openlayer.dir/src/Rgba.obj: CMakeFiles/openlayer.dir/includes_CXX.rsp
-CMakeFiles/openlayer.dir/src/Rgba.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/Rgba.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_27)
+CMakeFiles/openlayer.dir/src/Rgba.obj: C:/Users/bibi/Documents/depot_christoph/whitecat_crossplateform/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/Rgba.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_27)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/openlayer.dir/src/Rgba.obj"
-	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\Rgba.obj -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Rgba.cpp
+	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\Rgba.obj -c C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Rgba.cpp
 
 CMakeFiles/openlayer.dir/src/Rgba.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openlayer.dir/src/Rgba.i"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Rgba.cpp > CMakeFiles\openlayer.dir\src\Rgba.i
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Rgba.cpp > CMakeFiles\openlayer.dir\src\Rgba.i
 
 CMakeFiles/openlayer.dir/src/Rgba.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openlayer.dir/src/Rgba.s"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Rgba.cpp -o CMakeFiles\openlayer.dir\src\Rgba.s
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Rgba.cpp -o CMakeFiles\openlayer.dir\src\Rgba.s
 
 CMakeFiles/openlayer.dir/src/Rgba.obj.requires:
 .PHONY : CMakeFiles/openlayer.dir/src/Rgba.obj.requires
@@ -701,18 +701,18 @@ CMakeFiles/openlayer.dir/src/Rgba.obj.provides.build: CMakeFiles/openlayer.dir/s
 
 CMakeFiles/openlayer.dir/src/savepng.obj: CMakeFiles/openlayer.dir/flags.make
 CMakeFiles/openlayer.dir/src/savepng.obj: CMakeFiles/openlayer.dir/includes_C.rsp
-CMakeFiles/openlayer.dir/src/savepng.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/savepng.c
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_28)
+CMakeFiles/openlayer.dir/src/savepng.obj: C:/Users/bibi/Documents/depot_christoph/whitecat_crossplateform/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/savepng.c
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_28)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/openlayer.dir/src/savepng.obj"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\openlayer.dir\src\savepng.obj   -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\savepng.c
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles\openlayer.dir\src\savepng.obj   -c C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\savepng.c
 
 CMakeFiles/openlayer.dir/src/savepng.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/openlayer.dir/src/savepng.i"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\savepng.c > CMakeFiles\openlayer.dir\src\savepng.i
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -E C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\savepng.c > CMakeFiles\openlayer.dir\src\savepng.i
 
 CMakeFiles/openlayer.dir/src/savepng.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/openlayer.dir/src/savepng.s"
-	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\savepng.c -o CMakeFiles\openlayer.dir\src\savepng.s
+	C:\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_FLAGS) -S C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\savepng.c -o CMakeFiles\openlayer.dir\src\savepng.s
 
 CMakeFiles/openlayer.dir/src/savepng.obj.requires:
 .PHONY : CMakeFiles/openlayer.dir/src/savepng.obj.requires
@@ -725,18 +725,18 @@ CMakeFiles/openlayer.dir/src/savepng.obj.provides.build: CMakeFiles/openlayer.di
 
 CMakeFiles/openlayer.dir/src/Settings.obj: CMakeFiles/openlayer.dir/flags.make
 CMakeFiles/openlayer.dir/src/Settings.obj: CMakeFiles/openlayer.dir/includes_CXX.rsp
-CMakeFiles/openlayer.dir/src/Settings.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/Settings.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_29)
+CMakeFiles/openlayer.dir/src/Settings.obj: C:/Users/bibi/Documents/depot_christoph/whitecat_crossplateform/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/Settings.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_29)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/openlayer.dir/src/Settings.obj"
-	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\Settings.obj -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Settings.cpp
+	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\Settings.obj -c C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Settings.cpp
 
 CMakeFiles/openlayer.dir/src/Settings.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openlayer.dir/src/Settings.i"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Settings.cpp > CMakeFiles\openlayer.dir\src\Settings.i
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Settings.cpp > CMakeFiles\openlayer.dir\src\Settings.i
 
 CMakeFiles/openlayer.dir/src/Settings.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openlayer.dir/src/Settings.s"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Settings.cpp -o CMakeFiles\openlayer.dir\src\Settings.s
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Settings.cpp -o CMakeFiles\openlayer.dir\src\Settings.s
 
 CMakeFiles/openlayer.dir/src/Settings.obj.requires:
 .PHONY : CMakeFiles/openlayer.dir/src/Settings.obj.requires
@@ -749,18 +749,18 @@ CMakeFiles/openlayer.dir/src/Settings.obj.provides.build: CMakeFiles/openlayer.d
 
 CMakeFiles/openlayer.dir/src/Setup.obj: CMakeFiles/openlayer.dir/flags.make
 CMakeFiles/openlayer.dir/src/Setup.obj: CMakeFiles/openlayer.dir/includes_CXX.rsp
-CMakeFiles/openlayer.dir/src/Setup.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/Setup.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_30)
+CMakeFiles/openlayer.dir/src/Setup.obj: C:/Users/bibi/Documents/depot_christoph/whitecat_crossplateform/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/Setup.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_30)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/openlayer.dir/src/Setup.obj"
-	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\Setup.obj -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Setup.cpp
+	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\Setup.obj -c C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Setup.cpp
 
 CMakeFiles/openlayer.dir/src/Setup.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openlayer.dir/src/Setup.i"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Setup.cpp > CMakeFiles\openlayer.dir\src\Setup.i
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Setup.cpp > CMakeFiles\openlayer.dir\src\Setup.i
 
 CMakeFiles/openlayer.dir/src/Setup.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openlayer.dir/src/Setup.s"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Setup.cpp -o CMakeFiles\openlayer.dir\src\Setup.s
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Setup.cpp -o CMakeFiles\openlayer.dir\src\Setup.s
 
 CMakeFiles/openlayer.dir/src/Setup.obj.requires:
 .PHONY : CMakeFiles/openlayer.dir/src/Setup.obj.requires
@@ -773,18 +773,18 @@ CMakeFiles/openlayer.dir/src/Setup.obj.provides.build: CMakeFiles/openlayer.dir/
 
 CMakeFiles/openlayer.dir/src/Shape.obj: CMakeFiles/openlayer.dir/flags.make
 CMakeFiles/openlayer.dir/src/Shape.obj: CMakeFiles/openlayer.dir/includes_CXX.rsp
-CMakeFiles/openlayer.dir/src/Shape.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/Shape.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_31)
+CMakeFiles/openlayer.dir/src/Shape.obj: C:/Users/bibi/Documents/depot_christoph/whitecat_crossplateform/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/Shape.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_31)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/openlayer.dir/src/Shape.obj"
-	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\Shape.obj -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Shape.cpp
+	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\Shape.obj -c C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Shape.cpp
 
 CMakeFiles/openlayer.dir/src/Shape.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openlayer.dir/src/Shape.i"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Shape.cpp > CMakeFiles\openlayer.dir\src\Shape.i
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Shape.cpp > CMakeFiles\openlayer.dir\src\Shape.i
 
 CMakeFiles/openlayer.dir/src/Shape.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openlayer.dir/src/Shape.s"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Shape.cpp -o CMakeFiles\openlayer.dir\src\Shape.s
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Shape.cpp -o CMakeFiles\openlayer.dir\src\Shape.s
 
 CMakeFiles/openlayer.dir/src/Shape.obj.requires:
 .PHONY : CMakeFiles/openlayer.dir/src/Shape.obj.requires
@@ -797,18 +797,18 @@ CMakeFiles/openlayer.dir/src/Shape.obj.provides.build: CMakeFiles/openlayer.dir/
 
 CMakeFiles/openlayer.dir/src/TextRenderer.obj: CMakeFiles/openlayer.dir/flags.make
 CMakeFiles/openlayer.dir/src/TextRenderer.obj: CMakeFiles/openlayer.dir/includes_CXX.rsp
-CMakeFiles/openlayer.dir/src/TextRenderer.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/TextRenderer.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_32)
+CMakeFiles/openlayer.dir/src/TextRenderer.obj: C:/Users/bibi/Documents/depot_christoph/whitecat_crossplateform/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/TextRenderer.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_32)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/openlayer.dir/src/TextRenderer.obj"
-	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\TextRenderer.obj -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\TextRenderer.cpp
+	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\TextRenderer.obj -c C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\TextRenderer.cpp
 
 CMakeFiles/openlayer.dir/src/TextRenderer.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openlayer.dir/src/TextRenderer.i"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\TextRenderer.cpp > CMakeFiles\openlayer.dir\src\TextRenderer.i
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\TextRenderer.cpp > CMakeFiles\openlayer.dir\src\TextRenderer.i
 
 CMakeFiles/openlayer.dir/src/TextRenderer.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openlayer.dir/src/TextRenderer.s"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\TextRenderer.cpp -o CMakeFiles\openlayer.dir\src\TextRenderer.s
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\TextRenderer.cpp -o CMakeFiles\openlayer.dir\src\TextRenderer.s
 
 CMakeFiles/openlayer.dir/src/TextRenderer.obj.requires:
 .PHONY : CMakeFiles/openlayer.dir/src/TextRenderer.obj.requires
@@ -821,18 +821,18 @@ CMakeFiles/openlayer.dir/src/TextRenderer.obj.provides.build: CMakeFiles/openlay
 
 CMakeFiles/openlayer.dir/src/TexturedPoly.obj: CMakeFiles/openlayer.dir/flags.make
 CMakeFiles/openlayer.dir/src/TexturedPoly.obj: CMakeFiles/openlayer.dir/includes_CXX.rsp
-CMakeFiles/openlayer.dir/src/TexturedPoly.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/TexturedPoly.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_33)
+CMakeFiles/openlayer.dir/src/TexturedPoly.obj: C:/Users/bibi/Documents/depot_christoph/whitecat_crossplateform/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/TexturedPoly.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_33)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/openlayer.dir/src/TexturedPoly.obj"
-	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\TexturedPoly.obj -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\TexturedPoly.cpp
+	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\TexturedPoly.obj -c C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\TexturedPoly.cpp
 
 CMakeFiles/openlayer.dir/src/TexturedPoly.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openlayer.dir/src/TexturedPoly.i"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\TexturedPoly.cpp > CMakeFiles\openlayer.dir\src\TexturedPoly.i
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\TexturedPoly.cpp > CMakeFiles\openlayer.dir\src\TexturedPoly.i
 
 CMakeFiles/openlayer.dir/src/TexturedPoly.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openlayer.dir/src/TexturedPoly.s"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\TexturedPoly.cpp -o CMakeFiles\openlayer.dir\src\TexturedPoly.s
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\TexturedPoly.cpp -o CMakeFiles\openlayer.dir\src\TexturedPoly.s
 
 CMakeFiles/openlayer.dir/src/TexturedPoly.obj.requires:
 .PHONY : CMakeFiles/openlayer.dir/src/TexturedPoly.obj.requires
@@ -845,18 +845,18 @@ CMakeFiles/openlayer.dir/src/TexturedPoly.obj.provides.build: CMakeFiles/openlay
 
 CMakeFiles/openlayer.dir/src/TextureInfo.obj: CMakeFiles/openlayer.dir/flags.make
 CMakeFiles/openlayer.dir/src/TextureInfo.obj: CMakeFiles/openlayer.dir/includes_CXX.rsp
-CMakeFiles/openlayer.dir/src/TextureInfo.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/TextureInfo.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_34)
+CMakeFiles/openlayer.dir/src/TextureInfo.obj: C:/Users/bibi/Documents/depot_christoph/whitecat_crossplateform/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/TextureInfo.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_34)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/openlayer.dir/src/TextureInfo.obj"
-	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\TextureInfo.obj -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\TextureInfo.cpp
+	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\TextureInfo.obj -c C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\TextureInfo.cpp
 
 CMakeFiles/openlayer.dir/src/TextureInfo.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openlayer.dir/src/TextureInfo.i"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\TextureInfo.cpp > CMakeFiles\openlayer.dir\src\TextureInfo.i
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\TextureInfo.cpp > CMakeFiles\openlayer.dir\src\TextureInfo.i
 
 CMakeFiles/openlayer.dir/src/TextureInfo.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openlayer.dir/src/TextureInfo.s"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\TextureInfo.cpp -o CMakeFiles\openlayer.dir\src\TextureInfo.s
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\TextureInfo.cpp -o CMakeFiles\openlayer.dir\src\TextureInfo.s
 
 CMakeFiles/openlayer.dir/src/TextureInfo.obj.requires:
 .PHONY : CMakeFiles/openlayer.dir/src/TextureInfo.obj.requires
@@ -869,18 +869,18 @@ CMakeFiles/openlayer.dir/src/TextureInfo.obj.provides.build: CMakeFiles/openlaye
 
 CMakeFiles/openlayer.dir/src/Transforms.obj: CMakeFiles/openlayer.dir/flags.make
 CMakeFiles/openlayer.dir/src/Transforms.obj: CMakeFiles/openlayer.dir/includes_CXX.rsp
-CMakeFiles/openlayer.dir/src/Transforms.obj: C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/Transforms.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_35)
+CMakeFiles/openlayer.dir/src/Transforms.obj: C:/Users/bibi/Documents/depot_christoph/whitecat_crossplateform/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1/src/Transforms.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles $(CMAKE_PROGRESS_35)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/openlayer.dir/src/Transforms.obj"
-	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\Transforms.obj -c C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Transforms.cpp
+	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles\openlayer.dir\src\Transforms.obj -c C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Transforms.cpp
 
 CMakeFiles/openlayer.dir/src/Transforms.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openlayer.dir/src/Transforms.i"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Transforms.cpp > CMakeFiles\openlayer.dir\src\Transforms.i
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -E C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Transforms.cpp > CMakeFiles\openlayer.dir\src\Transforms.i
 
 CMakeFiles/openlayer.dir/src/Transforms.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openlayer.dir/src/Transforms.s"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Transforms.cpp -o CMakeFiles\openlayer.dir\src\Transforms.s
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_FLAGS) -S C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1\src\Transforms.cpp -o CMakeFiles\openlayer.dir\src\Transforms.s
 
 CMakeFiles/openlayer.dir/src/Transforms.obj.requires:
 .PHONY : CMakeFiles/openlayer.dir/src/Transforms.obj.requires
@@ -1019,6 +1019,6 @@ CMakeFiles/openlayer.dir/clean:
 .PHONY : CMakeFiles/openlayer.dir/clean
 
 CMakeFiles/openlayer.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1 C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1 C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW C:\Users\bibi\Documents\GitHub\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles\openlayer.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1 C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1 C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW C:\Users\bibi\Documents\depot_christoph\whitecat_crossplateform\whitecatlib\lib\libsource\openlayer-2.1perso\openlayer-2.1+borderless\openlayer-2.1MinGW\CMakeFiles\openlayer.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/openlayer.dir/depend
 
