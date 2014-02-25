@@ -1,3 +1,0 @@
-C:/Users/bibi/Documents/depot_christoph/whitecat_crossplateform/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1MinGW/utils/glyphkeeper/CMakeFiles/glyph-agl.dir
-C:/Users/bibi/Documents/depot_christoph/whitecat_crossplateform/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1MinGW/CMakeFiles/openlayer.dir
-C:/Users/bibi/Documents/depot_christoph/whitecat_crossplateform/whitecatlib/lib/libsource/openlayer-2.1perso/openlayer-2.1+borderless/openlayer-2.1MinGW/CMakeFiles/uninstall.dir

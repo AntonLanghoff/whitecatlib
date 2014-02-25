@@ -1,2 +1,0 @@
-C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetypeMinGW/CMakeFiles/dist.dir
-C:/Users/bibi/Documents/GitHub/whitecatlib/lib/libsource/openlayer-2.1perso/dependance/freetype-2.5.2/freetypeMinGW/CMakeFiles/freetype.dir
